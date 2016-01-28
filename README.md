@@ -25,3 +25,7 @@ Your local aegir-coop-docs site should now be available for browsing: http://127
 
 Visit your fork on Github and start a Pull Request.
 
+To update the live site with changes, mkdocs provides a simple command to do so:
+
+    $ mkdocs gh-deploy --clean
+
