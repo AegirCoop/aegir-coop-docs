@@ -17,7 +17,7 @@ div.policy div.wy-table-responsive {
   margin-bottom: 0;
 }
 
-td.basically {
+div.policy table.docutils td.basically {
   font-size: large;
   font-weight: bold;
   vertical-align: top
