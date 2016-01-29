@@ -1,0 +1,16 @@
+.wy-side-nav-search {
+  background-color: #0A1F36;
+}
+
+a.icon.icon-home:before {
+  background:url('../_images/logo.png');
+  width: 58px;
+  height: 38px;
+  content: '';
+  background-repeat: no-repeat;
+}
+
+a.icon.icon-home {
+  font-size: xx-large;
+  margin-bottom: 0;
+}
