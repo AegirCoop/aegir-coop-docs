@@ -46,10 +46,10 @@ cooperative in the course of its business is subject:
    equity among members;
 
 The rebate is granted in proportion to the operations carried out by these
-persons with the cooperative during the <number> financial years preceding the
-person or persons cease to be members of the cooperative.
+persons with the cooperative during the **[number]** financial years preceding
+the person or persons cease to be members of the cooperative.
 
-### Article 5: Sharing the enhancement reserve in case of liquidation 
+### Article 5: Sharing the enhancement reserve in case of liquidation
 
 In the case of the liquidation of the cooperative, the balance of the
 enhancement reserve as defined in section 185 of the Act, is given to
@@ -58,10 +58,10 @@ period including five years financial preceding that during which the
 liquidation was passed.
 
 This collection takes place in proportion to the operations carried out by
-these persons with the cooperative during the <number which can not
-be less than five> financial years preceding the liquidation of the cooperative.
+these persons with the cooperative during the **[number (5 or greater)]**
+financial years preceding the liquidation of the cooperative.
 
-### Article 6: Monitoring the enhancement reserve 
+### Article 6: Monitoring the enhancement reserve
 
 Any deficit of the cooperative is deducted in priority the enhancement reserve.
 
@@ -74,12 +74,12 @@ additional rebates policy to the outgoing members and any changes thereto.
 
 ### Article 7: Coming into force
 
-This regulation shall enter into force on <date>.
+This regulation shall enter into force on **[date]**.
 
 
 
 
-Date: _____________________
+Date:
 
-Secretary: ______________________________________________
+Secretary:
 

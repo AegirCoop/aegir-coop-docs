@@ -1,13 +1,10 @@
 p.intro {
   font-size: x-large;
 }
+
 table.docutils {
   table-layout: fixed;
   width: 100%;
-}
-
-div.wy-table-responsive {
-  margin-bottom: 0;
 }
 
 table.docutils td {
@@ -16,7 +13,11 @@ table.docutils td {
   vertical-align: top
 }
 
-table.docutils tbody td:nth-child(2) {
+div.policy div.wy-table-responsive {
+  margin-bottom: 0;
+}
+
+td.basically {
   font-size: large;
   font-weight: bold;
   vertical-align: top

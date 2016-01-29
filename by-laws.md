@@ -9,13 +9,16 @@ Chapter I:  Definitions [](by-laws/comments.md#chapter-i-definitions){: .fa .fa-
 
 In these internal bylaws, these terms are defined as follows:
 
-1. _"the cooperative"_: the Aegir Cooperative.
-2. _"the law"_: Cooperatives Act, [CQLR c C-67.2](http://canlii.ca/t/x9f).
-3. _"the Board"_: the Board of Directors of the cooperative.
-4. _"worker"_: a person who can perform any kind of work for the cooperative.
-5. _"producer"_: a person or company that provides Aegir support on behalf of the cooperative.
-6. _"member"_: a natural or legal person having been duly accepted as a member of the cooperative.
-7. _"auxiliary members"_: any enterprises or self-employed contractors wishing to become a member.
+1. **"the cooperative"**: the Aegir Cooperative.
+2. **"the law"**: Cooperatives Act, [CQLR c C-67.2](http://canlii.ca/t/x9f).
+3. **"the Board"**: the Board of Directors of the cooperative.
+4. **"worker"**: a person who can perform any kind of work for the cooperative.
+5. **"producer"**: a person or company that provides Aegir support on behalf of
+   the cooperative.
+6. **"member"**: a natural or legal person having been duly accepted as a
+   member of the cooperative.
+7. **"auxiliary members"**: any enterprises or self-employed contractors
+   wishing to become a member.
 
 
 Chapter II: Constitution [](by-laws/comments.md#chapter-ii-constitution){: .fa .fa-question-circle}
@@ -24,7 +27,7 @@ Chapter II: Constitution [](by-laws/comments.md#chapter-ii-constitution){: .fa .
 ### 1. Incorporation of the cooperative [](by-laws/comments.md#1-incorporation-of-the-cooperative){: .fa .fa-question-circle}
 
 This cooperative was formed April 1st, 2016, under the name
-*Aegir Cooperative*, under the Cooperatives Act, CQLR, Chap.c-67.2.
+**Aegir Cooperative**, under the Cooperatives Act, CQLR, Chap.c-67.2.
 
 ### 2. Head office [](by-laws/comments.md#2-head-office){: .fa .fa-question-circle}
 
@@ -33,9 +36,10 @@ Pointe-Claire, Québec, Canada.
 
 ### 3. Goals [](by-laws/comments.md#3-goals){: .fa .fa-question-circle}
 
-** The cooperative aims to:
+\*\* The cooperative aims to:
+
 Operate a business in order to provide its members with goods and services for
-the exercise of their profession ... " ...
+the exercise of their profession [...]
 
 
 Chapter III:  Social Capital [](by-laws/comments.md#chapter-iii-social-capital){: .fa .fa-question-circle}

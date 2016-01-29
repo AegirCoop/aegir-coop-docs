@@ -1,8 +1,8 @@
 ﻿Regulations Liaison Committee
 =============================
 
-(mandatory if the cooperative has over 50 members and auxiliary members
-workers)
+**[mandatory if the cooperative has over 50 members and auxiliary members
+workers]**
 
 
 BY-LAW NUMBER 5
@@ -38,22 +38,25 @@ cooperative action by the company. To this end, it:
 
 ### Article 2: Composition
 
-The liaison committee is composed of X members from the following groups: 
+The liaison committee is composed of **[number]** members from the following
+groups:
 
-Administrators                    = X member(s)
-non-administrator membership      = X member(s)
-others                            = X member(s)
+|                Group              |         Number         |
+| --------------------------------- | ---------------------- |
+| Administrators                    | **[number]** member(s) |
+| non-administrator membership      | **[number]** member(s) |
+| others                            | **[number]** member(s) |
 
-Committee members are appointed as follows: <appointment process>
+Committee members are appointed as follows: **[appointment process]**
 
-Their mandate is for a period of X years and they are replaced by the following
-rotation mode: <rotation mode>. 
+Their mandate is for a period of **[number]** years and they are replaced by
+the following rotation mode: **[rotation mode]**.
 
 Article 3: Meetings
 -------------------
 
 The liaison committee will meet as often as necessary for the interests of the
-cooperative, but at least X times per year.
+cooperative, but at least **[number]** times per year.
 
 Article 4: Tasks
 ----------------
@@ -74,8 +77,9 @@ activities.
 Article 6: Coming into force
 ----------------------------
 
-This regulation shall enter into force on <date>. 
+This regulation shall enter into force on **[date]**.
 
-Date: YYYY/MM/DD
+Date: **[date]**
 
-Secretary: <name>
+Secretary: **[name]**
+
