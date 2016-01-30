@@ -4,7 +4,7 @@
     
     <url>
      <loc>None/</loc>
-     <lastmod>2016-01-29</lastmod>
+     <lastmod>2016-01-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,7 +12,7 @@
     
     <url>
      <loc>None/by-laws/</loc>
-     <lastmod>2016-01-29</lastmod>
+     <lastmod>2016-01-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -20,74 +20,68 @@
     
         
     <url>
-     <loc>None/by-laws/comments/</loc>
-     <lastmod>2016-01-29</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/by-laws/annex1/</loc>
-     <lastmod>2016-01-29</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/by-laws/admission2/</loc>
-     <lastmod>2016-01-29</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/by-laws/annex2/</loc>
-     <lastmod>2016-01-29</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/by-laws/admission2/</loc>
-     <lastmod>2016-01-29</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/by-laws/annex3/</loc>
-     <lastmod>2016-01-29</lastmod>
+     <loc>None/by-laws/by-law1/</loc>
+     <lastmod>2016-01-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/by-laws/by-law2/</loc>
-     <lastmod>2016-01-29</lastmod>
+     <lastmod>2016-01-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/by-laws/by-law3/</loc>
-     <lastmod>2016-01-29</lastmod>
+     <lastmod>2016-01-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/by-laws/by-law4/</loc>
-     <lastmod>2016-01-29</lastmod>
+     <lastmod>2016-01-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/by-laws/by-law5/</loc>
-     <lastmod>2016-01-29</lastmod>
+     <lastmod>2016-01-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/by-laws/changes/</loc>
-     <lastmod>2016-01-29</lastmod>
+     <loc>None/by-laws/annexes/</loc>
+     <lastmod>2016-01-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/by-laws/shares/</loc>
-     <lastmod>2016-01-29</lastmod>
+     <loc>None</loc>
+     <lastmod></lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/by-laws/examples/</loc>
+     <lastmod>2016-01-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None</loc>
+     <lastmod></lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/by-laws/commentary/</loc>
+     <lastmod>2016-01-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None</loc>
+     <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -96,7 +90,7 @@
     
     <url>
      <loc>None/policies/</loc>
-     <lastmod>2016-01-29</lastmod>
+     <lastmod>2016-01-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -105,19 +99,19 @@
         
     <url>
      <loc>None/policies/terms-of-service/</loc>
-     <lastmod>2016-01-29</lastmod>
+     <lastmod>2016-01-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/policies/privacy-policy/</loc>
-     <lastmod>2016-01-29</lastmod>
+     <lastmod>2016-01-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/policies/acceptable-use-policy/</loc>
-     <lastmod>2016-01-29</lastmod>
+     <lastmod>2016-01-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
