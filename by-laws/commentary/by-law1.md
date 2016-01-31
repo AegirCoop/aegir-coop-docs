@@ -9,7 +9,7 @@ BY-LAW NUMBER 1
 Chapter I:  Definitions [](../by-law1.md#chapter-i-definitions){: .fa .fa-bookmark}
 -----------------------
 
-### 1. Definitions [](../by-law1.md#1-definitions){: .fa .fa-bookmark}
+### Article 1: Definitions [](../by-law1.md#article-1-definitions){: .fa .fa-bookmark}
 
 Basic definitions help avoid confusion in the interpretation of articles of the
 by-laws. We recommend clearly defining the most frequently used terms and all
@@ -24,15 +24,15 @@ Chapter II: Constitution [](../by-law1.md#chapter-ii-constitution){: .fa .fa-boo
 Articles of Chapter II serve to inform. They are, however, included in the
 articles of incorporation of the cooperative.
 
-### 1. Incorporation of the cooperative [](../by-law1.md#1-incorporation-of-the-cooperative){: .fa .fa-bookmark}
+### Article 1: Incorporation of the cooperative [](../by-law1.md#article-1-incorporation-of-the-cooperative){: .fa .fa-bookmark}
 
 Date and name of the cooperative and the law that governed its incorporation.
 
-### 2. Head office [](../by-law1.md#2-head-office){: .fa .fa-bookmark}
+### Article 2: Head office [](../by-law1.md#article-2-head-office){: .fa .fa-bookmark}
 
 The cooperative's head office address.
 
-### 3. Goals [](../by-law1.md#3-goals){: .fa .fa-bookmark}
+### Article 3: Goals [](../by-law1.md#article-3-goals){: .fa .fa-bookmark}
 
 A producer cooperative must have an objective in its statutes to provide
 professional utility services to its members. Some cooperatives add other goals
@@ -47,7 +47,7 @@ Chapter III:  Social Capital [](../by-law1.md#chapter-iii-social-capital){: .fa 
 
 (ref. Articles 37-49 of the Law)
 
-### 1. Qualifying shares [](../by-law1.md#1-qualifying-shares){: .fa .fa-bookmark}
+### Article 1: Qualifying shares [](../by-law1.md#article-1-qualifying-shares){: .fa .fa-bookmark}
 
 Note: The number of qualifying shares may vary according to the nature of
 operations in which the member participates and by service volume that the
@@ -66,24 +66,24 @@ the rest in preferred shares since the latter are eligible for significant tax
 advantages and may bear interest (this interest should be limited), which is
 not the case for the common shares.
 
-### 2. Payment terms [](../by-law1.md#2-payment-terms){: .fa .fa-bookmark}
+### Article 2: Payment terms [](../by-law1.md#article-2-payment-terms){: .fa .fa-bookmark}
 
 Qualifying shares may be paid in several ways: in full upon admission to
 membership or fixed payments. Although full payment upon admission proves a
 real commitment to the cooperative, requiring it could limit the admission of
 interesting candidates who do not have the necessary funds.
 
-### 3. Reimbursement of shares [](../by-law1.md#3-reimbursement-of-shares){: .fa .fa-bookmark}
+### Article 3: Reimbursement of shares [](../by-law1.md#article-3-reimbursement-of-shares){: .fa .fa-bookmark}
 
 Reimbursement of shares is done upon departure of a member, but the board may
 determine priorities among the items listed in the law.
 
-### 4. Transfer of shares [](../by-law1.md#4-transfer-of-shares){: .fa .fa-bookmark}
+### Article 4: Transfer of shares [](../by-law1.md#article-4-transfer-of-shares){: .fa .fa-bookmark}
 
 Preferred shares are transferable under the conditions set by the Board in
 accordance with Article 46 of the Law.
 
-### 5. Preferred shares\* [](../by-law1.md#5-preferred-shares){: .fa .fa-bookmark}
+### Article 5: Preferred shares\* [](../by-law1.md#article-5-preferred-shares){: .fa .fa-bookmark}
 
 The Board sets all rules on the issuance of preferred shares: interest rates,
 redemption terms, etc. The Cooperative Department provides a template for Board
@@ -91,7 +91,7 @@ resolutions. This template is made based on the eligibility of preferred shares
 to the Cooperative Investment Plan (CIP), which provides a tax deduction of up
 to 125% to the cooperative members or workers who invest in preferred shares.
 
-### 6. Redemption, repayment or transfer of preferred shares [](../by-law1.md#6-redemption-repayment-or-transfer-of-preferred-shares){: .fa .fa-bookmark}
+### Article 6: Redemption, repayment or transfer of preferred shares [](../by-law1.md#article-6-redemption-repayment-or-transfer-of-preferred-shares){: .fa .fa-bookmark}
 
 Subject to the restrictions provided for in Article 38 of the law, the
 preferred shares are redeemable or redeemable under the conditions set by the
@@ -116,7 +116,7 @@ Chapter IV: Members [](../by-law1.md#chapter-iv-members){: .fa .fa-bookmark}
 
 (ref. 51 Articles 60.2, 224.1 and 224.2 of the Act)
 
-### 1. Admission requirements [](../by-law1.md#1-admission-requirements){: .fa .fa-bookmark}
+### Article 1: Admission requirements [](../by-law1.md#article-1-admission-requirements){: .fa .fa-bookmark}
 
 The law does not require the cooperative to implement a process of integration
 of members through the auxiliary member status. If the cooperative does not
@@ -166,14 +166,14 @@ Act, RSC., C. C-67.2., Article 3.1. C)
 
 The cooperative may establish additional conditions for admission.
 
-### 2. Rights of auxiliary members [](../by-law1.md#2-rights-of-auxiliary-members){: .fa .fa-bookmark}
+### Article 2: Rights of auxiliary members [](../by-law1.md#article-2-rights-of-auxiliary-members){: .fa .fa-bookmark}
 
 (This section is optional.)
 
 There is no requirement for a cooperative to convoke auxiliary members.
 However, their presence at meetings can promote integration and training.
 
-### 3. Territory or recruitment group [](../by-law1.md#3-territory-or-recruitment-group){: .fa .fa-bookmark}
+### Article 3: Territory or recruitment group [](../by-law1.md#article-3-territory-or-recruitment-group){: .fa .fa-bookmark}
 
 (This section is optional.)
 
@@ -185,7 +185,7 @@ of a cultural community or women only.
 It should however be careful that these criteria are not considered
 discriminatory (see Human Rights).
 
-### 4. Suspension or exclusion\*\* [](../by-law1.md#4-suspension-or-exclusion){: .fa .fa-bookmark}
+### Article 4: Suspension or exclusion\*\* [](../by-law1.md#article-4-suspension-or-exclusion){: .fa .fa-bookmark}
 
 (This section is optional.)
 
@@ -198,7 +198,7 @@ article must therefore be applied discriminately.
 The law also provides a number of procedures for the suspension or expulsion of
 a member.
 
-### 5. Suspension of voting rights [](../by-law1.md#5-suspension-of-voting-rights){: .fa .fa-bookmark}
+### Article 5: Suspension of voting rights [](../by-law1.md#article-5-suspension-of-voting-rights){: .fa .fa-bookmark}
 
 (This section is optional.)
 
@@ -210,7 +210,7 @@ may apply this provision of the law.
 The membership contract should determine the cooperative's obligations to offer
 services to its members.
 
-### 6. Sharing contracts [](../by-law1.md#6-sharing-contracts){: .fa .fa-bookmark}
+### Article 6: Sharing contracts [](../by-law1.md#article-6-sharing-contracts){: .fa .fa-bookmark}
 
 The regulation should minimally specify the grounds for the allocation of
 contracts.
@@ -226,7 +226,7 @@ This article limits the priority of the member if he does not respond in time
 to a call. It thus enables the cooperative to be more efficient in the
 allocation of contracts.
 
-### 7. Member Agreement [](../by-law1.md#7-member-agreement){: .fa .fa-bookmark}
+### Article 7: Member Agreement [](../by-law1.md#article-7-member-agreement){: .fa .fa-bookmark}
 
 (This section is optional.)
 
@@ -260,39 +260,39 @@ holding follow specific procedures to avoid any confusion or misunderstanding.
 Some cooperatives (particularly those with significant membership) adopt a code
 of procedure known as the Morin code or the CSN code to hold their assemblies.
 
-### 1. General Assembly [](../by-law1.md#1-general-assembly){: .fa .fa-bookmark}
+### Article 1: General Assembly [](../by-law1.md#article-1-general-assembly){: .fa .fa-bookmark}
 
 This article confirms the Board of Directors' power to convene the General
 Assembly. However, the law allows members of the cooperative to convene an
 Extraordinary General Assembly.
 
-### 2. Remote participation [](../by-law1.md#2-remote-participation){: .fa .fa-bookmark}
+### Article 2: Remote participation [](../by-law1.md#article-2-remote-participation){: .fa .fa-bookmark}
 
 (This section is optional)
 
-### 3. Notice of Meeting [](../by-law1.md#3-notice-of-meeting){: .fa .fa-bookmark}
+### Article 3: Notice of Meeting [](../by-law1.md#article-3-notice-of-meeting){: .fa .fa-bookmark}
 
 In determining the rules of convocation, we make sure to avoid disputes and
 thus ensure the official nature of the decisions taken.
 
-### 4. Annual General Assembly\*\* [](../by-law1.md#4-annual-general-assembly){: .fa .fa-bookmark}
+### Article 4: Annual General Assembly\*\* [](../by-law1.md#article-4-annual-general-assembly){: .fa .fa-bookmark}
 
 Recall the rule prescribed by law (Article 76). The presence of this article in
 the law may allow members to advise the Board if the meeting is not held in
 time.
 
-### 5. Transmission of the Annual Report [](../by-law1.md#5-transmission-of-the-annual-report){: .fa .fa-bookmark}
+### Article 5: Transmission of the Annual Report [](../by-law1.md#article-5-transmission-of-the-annual-report){: .fa .fa-bookmark}
 
 (This section is optional)
 
-### 6. Extraordinary General Assembly\*\* [](../by-law1.md#6-extraordinary-general-assembly){: .fa .fa-bookmark}
+### Article 6: Extraordinary General Assembly\*\* [](../by-law1.md#article-6-extraordinary-general-assembly){: .fa .fa-bookmark}
 
 As Article 2 of this chapter, this article is a reminder of the rights of
 members. The extraordinary General Assembly (special general meeting) can be
 called by the board but it is important for members to know that they also have
 that power.
 
-### 7. Quorum\* [](../by-law1.md#7-quorum){: .fa .fa-bookmark}
+### Article 7: Quorum\* [](../by-law1.md#article-7-quorum){: .fa .fa-bookmark}
 
 A quorum is the minimum of members present to ensure that decisions taken at a
 meeting to be valid. The law limits the quorum for a meeting with the members
@@ -309,14 +309,14 @@ It should be noted that according to the law (Article 64), the quorum ceases to
 apply after convening two successive meetings where there was no quorum. The
 second meeting may be held even if the quorum is not reached.
 
-### 8. Vote [](../by-law1.md#8-vote){: .fa .fa-bookmark}
+### Article 8: Vote [](../by-law1.md#article-8-vote){: .fa .fa-bookmark}
 
 For some delicate decisions, the members desire not to express their views
 publicly. For example, a person to vote against the interests of its work or
 coordinating its partners could, if the vote is by show of hands, suffer the
 blow-cons in his working relationships. It is important to respect that right.
 
-### 9. Representation [](../by-law1.md#9-representation){: .fa .fa-bookmark}
+### Article 9: Representation [](../by-law1.md#article-9-representation){: .fa .fa-bookmark}
 
 An individual member can not physically be represented.
 
@@ -326,7 +326,7 @@ Chapter VI:  Board of Directors [](../by-law1.md#chapter-vi-board-of-directors){
 
 (ref. 80 Articles 106.1 and 223.2 of the Act)
 
-### 1. Eligibility of members\* [](../by-law1.md#1-eligibility-of-members){: .fa .fa-bookmark}
+### Article 1: Eligibility of members\* [](../by-law1.md#article-1-eligibility-of-members){: .fa .fa-bookmark}
 
 (This section is optional)
 
@@ -345,7 +345,7 @@ bylaws.
    Maturities on qualifying shares are those who are late according to the
    regulation.
 
-### 2. Eligibility of non-members\* [](../by-law1.md#2-eligibility-of-non-members){: .fa .fa-bookmark}
+### Article 2: Eligibility of non-members\* [](../by-law1.md#article-2-eligibility-of-non-members){: .fa .fa-bookmark}
 
 (This section is optional)
 
@@ -355,7 +355,7 @@ the total number of directorships. These candidates are usually resource
 persons or external investors. The law gives the council the power to recommend
 the candidate to the Assembly.
 
-### 3. Observer membership\* [](../by-law1.md#3-observer-membership){: .fa .fa-bookmark}
+### Article 3: Observer membership\* [](../by-law1.md#article-3-observer-membership){: .fa .fa-bookmark}
 
 (This section is optional)
 
@@ -372,7 +372,7 @@ the Board in the context of possibly filling a director position.
 It should also provide the conditions by which refusal is acceptable, for
 example because of the confidential nature of the decisions required.
 
-### 4. Composition [](../by-law1.md#4-composition){: .fa .fa-bookmark}
+### Article 4: Composition [](../by-law1.md#article-4-composition){: .fa .fa-bookmark}
 
 The number of directors, including non-members, is a minimum of three and a
 maximum of fifteen. An odd number is recommended to avoid ties in voting.
@@ -382,7 +382,7 @@ of the cooperative. Other considerations such as the effectiveness of the board
 or the centralization of power (or de-centralization) are often among the items
 discussed.
 
-### 5. Powers of the Board [](../by-law1.md#5-powers-of-the-board){: .fa .fa-bookmark}
+### Article 5: Powers of the Board [](../by-law1.md#article-5-powers-of-the-board){: .fa .fa-bookmark}
 
 While these powers are defined by law, it is pertinent to inform the members of
 the powers of their boards.
@@ -393,12 +393,12 @@ ensure that respect all members not be treated lightly by the board. The choice
 of such restrictions of Board power must take into account the efficiency of
 operations and the general will of the members.
 
-### 6. Duties of the Board\*\* [](../by-law1.md#6-duties-of-the-board){: .fa .fa-bookmark}
+### Article 6: Duties of the Board\*\* [](../by-law1.md#article-6-duties-of-the-board){: .fa .fa-bookmark}
 
 The board's duties are drawn from the law. Their mention the internal bylaws
 aims to inform members. Other duties may be given by the General Assembly.
 
-### 7. Director Tenure [](../by-law1.md#7-director-tenure){: .fa .fa-bookmark}
+### Article 7: Director Tenure [](../by-law1.md#article-7-director-tenure){: .fa .fa-bookmark}
 
 This is the period for which the director is elected. The maximum duration is
 three years. Directors whose term expires shall remain in office until they are
@@ -406,7 +406,7 @@ replaced or re-elected.
 
 If no duration is indicated herein, the term is one year.
 
-#### 7.1 Director Rotation [](../by-law1.md#71-director-rotation){: .fa .fa-bookmark}
+#### Article 7.1: Director Rotation [](../by-law1.md#article-71-director-rotation){: .fa .fa-bookmark}
 
 This is an operation through which, each year, some of the positions on the
 Board are re-elected. For two-year terms, all posts have been put in election
@@ -422,7 +422,7 @@ elected each year. The annual mandates allow the Assembly to renew the board
 more regularly but this can create some instability if a large part or all of
 the board is replaced.
 
-### 8. Nomination of non-member trustees [](../by-law1.md#8-nomination-of-non-member-trustees){: .fa .fa-bookmark}
+### Article 8: Nomination of non-member trustees [](../by-law1.md#article-8-nomination-of-non-member-trustees){: .fa .fa-bookmark}
 
 (This section is optional)
 
@@ -432,7 +432,7 @@ non-member directors can be elected.
 Sections (1) and (3) are derived from the law while articles (2), (4) and (5)
 offer procedures.
 
-### 9. Nomination procedure and election of directors [](../by-law1.md#9-nomination-procedure-and-election-of-directors){: .fa .fa-bookmark}
+### Article 9: Nomination procedure and election of directors [](../by-law1.md#article-9-nomination-procedure-and-election-of-directors){: .fa .fa-bookmark}
 
 For small cooperatives, it may not be possible to appoint a returning officer,
 an election clerk and two scrutineers, making it impossible to apply the usual
@@ -441,12 +441,12 @@ One can, for example, appoint a secretary and a deputy Chairman, can nominate a
 block team simple proposition, etc. It is suggested to prepare this alternative
 procedure to save time meeting.
 
-#### 9.1. Procedure [](../by-law1.md#91-procedure){: .fa .fa-bookmark}
+#### Article 9.1: Procedure [](../by-law1.md#article-91-procedure){: .fa .fa-bookmark}
 
 The presented procedure allows, if the number of members is sufficient, to
 ensure the conduct of a transparent and democratic election.
 
-### 10. Board meetings [](../by-law1.md#10-board-meetings){: .fa .fa-bookmark}
+### Article 10: Board meetings [](../by-law1.md#article-10-board-meetings){: .fa .fa-bookmark}
 
 \*\* Written resolutions, signed by all directors have the same value in terms
 of the law as if they had been adopted during a meeting of the Board.
@@ -464,13 +464,13 @@ days. The members, however, may decide otherwise in the regulations.
 Written resolutions, signed by all directors can be used for isolated and
 relatively urgent issues that require debate.
 
-### 11. Revocation [](../by-law1.md#11-revocation){: .fa .fa-bookmark}
+### Article 11: Revocation [](../by-law1.md#article-11-revocation){: .fa .fa-bookmark}
 
 It is important that members are aware of their right to dispose of directors.
 It goes without saying that the use of the procedure under the law must be used
 in extreme cases.
 
-### 12. Holiday\* [](../by-law1.md#12-holiday){: .fa .fa-bookmark}
+### Article 12: Holiday\* [](../by-law1.md#article-12-holiday){: .fa .fa-bookmark}
 
 To ensure maximum expertise on the board, it is important not to leave seats
 vacant (due to resignation, dismissal or other). The board can therefore fill
@@ -481,7 +481,7 @@ Chapter VII:  Executive Committee [](../by-law1.md#chapter-vii-executive-committ
 
 (ref. Articles 107-110 of the Act)
 
-### 1. Executive committee [](../by-law1.md#1-executive-committee){: .fa .fa-bookmark}
+### Article 1: Executive committee [](../by-law1.md#article-1-executive-committee){: .fa .fa-bookmark}
 
 (This section is optional)
 
@@ -516,18 +516,18 @@ aspects of the cooperative financing, training, promotion, etc. Some standing
 committees can also be integrated in Regulation (executive committee, for
 example).
 
-### 1. President [](../by-law1.md#1-president){: .fa .fa-bookmark}
+### Article 1: President [](../by-law1.md#article-1-president){: .fa .fa-bookmark}
 
 The president, in addition to her statutory role, usually has a leading
 function at associations. This is the person who should look after the
 interests of members and that members could refer.
 
-### 2. Vice-president [](../by-law1.md#2-vice-president){: .fa .fa-bookmark}
+### Article 2: Vice-president [](../by-law1.md#article-2-vice-president){: .fa .fa-bookmark}
 
 The Vice President often has personal characteristics approximating those of
 the president. He is also her right arm.
 
-### 3. Secretary-treasurer [](../by-law1.md#3-secretary-treasurer){: .fa .fa-bookmark}
+### Article 3: Secretary-treasurer [](../by-law1.md#article-3-secretary-treasurer){: .fa .fa-bookmark}
 
 (this item may be split according to the number of directors to the board)
 
@@ -541,7 +541,7 @@ paid for meetings. It should be noted that the secretary and the treasurer,
 because of the large amount of information processed, also involves a lot of
 power. It is therefore important to choose the right holders.
 
-### 4. CEO or manager or coordinator [](../by-law1.md#4-ceo-or-manager-or-coordinator){: .fa .fa-bookmark}
+### Article 4: CEO or manager or coordinator [](../by-law1.md#article-4-ceo-or-manager-or-coordinator){: .fa .fa-bookmark}
 
 (This section is optional)
 
@@ -551,7 +551,7 @@ coordinator who will try to seek consensus and applies the collective
 decisions. In all cases, it is responsible for the management of business
 operations. It is somehow complement or weight against the president.
 
-### 5. Development Advisor members [](../by-law1.md#5-development-advisor-members){: .fa .fa-bookmark}
+### Article 5: Development Advisor members [](../by-law1.md#article-5-development-advisor-members){: .fa .fa-bookmark}
 
 (This section is optional)
 
@@ -566,11 +566,11 @@ Chapter IX:  Activities of the cooperative [](../by-law1.md#chapter-ix-activitie
 
 (ref. Articles 90, 226 and 128-134 of the Act)
 
-### 1. Workers compensation [](../by-law1.md#1-workers-compensation){: .fa .fa-bookmark}
+### Article 1: Workers compensation [](../by-law1.md#article-1-workers-compensation){: .fa .fa-bookmark}
 
-### 2. Continuing education [](../by-law1.md#2-continuing-education){: .fa .fa-bookmark}
+### Article 2: Continuing education [](../by-law1.md#article-2-continuing-education){: .fa .fa-bookmark}
 
-### 3. Rebates, measuring the volume of work [](../by-law1.md#3-rebates-measuring-the-volume-of-work){: .fa .fa-bookmark}
+### Article 3: Rebates, measuring the volume of work [](../by-law1.md#article-3-rebates-measuring-the-volume-of-work){: .fa .fa-bookmark}
 
 The rate of rebates may vary depending on the nature or quality of products or
 services which were the subject of operations. (Article 151)
@@ -601,52 +601,52 @@ articles of incorporation, box 5). In this case (if, in addition, it does not
 pay interest on its share), it will be considered vis-à-vis the tax, as a
 non-profit organization and will not have to pay for taxes on its surplus.
 
-### 4. Valuation Reserve [](../by-law1.md#4-valuation-reserve){: .fa .fa-bookmark}
+### Article 4: Valuation Reserve [](../by-law1.md#article-4-valuation-reserve){: .fa .fa-bookmark}
 
 (149.1 to 149.6 VIEW OF THE ACT)
 
-#### 4.1 Constitution [](../by-law1.md#41-constitution){: .fa .fa-bookmark}
+#### Article 4.1: Constitution [](../by-law1.md#article-41-constitution){: .fa .fa-bookmark}
 
-#### 4.2 Overpayments and surplus [](../by-law1.md#42-overpayments-and-surplus){: .fa .fa-bookmark}
+#### Article 4.2: Overpayments and surplus [](../by-law1.md#article-42-overpayments-and-surplus){: .fa .fa-bookmark}
 
-#### 4.3 Rebates [](../by-law1.md#43-rebates){: .fa .fa-bookmark}
+#### Article 4.3: Rebates [](../by-law1.md#article-43-rebates){: .fa .fa-bookmark}
 
-#### 4.4 Deficit [](../by-law1.md#44-deficit){: .fa .fa-bookmark}
+#### Article 4.4: Deficit [](../by-law1.md#article-44-deficit){: .fa .fa-bookmark}
 
-#### 4.5 Liquidation [](../by-law1.md#45-liquidation){: .fa .fa-bookmark}
+#### Article 4.5: Liquidation [](../by-law1.md#article-45-liquidation){: .fa .fa-bookmark}
 
-### 5. Suggestion and complaint [](../by-law1.md#5-suggestion-and-complaint){: .fa .fa-bookmark}
+### Article 5: Suggestion and complaint [](../by-law1.md#article-5-suggestion-and-complaint){: .fa .fa-bookmark}
 
 While some cooperatives will leave to management the task of managing the
 complaints, others will form committees or adopt more detailed regulations.
 This often depends on the size of the cooperative. However, it is important to
 have a procedure to avoid arbitrariness.
 
-### 6. Insurance [](../by-law1.md#6-insurance){: .fa .fa-bookmark}
+### Article 6: Insurance [](../by-law1.md#article-6-insurance){: .fa .fa-bookmark}
 
 The law and the most cooperative partners (financial institutions, landlords,
 etc.) require the cooperative is ensured.
 
-### 7. Financial exercise [](../by-law1.md#7-financial-exercise){: .fa .fa-bookmark}
+### Article 7: Financial exercise [](../by-law1.md#article-7-financial-exercise){: .fa .fa-bookmark}
 
 The financial year is often different from the calendar year (calendar). It
 depends on the date of commencement of operations, the seasonal cycle (you may
 want to close the year in a period less busy) or simultaneously with the fiscal
 year (March 31).
 
-### 8. Signature [](../by-law1.md#8-signature){: .fa .fa-bookmark}
+### Article 8: Signature [](../by-law1.md#article-8-signature){: .fa .fa-bookmark}
 
 For added security, the law requires that more than one person signs the
 checks. By having more signatories than the required number, you can get more
 flexibility (availability of signatory). Usually the director will signatory,
 as well as leaders on the board.
 
-### 9. Annual Report [](../by-law1.md#9-annual-report){: .fa .fa-bookmark}
+### Article 9: Annual Report [](../by-law1.md#article-9-annual-report){: .fa .fa-bookmark}
 
 The annual report is, above all, produced to give members information on the
 cooperative's operations during the year.
 
-### 10. Coming Into Force [](../by-law1.md#10-coming-into-force){: .fa .fa-bookmark}
+### Article 10: Coming Into Force [](../by-law1.md#article-10-coming-into-force){: .fa .fa-bookmark}
 
 Date of adoption of the Regulation. You can also register each modification dates.
 
