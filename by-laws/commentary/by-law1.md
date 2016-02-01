@@ -275,6 +275,9 @@ Extraordinary General Assembly.
 In determining the rules of convocation, we make sure to avoid disputes and
 thus ensure the official nature of the decisions taken.
 
+The notice must be in writing to members at least five days before the date
+fixed for the meeting.
+
 ### Article 4: Annual General Assembly\*\* [](../by-law1.md#article-4-annual-general-assembly){: .fa .fa-bookmark}
 
 Recall the rule prescribed by law (Article 76). The presence of this article in

@@ -1,10 +1,11 @@
-﻿RULES OF BORROWING AND WARRANTIES OF AWARD
-==========================================
+﻿[BY-LAW NUMBER 2: RULES OF BORROWING AND WARRANTIES OF AWARD](#by-law-number-2-rules-of-borrowing-and-warranties-of-award)
+===========================================================
 
-**[name of the cooperative]**
+Aegir Cooperative
+{: #coop-name}
 
-BY-LAW NUMBER 2
----------------
+[Article 1: Borrowing, Issuing Bonds and Mortgaging Assets](#article-1-borrowing-issuing-bonds-and-mortgaging-assets)
+-----------------------------------------------------
 
 The General Assembly under this regulation authorizes the Board to:
 
