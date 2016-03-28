@@ -1,4 +1,5 @@
-a.fa {
+a.fa, a:visited.fa {
   color: lightgrey;
   font-size: smaller;
 }
+

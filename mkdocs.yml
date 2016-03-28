@@ -23,7 +23,6 @@ pages:
   - 'By-law 2: Rules of Borrowing and Warranties of Award': 'by-laws/by-law2.md'
   - 'By-law 3: Rules on Mediation of Disputes': 'by-laws/by-law3.md'
   - 'By-law 4: Rules on Valuation Reserve ': 'by-laws/by-law4.md'
-  - 'By-law 5: Regulations Liaison Committee': 'by-laws/by-law5.md'
   - 'Annexes': 'by-laws/annexes.md'
   - 'Annexes':
     - 'Annex I: Application for Admission as an Auxiliary Member': 'by-laws/annexes/annex1.md'
@@ -41,10 +40,12 @@ pages:
     - 'Comments on By-law 2': 'by-laws/commentary/by-law2.md'
     - 'Comments on By-law 3': 'by-laws/commentary/by-law3.md'
     - 'Comments on By-law 4': 'by-laws/commentary/by-law4.md'
-    - 'Comments on By-law 5': 'by-laws/commentary/by-law5.md'
 - 'Policies': 'policies.md'
 - 'Policies':
   - 'Terms of Service': 'policies/terms-of-service.md'
   - 'Privacy Policy': 'policies/privacy-policy.md'
   - 'Acceptable Use Policy': 'policies/acceptable-use-policy.md'
-
+- 'Standard Contracts': 'contracts.md'
+- 'Standard Contracts':
+    - 'Independent Contractor Agreement': 'contracts/contractor.md'
+    - 'Non-Disclosure Agreement (NDA)': 'contracts/non-disclosure.md'
