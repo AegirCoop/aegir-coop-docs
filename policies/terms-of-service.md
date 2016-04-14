@@ -16,5 +16,6 @@ The web pages available at http://aegir.support and all linked pages (“Site”
 
 Description Of Service | Basically,
 ---- | ----
-
-
+? | We do our best, but have a backup available.
+? | We support 'stable' release, for dev release we'll try but can't make any promises.
+? | ...
