@@ -1324,6 +1324,106 @@
             "location": "/contracts/non-disclosure/#6-governing-law-and-principles-of-construction", 
             "text": "This Agreement shall be governed and construed in accordance with Qu\u00e9bec law. If any provision in this Agreement is declared illegal or unenforceable, the provision will become void, leaving the remainder of this Agreement in full force and effect.  This Agreement may not be amended except in writing signed by a duly authorized representative of the respective Parties. This Agreement shall control in the event of a conflict with any other agreement between the Parties with respect to the subject matter hereof.  IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date first above written.", 
             "title": "6. Governing Law and Principles of Construction."
+        }, 
+        {
+            "location": "/procedures/", 
+            "text": "Aegir Cooperative Procedures\n\n\nSome critical tasks and workflows require particular attention and rigour in their execution. These are documented here:\n\n\n\n\nSigning Resolutions", 
+            "title": "Procedures"
+        }, 
+        {
+            "location": "/procedures/#aegir-cooperative-procedures", 
+            "text": "Some critical tasks and workflows require particular attention and rigour in their execution. These are documented here:   Signing Resolutions", 
+            "title": "Aegir Cooperative Procedures"
+        }, 
+        {
+            "location": "/procedures/signing/", 
+            "text": "Signing Resolutions\n\n\n\n\n\n\nSigning Resolutions\n\n\nTools\n\n\nGit\n\n\nGPG\n\n\nGNU Make\n\n\n\n\n\n\nProcedures\n\n\nNew user\n\n\nModifications to bylaws\n\n\nProvisional modifications to bylaws\n\n\nRevision phase\n\n\nProposal phase\n\n\nDeciding phase\n\n\nExecution phase\n\n\n\n\n\n\nBoard of Directors resolutions\n\n\n\n\n\n\nProposed GNU Make goals and targets\n\n\nTODOs\n\n\nFurther reading and links\n\n\n\n\n\n\n\n\n\n\nThe Aegir co-op's bylaws, policies, and other documents of similar import, must remain un-altered, except by decision of a properly constituted assembly of members. We use git to keep a history of changes to the documents contained in this repository. To ensure the validity of such changes, we propose the following tools and processes.\n\n\nTools\n\n\nGit\n\n\nGit allows for signing tags and commits, thereby ensuring the identity of the user. Branching allows for alterations to a \"copy\" of the documents, leaving the \"originals\" unchanged. Once a set of changes has been agreed upon, it can be merged back into the original document, to form a new revision.\n\n\nOne limitation worth noting, is that git only allows a single signature on each commit or tag.\n\n\nGPG\n\n\nGPG allows for the creation, validation and sharing of keys that help to ensure the identity of signatures applied to messages or documents.\n\n\nGNU Make\n\n\nGNU Make is a ubiquitous build tool, usually reserved for compiling software reliably and efficiently. In this context, it could be used to simplify the procedures below, automating and standardizing various steps.\n\n\nProcedures\n\n\nNew user\n\n\n\n\nInstall the required software\n\n\nRead and understand the various procedures we use for signing documents\n\n\nGenerate a new key.\n\n\nHave other members sign your key.\n\n\n\n\nModifications to bylaws\n\n\nChanging bylaws can only be done in General Assemblies (TODO: Add ref/link). Only members present at AGAs are eligible to vote, so a cryptographically secure signing method may well be irrelevant.\n\n\nProvisional modifications to bylaws\n\n\nThe Board of Directors and/or Extra-ordinary General Assemblies may make provisional modifications to bylaws, so long as they are then ratified at the next Annual General Assembly. (TODO: Add ref/link)\n\n\nRevision phase\n\n\n\n\nCreate a new branch to contain the alterations to the bylaws. (TODO: decide on a naming convention)\n\n\nRevise the relevant sections of the by-laws.\n\n\nCommit changes.\n\n\n\n\nProposal phase\n\n\n\n\nDraft a resolution specifying the changes (perhaps using a pair of commits to diff, e.g. , 2EA4G9..1FE489)\n\n\nCommit the resolution.\n\n\nThe Proposer of the resolution, adds her name to the resolution and commits with a signature.\n\n\nAny Seconders (co-proposers) add their names to the resolution, and commit with their signatures.\n\n\nThe secretary of the vote adds his signature in that capacity.\n\n\n\n\nDeciding phase\n\n\n\n\nEach eligible member adds their name to the 'yea', 'nay' or 'abstain' lists, and commits with a signature.\n\n\nThe secretary of the vote tallies the votes and verifies the signatures.\n\n\nThe secretary of the vote adds his signature, in that capacity, to validate the decision.\n\n\n\n\nExecution phase\n\n\n\n\nIf so decided, the branch containing the revisions is merged into the official branch.\n\n\nDocumentation is rebuilt and pushed for publication.\n\n\n\n\nBoard of Directors resolutions\n\n\nMostly the same as above, except without references to changes in bylaws.\n\n\nProposed GNU Make goals and targets\n\n\nInstead of having a single document containing signatures, we could use filesystem layout. For example, the following structure could make for relatively simple Make targets:\n\n\n.\n\u2514\u2500\u2500 resolutions\n    \u2514\u2500\u2500 2016a\n        \u251c\u2500\u2500 2016a.mk\n        \u251c\u2500\u2500 proposers\n        \u2502\u00a0\u00a0 \u251c\u2500\u2500 cameron_eagans\n        \u2502\u00a0\u00a0 \u2514\u2500\u2500 christopher_gervais\n        \u251c\u2500\u2500 secretary\n        \u2502\u00a0\u00a0 \u251c\u2500\u2500 1_validate\n        \u2502\u00a0\u00a0 \u2502\u00a0\u00a0 \u2514\u2500\u2500 guillaume_boudrias\n        \u2502\u00a0\u00a0 \u251c\u2500\u2500 2_tally\n        \u2502\u00a0\u00a0 \u2502\u00a0\u00a0 \u2514\u2500\u2500 guillaume_boudrias\n        \u2502\u00a0\u00a0 \u2514\u2500\u2500 3_verify\n        \u2502\u00a0\u00a0     \u2514\u2500\u2500 guillaume_boudrias\n        \u2514\u2500\u2500 votes\n          \u00a0 \u251c\u2500\u2500 cameron_eagans\n            \u251c\u2500\u2500 christopher_gervais\n            \u251c\u2500\u2500 guillaume_boudrias\n            \u2514\u2500\u2500 mathieu_lutfy\n\n\n\nTODOs\n\n\n\n\nAdd some Make targets to create the above structure, and manage the overall decision workflow.\n\n\n\n\nFurther reading and links\n\n\n\n\nhttps://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work\n\n\nhttp://keyring.debian.org/creating-key.html\n\n\nhttp://grimoire.ca/git/detached-sigs", 
+            "title": "Signing Resolutions"
+        }, 
+        {
+            "location": "/procedures/signing/#signing-resolutions", 
+            "text": "Signing Resolutions  Tools  Git  GPG  GNU Make    Procedures  New user  Modifications to bylaws  Provisional modifications to bylaws  Revision phase  Proposal phase  Deciding phase  Execution phase    Board of Directors resolutions    Proposed GNU Make goals and targets  TODOs  Further reading and links      The Aegir co-op's bylaws, policies, and other documents of similar import, must remain un-altered, except by decision of a properly constituted assembly of members. We use git to keep a history of changes to the documents contained in this repository. To ensure the validity of such changes, we propose the following tools and processes.", 
+            "title": "Signing Resolutions"
+        }, 
+        {
+            "location": "/procedures/signing/#tools", 
+            "text": "", 
+            "title": "Tools"
+        }, 
+        {
+            "location": "/procedures/signing/#git", 
+            "text": "Git allows for signing tags and commits, thereby ensuring the identity of the user. Branching allows for alterations to a \"copy\" of the documents, leaving the \"originals\" unchanged. Once a set of changes has been agreed upon, it can be merged back into the original document, to form a new revision.  One limitation worth noting, is that git only allows a single signature on each commit or tag.", 
+            "title": "Git"
+        }, 
+        {
+            "location": "/procedures/signing/#gpg", 
+            "text": "GPG allows for the creation, validation and sharing of keys that help to ensure the identity of signatures applied to messages or documents.", 
+            "title": "GPG"
+        }, 
+        {
+            "location": "/procedures/signing/#gnu-make", 
+            "text": "GNU Make is a ubiquitous build tool, usually reserved for compiling software reliably and efficiently. In this context, it could be used to simplify the procedures below, automating and standardizing various steps.", 
+            "title": "GNU Make"
+        }, 
+        {
+            "location": "/procedures/signing/#procedures", 
+            "text": "", 
+            "title": "Procedures"
+        }, 
+        {
+            "location": "/procedures/signing/#new-user", 
+            "text": "Install the required software  Read and understand the various procedures we use for signing documents  Generate a new key.  Have other members sign your key.", 
+            "title": "New user"
+        }, 
+        {
+            "location": "/procedures/signing/#modifications-to-bylaws", 
+            "text": "Changing bylaws can only be done in General Assemblies (TODO: Add ref/link). Only members present at AGAs are eligible to vote, so a cryptographically secure signing method may well be irrelevant.", 
+            "title": "Modifications to bylaws"
+        }, 
+        {
+            "location": "/procedures/signing/#provisional-modifications-to-bylaws", 
+            "text": "The Board of Directors and/or Extra-ordinary General Assemblies may make provisional modifications to bylaws, so long as they are then ratified at the next Annual General Assembly. (TODO: Add ref/link)", 
+            "title": "Provisional modifications to bylaws"
+        }, 
+        {
+            "location": "/procedures/signing/#revision-phase", 
+            "text": "Create a new branch to contain the alterations to the bylaws. (TODO: decide on a naming convention)  Revise the relevant sections of the by-laws.  Commit changes.", 
+            "title": "Revision phase"
+        }, 
+        {
+            "location": "/procedures/signing/#proposal-phase", 
+            "text": "Draft a resolution specifying the changes (perhaps using a pair of commits to diff, e.g. , 2EA4G9..1FE489)  Commit the resolution.  The Proposer of the resolution, adds her name to the resolution and commits with a signature.  Any Seconders (co-proposers) add their names to the resolution, and commit with their signatures.  The secretary of the vote adds his signature in that capacity.", 
+            "title": "Proposal phase"
+        }, 
+        {
+            "location": "/procedures/signing/#deciding-phase", 
+            "text": "Each eligible member adds their name to the 'yea', 'nay' or 'abstain' lists, and commits with a signature.  The secretary of the vote tallies the votes and verifies the signatures.  The secretary of the vote adds his signature, in that capacity, to validate the decision.", 
+            "title": "Deciding phase"
+        }, 
+        {
+            "location": "/procedures/signing/#execution-phase", 
+            "text": "If so decided, the branch containing the revisions is merged into the official branch.  Documentation is rebuilt and pushed for publication.", 
+            "title": "Execution phase"
+        }, 
+        {
+            "location": "/procedures/signing/#board-of-directors-resolutions", 
+            "text": "Mostly the same as above, except without references to changes in bylaws.", 
+            "title": "Board of Directors resolutions"
+        }, 
+        {
+            "location": "/procedures/signing/#proposed-gnu-make-goals-and-targets", 
+            "text": "Instead of having a single document containing signatures, we could use filesystem layout. For example, the following structure could make for relatively simple Make targets:  .\n\u2514\u2500\u2500 resolutions\n    \u2514\u2500\u2500 2016a\n        \u251c\u2500\u2500 2016a.mk\n        \u251c\u2500\u2500 proposers\n        \u2502\u00a0\u00a0 \u251c\u2500\u2500 cameron_eagans\n        \u2502\u00a0\u00a0 \u2514\u2500\u2500 christopher_gervais\n        \u251c\u2500\u2500 secretary\n        \u2502\u00a0\u00a0 \u251c\u2500\u2500 1_validate\n        \u2502\u00a0\u00a0 \u2502\u00a0\u00a0 \u2514\u2500\u2500 guillaume_boudrias\n        \u2502\u00a0\u00a0 \u251c\u2500\u2500 2_tally\n        \u2502\u00a0\u00a0 \u2502\u00a0\u00a0 \u2514\u2500\u2500 guillaume_boudrias\n        \u2502\u00a0\u00a0 \u2514\u2500\u2500 3_verify\n        \u2502\u00a0\u00a0     \u2514\u2500\u2500 guillaume_boudrias\n        \u2514\u2500\u2500 votes\n          \u00a0 \u251c\u2500\u2500 cameron_eagans\n            \u251c\u2500\u2500 christopher_gervais\n            \u251c\u2500\u2500 guillaume_boudrias\n            \u2514\u2500\u2500 mathieu_lutfy", 
+            "title": "Proposed GNU Make goals and targets"
+        }, 
+        {
+            "location": "/procedures/signing/#todos", 
+            "text": "Add some Make targets to create the above structure, and manage the overall decision workflow.", 
+            "title": "TODOs"
+        }, 
+        {
+            "location": "/procedures/signing/#further-reading-and-links", 
+            "text": "https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work  http://keyring.debian.org/creating-key.html  http://grimoire.ca/git/detached-sigs", 
+            "title": "Further reading and links"
         }
     ]
 }

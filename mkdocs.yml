@@ -49,3 +49,6 @@ pages:
 - 'Standard Contracts':
     - 'Independent Contractor Agreement': 'contracts/contractor.md'
     - 'Non-Disclosure Agreement (NDA)': 'contracts/non-disclosure.md'
+- 'Procedures': 'procedures.md'
+- 'Procedures':
+  - 'Signing Resolutions': 'procedures/signing.md'
