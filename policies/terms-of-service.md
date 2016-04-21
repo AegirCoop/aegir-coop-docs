@@ -1,3 +1,11 @@
+TODO
+====
+
+- Add "Patches are Free software" clause to ToS?
+- ...
+- 'Translate' to more legal language
+
+
 Terms of Service
 ================
 
