@@ -5,89 +5,46 @@
 =============================
 
 
-[Chapter I:  Definitions](#chapter-i-definitions) [](../by-law1.md#chapter-i-definitions){: .fa .fa-bookmark}
--------------------------
+[Chapter I: Definitions](#chapter-i-definitions) [](../by-law1.md#chapter-i-definitions){: .fa .fa-bookmark}
+------------------------
 
 ### [1.1. Definitions](#11-definitions) [](../by-law1.md#11-definitions){: .fa .fa-bookmark}
 
 Basic definitions help avoid confusion in the interpretation of articles of the by-laws. We should strive to clearly define the most frequently used terms and all terms in the by-laws whose meaning may vary from one context or person to another.
 
-Chapter II: Constitution [](../by-law1.md#chapter-ii-constitution){: .fa .fa-bookmark}
-------------------------
 
-(ref. Articles 7-20, 33-36, 222 and 223.1)
+[Chapter II: Capital Stock](#chapter-ii-capital-stock) [](../by-law1.md#chapter-ii-capital-stock){: .fa .fa-bookmark}
+---------------------------
 
-Articles of Chapter II serve to inform. They are, however, included in the
-articles of incorporation of the cooperative.
+(ref. Sections [37](http://canlii.ca/t/52jp7#sec37)-[49](http://canlii.ca/t/52jp7#sec49) of the Law)
 
-### Article 1: Incorporation of the cooperative [](../by-law1.md#article-1-incorporation-of-the-cooperative){: .fa .fa-bookmark}
+### [2.1. Qualifying shares](#21-qualifying-shares) [](../by-law1.md#21-qualifying-shares){: .fa .fa-bookmark}
 
-Date and name of the cooperative and the law that governed its incorporation.
+Note: The number of qualifying shares may vary according to the nature of operations in which the member participates and by service volume that the cooperative is able to offer the member.
 
-### Article 2: Head office [](../by-law1.md#article-2-head-office){: .fa .fa-bookmark}
+This is to determine the minimum level of financial commitment required to obtain membership status; that is to say the minimum amount to invest to become a member. This financial involvement has two functions: to consolidate the membership of the member in the cooperative ("I've invested, I want it to work") and increase the company's capitalization and, in doing so, the available liquidity the cooperative.
 
-The cooperative's head office address.
+Qualifying shares may be of two types: only common shares or common shares and preferred shares. It is recommended that the minimum common shares ($10.00) and the rest in preferred shares since the latter are eligible for significant tax advantages and may bear interest (this interest should be limited), which is not the case for the common shares.
 
-### Article 3: Goals [](../by-law1.md#article-3-goals){: .fa .fa-bookmark}
+### [2.2. Payment terms](#22-payment-terms) [](../by-law1.md#22-payment-terms){: .fa .fa-bookmark}
 
-A producer cooperative must have an objective in its statutes to provide
-professional utility services to its members. Some cooperatives add other goals
-(for example, a community mission). They may also only register these
-additional objectives in their by-laws. In fact, adding goals other than to
-provide services in an application for cooperative status could complicate the
-analysis and delay the acceptance.
+Qualifying shares may be paid in several ways: in full upon admission to membership or fixed payments. Although full payment upon admission proves a real commitment to the cooperative, requiring it could limit the admission of interesting candidates who do not have the necessary funds. 
 
+### [2.3. Transfer of shares](#23-transfer-of-shares) [](../by-law1.md#23-transfer-of-shares){: .fa .fa-bookmark}
 
-Chapter III:  Social Capital [](../by-law1.md#chapter-iii-social-capital){: .fa .fa-bookmark}
-----------------------------
+Preferred shares are transferable under the conditions set by the Board in accordance with [Section 46](http://canlii.ca/t/52jp7#sec46) of the Law.
 
-(ref. Articles 37-49 of the Law)
+### [2.4. Reimbursement of shares](#24-reimbursement-of-shares) [](../by-law1.md#24-reimbursement-of-shares){: .fa .fa-bookmark}
 
-### Article 1: Qualifying shares [](../by-law1.md#article-1-qualifying-shares){: .fa .fa-bookmark}
+Reimbursement of shares is done upon departure of a member, but the board may determine priorities among the items listed in the law.
 
-Note: The number of qualifying shares may vary according to the nature of
-operations in which the member participates and by service volume that the
-cooperative is able to offer the member.
+### [2.5. Preferred shares](#25-preferred-shares) [](../by-law1.md#25-preferred-shares){: .fa .fa-bookmark}
 
-This is to determine the minimum level of financial commitment required to
-obtain membership status; that is to say the minimum amount to invest to become
-a member. This financial involvement has two functions: to consolidate the
-membership of the member in the cooperative ("I've invested, I want it to
-work") and increase the company's capitalization and, in doing so, the
-available liquidity the cooperative.
+The board determines the amount, privileges, rights and restrictions of the shares and the conditions of their redemption, repayment or transfer. 
 
-Qualifying shares may be of two types: only common shares or common shares and
-preferred shares. It is recommended that the minimum common shares ($10.00) and
-the rest in preferred shares since the latter are eligible for significant tax
-advantages and may bear interest (this interest should be limited), which is
-not the case for the common shares.
+The Cooperative Department provides a template for Board resolutions. This template is made based on the eligibility of preferred shares to the Cooperative Investment Plan (CIP), which provides a tax deduction of up to 125% to the cooperative members or workers who invest in preferred shares.
 
-### Article 2: Payment terms [](../by-law1.md#article-2-payment-terms){: .fa .fa-bookmark}
-
-Qualifying shares may be paid in several ways: in full upon admission to
-membership or fixed payments. Although full payment upon admission proves a
-real commitment to the cooperative, requiring it could limit the admission of
-interesting candidates who do not have the necessary funds.
-
-### Article 3: Reimbursement of shares [](../by-law1.md#article-3-reimbursement-of-shares){: .fa .fa-bookmark}
-
-Reimbursement of shares is done upon departure of a member, but the board may
-determine priorities among the items listed in the law.
-
-### Article 4: Transfer of shares [](../by-law1.md#article-4-transfer-of-shares){: .fa .fa-bookmark}
-
-Preferred shares are transferable under the conditions set by the Board in
-accordance with Article 46 of the Law.
-
-### Article 5: Preferred shares\* [](../by-law1.md#article-5-preferred-shares){: .fa .fa-bookmark}
-
-The Board sets all rules on the issuance of preferred shares: interest rates,
-redemption terms, etc. The Cooperative Department provides a template for Board
-resolutions. This template is made based on the eligibility of preferred shares
-to the Cooperative Investment Plan (CIP), which provides a tax deduction of up
-to 125% to the cooperative members or workers who invest in preferred shares.
-
-### Article 6: Redemption, repayment or transfer of preferred shares [](../by-law1.md#article-6-redemption-repayment-or-transfer-of-preferred-shares){: .fa .fa-bookmark}
+### [2.6. Reimbursement of preferred shares](#26-reimbursement-of-preferred-shares) [](../by-law1.md#26-reimbursement-of-preferred-shares){: .fa .fa-bookmark}
 
 Subject to the restrictions provided for in Article 38 of the law, the
 preferred shares are redeemable or redeemable under the conditions set by the

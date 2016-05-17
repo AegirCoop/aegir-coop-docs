@@ -20,95 +20,52 @@ In this by-law, these terms are defined as follows:
 6. **"Support provider member"**: A natural person or an organization who provides Aegir support on behalf of the cooperative.
 
 
-[Chapter II: Constitution](#chapter-ii-constitution) [](commentary/by-law1.md#chapter-ii-constitution){: .fa .fa-question-circle}
-------------------------
-
-### [Article 1: Incorporation of the cooperative](#article-1-incorporation-of-the-cooperative) [](commentary/by-law1.md#article-1-incorporation-of-the-cooperative){: .fa .fa-question-circle}
-
-This cooperative was formed April 1st, 2016, under the name
-**Aegir Cooperative**, under the Cooperatives Act, CQLR, Chap.c-67.2.
-
-### [Article 2: Head office](#article-2-head-office) [](commentary/by-law1.md#article-2-head-office){: .fa .fa-question-circle}
-
-The head office of the cooperative is located at 117 King Avenue,
-Pointe-Claire, Québec, Canada.
-
-### [Article 3: Goals](#article-3-goals) [](commentary/by-law1.md#article-3-goals){: .fa .fa-question-circle}
-
-\*\* The cooperative aims to:
-
-Operate a business in order to provide its members with goods and services for
-the exercise of their profession [...]
-
-
-[Chapter III:  Social Capital](#chapter-iii-social-capital) [](commentary/by-law1.md#chapter-iii-social-capital){: .fa .fa-question-circle}
+[Chapter II: Capital Stock](#chapter-ii-capital-stock) [](commentary/by-law1.md#chapter-ii-capital-stock){: .fa .fa-question-circle}
 ----------------------------
 
-### [Article 1: Qualifying shares](#article-1-qualifying-shares) [](commentary/by-law1.md#article-1-qualifying-shares){: .fa .fa-question-circle}
+### [2.1. Qualifying shares](#21-qualifying-shares) [](commentary/by-law1.md#21-qualifying-shares){: .fa .fa-question-circle}
 
-To become a member, a person or company must:
+To become a member, a person must subscribe the following number of qualifying shares. The value of a common shares is ten dollars ($10.00) each and preferred shares is one dollar ($1.00) each.
 
-Subscribe X (x) common share(s) of ten dollars ($ 10.00) each
+Number of common shares | Number of preferred shares | Total
+----------------------- | -------------------------- | -----
+One (1)                 | Four-hundred ninety (490)  | $500
 
-OR
 
-Subscribe X (x) common share(s) of ten dollars ($10.00) each and X (x)
-preferred shares of one dollar ($1.00) each.
+### [2.2. Payment terms](#22-payment-terms) [](commentary/by-law1.md#22-payment-terms){: .fa .fa-question-circle}
 
-### [Article 2: Payment terms](#article-2-payment-terms) [](commentary/by-law1.md#article-2-payment-terms){: .fa .fa-question-circle}
+The member's qualifying shares are payable at the rate of twenty dollars ($20.00) cash on admission to membership and the balance in equal and consecutive monthly installments of forty dollars ($40.00) and the allotment of rebates;
 
-Qualifying shares are payable at the time of admission as a member.
+Where a dividend is declared, the amount allocated to the member goes directly against his debt to the cooperative as payment on the capital subscribed and unpaid.
 
-OR
+### [2.3. Transfer of shares](#23-transfer-of-shares) [](commentary/by-law1.md#23-transfer-of-shares){: .fa .fa-question-circle}
 
-The member's qualifying shares are payable at the rate of X dollars ($x) cash
-on admission to membership and the balance in equal and consecutive monthly
-installments of X dollars ($x) and the allotment of rebates;
+The common shares are not transferable. This includes the purchase of an organizational member by another organization.
 
-Where a dividend is declared, the amount allocated to the member goes directly
-against his debt to the cooperative as payment on the capital subscribed and
-unpaid.
-
-### [Article 3: Reimbursement of shares](#article-3-reimbursement-of-shares) [](commentary/by-law1.md#article-3-reimbursement-of-shares){: .fa .fa-question-circle}
-
-Subject to the restrictions provided for in Article 38 of the law,
-reimbursement of shares is made according to the following priorities:
-
-1. Death of member
-2. Resignation due to disability or retirement
-3. Other resignations
-4. Exclusions
-5. Redemption of shares other than qualifying shares
-
-Reimbursement will be made in the chronological order of applications within
-each of the priorities mentioned above.
-
-### [Article 4: Transfer of shares](#article-4-transfer-of-shares) [](commentary/by-law1.md#article-4-transfer-of-shares){: .fa .fa-question-circle}
-
-Shares may be transferred with the approval of the Board upon written request
-of the transferor.
+Preferred shares may be transferred with the approval of the Board upon written request of the transferor.
 
 Shares are only transferable to members of the cooperative.
 
-Any acquisition by a member will be used to complete the member's qualifying
-shares.
+The transfer of shares is effected by simple transcription in the register of members.
 
-The transfer of shares is effected by simple transcription in the register of
-members.
+### [2.4. Reimbursement of common shares](#24-reimbursement-of-shares) [](commentary/by-law1.md#24-reimbursement-of-shares){: .fa .fa-question-circle}
 
-### [Article 5: Preferred shares](#article-5-preferred-shares) [](commentary/by-law1.md#article-5-preferred-shares42){: .fa .fa-question-circle}
+Subject to the restrictions set out in [Section 38](http://canlii.ca/t/52jp7#sec38) of the Act, the reimbursement of the common shares is carried out according to the following priorities:
 
-The Board of Directors is authorized to issue preferred shares. The board
-determines the amount, privileges, rights and restrictions of the shares and
-the conditions of their redemption, repayment or transfer.
+1. Death of a member 
+2. Resignation due to disability or retirement 
+3. Other resignations 
+4. Exclusions
 
-### [Article 6: Redemption, repayment or transfer of preferred shares](#article-6-redemption-repayment-or-transfer-of-preferred-shares) [](commentary/by-law1.md#article-6-redemption-repayment-or-transfer-of-preferred-shares){: .fa .fa-question-circle}
+The reimbursement is then carried out in chronological order of the requests within each of the priorities stated above.
 
-Categories A and B correspond to the personal commitment of the members and are
-repaid first.
+### [2.5. Preferred shares](#25-preferred-shares) [](commentary/by-law1.md#25-preferred-shares){: .fa .fa-question-circle}
 
-Category C corresponds to rebates issued in the form of shares and is refunded
-next.
+The board is authorized to issue preferred shares and determine their characteristics.
+
+### [2.6. Reimbursement of preferred shares](#26-reimbursement-of-preferred-shares) [](commentary/by-law1.md#26-reimbursement-of-preferred-shares){: .fa .fa-question-circle}
+
+Subject to the restrictions set out in [section 38](http://canlii.ca/t/52jp7#sec38) of the Act, the repayment of the preferred shares is performed according to the conditions set out by the board in compliance with [section 46](http://canlii.ca/t/52jp7#sec38) of the Act.
 
 
 [Chapter IV: Members](#chapter-iv-members) [](commentary/by-law1.md#chapter-iv-members){: .fa .fa-question-circle}
