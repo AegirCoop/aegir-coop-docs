@@ -41,3 +41,7 @@ h6 > a:hover,
 a:hover.fa {
   color: #2980B9;
 }
+
+div.rst-content div.section ol li {
+  list-style: lower-alpha;
+}

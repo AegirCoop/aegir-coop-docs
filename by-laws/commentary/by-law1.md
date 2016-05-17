@@ -1,20 +1,16 @@
-﻿GOVERNANCE
-==========
+﻿Aegir Cooperative {: #coop-name}                                                                                     
+=================
 
-**[name of the cooperative]**
+[BY-LAW NUMBER 1: GOVERNANCE](#by-law-number-1-governance) [](../by-law1.md#by-law-number-1-governance){: .fa .fa-bookmark}
+=============================
 
-BY-LAW NUMBER 1
----------------
 
-Chapter I:  Definitions [](../by-law1.md#chapter-i-definitions){: .fa .fa-bookmark}
------------------------
+[Chapter I:  Definitions](#chapter-i-definitions) [](../by-law1.md#chapter-i-definitions){: .fa .fa-bookmark}
+-------------------------
 
-### Article 1: Definitions [](../by-law1.md#article-1-definitions){: .fa .fa-bookmark}
+### [1.1. Definitions](#11-definitions) [](../by-law1.md#11-definitions){: .fa .fa-bookmark}
 
-Basic definitions help avoid confusion in the interpretation of articles of the
-by-laws. We recommend clearly defining the most frequently used terms and all
-terms in the by-laws whose meaning may vary from one context or person to
-another.
+Basic definitions help avoid confusion in the interpretation of articles of the by-laws. We should strive to clearly define the most frequently used terms and all terms in the by-laws whose meaning may vary from one context or person to another.
 
 Chapter II: Constitution [](../by-law1.md#chapter-ii-constitution){: .fa .fa-bookmark}
 ------------------------

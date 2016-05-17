@@ -1,27 +1,23 @@
-[BY-LAW NUMBER 1: GOVERNANCE](#by-law-number-1-governance)
-===========================
+Aegir Cooperative {: #coop-name}
+=================
 
-Aegir Cooperative
-{: #coop-name}
+[BY-LAW NUMBER 1: GOVERNANCE](#by-law-number-1-governance) [](commentary/by-law1.md#by-law-number-1-governance){: .fa .fa-question-circle}
+=============================
 
 
 [Chapter I:  Definitions](#chapter-i-definitions) [](commentary/by-law1.md#chapter-i-definitions){: .fa .fa-question-circle}
------------------------
+-------------------------
 
-### [Article 1: Definitions](#article-1-definitions) [](commentary/by-law1.md#article-1-definitions){: .fa .fa-question-circle}
+### [1.1. Definitions](#11-definitions) [](commentary/by-law1.md#11-definitions){: .fa .fa-question-circle}
 
-In these internal bylaws, these terms are defined as follows:
+In this by-law, these terms are defined as follows:
 
-1. **"The Cooperative"**: The Aegir Cooperative.
+1. **"The cooperative"**: The Aegir Cooperative.
 2. **"The Act"**: The Cooperatives Act, [CQLR c C-67.2](http://canlii.ca/t/x9f).
-3. **"The Board"**: The cooperative's Board of Directors.
-4. **"Worker"**: A person who can perform any kind of work for the cooperative.
-5. **"Producer member"**: A person or company that provides Aegir support on behalf of
-   the cooperative.
-6. **"Member"**: a natural or legal person having been duly accepted as a
-   member of the cooperative.
-7. **"Auxiliary member"**: any enterprise or self-employed contractor
-   wishing to become a member.
+3. **"The board"**: The cooperative's Board of Directors.
+4. **"Member"**: A natural person or an organization who uses the cooperative services for their professional needs in the IT sector.
+5. **"Auxiliary member"**: A natural person or an organization who uses the cooperative services for their professional needs in the IT sector during his probation period.
+6. **"Support provider member"**: A natural person or an organization who provides Aegir support on behalf of the cooperative.
 
 
 [Chapter II: Constitution](#chapter-ii-constitution) [](commentary/by-law1.md#chapter-ii-constitution){: .fa .fa-question-circle}
