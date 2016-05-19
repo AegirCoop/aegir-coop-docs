@@ -91,11 +91,10 @@ The cooperative may establish additional conditions for admission.
 There is no requirement for a cooperative to convoke auxiliary members.
 However, their presence at meetings can promote integration and training.
 
+[Chapter IV: Members Assembly](#chapter-iv-members-assembly) [](../by-law1.md#chapter-iv-members-assembly){: .fa .fa-bookmark}
+------------------------------
 
-Chapter V: Members Assembly [](../by-law1.md#chapter-v-members-assembly){: .fa .fa-bookmark}
----------------------------
-
-(ref. Articles 63-79 of the Law)
+(Reference: Sections [63](http://canlii.ca/t/52jp7#sec63) to [79](http://canlii.ca/t/52jp7#sec79) of the Law)
 
 The General Assembly of members is the highest decision making body of the
 cooperative. It elects the Board of Directors, adopts the regulations, rules on
@@ -105,17 +104,13 @@ holding follow specific procedures to avoid any confusion or misunderstanding.
 Some cooperatives (particularly those with significant membership) adopt a code
 of procedure known as the Morin code or the CSN code to hold their assemblies.
 
-### Article 1: General Assembly [](../by-law1.md#article-1-general-assembly){: .fa .fa-bookmark}
+### [4.1. General Assembly](#41-general-assembly) [](../by-law1.md#41-general-assembly){: .fa .fa-bookmark}
 
 This article confirms the Board of Directors' power to convene the General
 Assembly. However, the law allows members of the cooperative to convene an
 Extraordinary General Assembly.
 
-### Article 2: Remote participation [](../by-law1.md#article-2-remote-participation){: .fa .fa-bookmark}
-
-(This section is optional)
-
-### Article 3: Notice of Meeting [](../by-law1.md#article-3-notice-of-meeting){: .fa .fa-bookmark}
+### [4.2. Notice of Meeting](#42-notice-of-meeting) [](../by-law1.md#42-notice-of-meeting){: .fa .fa-bookmark}
 
 In determining the rules of convocation, we make sure to avoid disputes and
 thus ensure the official nature of the decisions taken.
@@ -123,50 +118,16 @@ thus ensure the official nature of the decisions taken.
 The notice must be in writing to members at least five days before the date
 fixed for the meeting.
 
-### Article 4: Annual General Assembly\*\* [](../by-law1.md#article-4-annual-general-assembly){: .fa .fa-bookmark}
-
-Recall the rule prescribed by law (Article 76). The presence of this article in
-the law may allow members to advise the Board if the meeting is not held in
-time.
-
-### Article 5: Transmission of the Annual Report [](../by-law1.md#article-5-transmission-of-the-annual-report){: .fa .fa-bookmark}
+### [4.3. Remote participation](#43-remote-participation) [](../by-law1.md#43-remote-participation){: .fa .fa-bookmark}
 
 (This section is optional)
 
-### Article 6: Extraordinary General Assembly\*\* [](../by-law1.md#article-6-extraordinary-general-assembly){: .fa .fa-bookmark}
-
-As Article 2 of this chapter, this article is a reminder of the rights of
-members. The extraordinary General Assembly (special general meeting) can be
-called by the board but it is important for members to know that they also have
-that power.
-
-### Article 7: Quorum\* [](../by-law1.md#article-7-quorum){: .fa .fa-bookmark}
-
-A quorum is the minimum of members present to ensure that decisions taken at a
-meeting to be valid. The law limits the quorum for a meeting with the members
-present. However, it allows the settlement to include a stricter quorum.
-
-One can, for example, putting a quorum by a majority of members of the
-cooperative or even two-thirds. The decision will depend on the number of
-members, political issues of the cooperative members and involvement of will.
-However, we must be careful not to make it ineffective governance structure of
-the cooperative by imposing too high a quorum as this will prevent it from
-making valid decisions.
-
-It should be noted that according to the law (Article 64), the quorum ceases to
-apply after convening two successive meetings where there was no quorum. The
-second meeting may be held even if the quorum is not reached.
-
-### Article 8: Vote [](../by-law1.md#article-8-vote){: .fa .fa-bookmark}
+### [4.4. Vote](#44-vote) [](../by-law1.md#44-vote){: .fa .fa-bookmark}
 
 For some delicate decisions, the members desire not to express their views
 publicly. For example, a person to vote against the interests of its work or
 coordinating its partners could, if the vote is by show of hands, suffer the
 blow-cons in his working relationships. It is important to respect that right.
-
-### Article 9: Representation [](../by-law1.md#article-9-representation){: .fa .fa-bookmark}
-
-An individual member can not physically be represented.
 
 
 Chapter VI:  Board of Directors [](../by-law1.md#chapter-vi-board-of-directors){: .fa .fa-bookmark}

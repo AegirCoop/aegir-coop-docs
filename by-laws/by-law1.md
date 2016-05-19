@@ -98,77 +98,28 @@ To become an auxiliary member of the cooperative, a person or company must:
 The auxiliary members are invited to the general meetings; they may attend and speak, but cannot vote and are not eligible to any position in the board.
 
 
-[Chapter V: Members Assembly](#chapter-v-members-assembly) [](commentary/by-law1.md#chapter-v-members-assembly){: .fa .fa-question-circle}
----------------------------
+[Chapter IV: Members Assembly](#chapter-iv-members-assembly) [](commentary/by-law1.md#chapter-iv-members-assembly){: .fa .fa-question-circle}
+------------------------------
 
-### [Article 1: General Assembly](#article-1-general-assembly) [](commentary/by-law1.md#article-1-general-assembly){: .fa .fa-question-circle}
+### [4.1. General Assembly](#41-general-assembly) [](commentary/by-law1.md#41-general-assembly){: .fa .fa-question-circle}
 
-General Assemblies are held at the place, date and time set by the board
-subject to Articles 77, 78 and 85 of the law.
+All general assemblies are held at the location, on the date and at the time determined by the board subject to sections [77](http://canlii.ca/t/52jp7#sec77), [78](http://canlii.ca/t/52jp7#sec78) and [85](http://canlii.ca/t/52jp7#sec85) of the Act.
 
-### [Article 2: Remote participation](#article-2-remote-participation) [](commentary/by-law1.md#article-2-remote-participation){: .fa .fa-question-circle}
+### [4.2. Notice of Meeting](#42-notice-of-meeting) [](commentary/by-law1.md#42-notice-of-meeting){: .fa .fa-question-circle}
 
-Members can participate in a special meeting of the cooperative by means of
-communication enabling all participants to communicate with each other in real
-time.
+The notice is given by email at least ten (10) days before the date of the meeting. The decisions made at a general meeting cannot be rescinded on the grounds that some members did not receive or read the notice.
 
-The requirements for the holding of such meetings are: ...
+### [4.3. Remote participation](#43-remote-participation) [](commentary/by-law1.md#43-remote-participation){: .fa .fa-question-circle}
 
-The vote in such a meeting will be taken as follows: ...
+Members can attend a special meeting of the cooperative by means of communication enabling all participants to communicate with them in real time.
 
-The identification of members will be provided as follows: ...
+The meeting may be held by videoconference or teleconference.
 
-### [Article 3: Notice of Meeting](#article-3-notice-of-meeting) [](commentary/by-law1.md#article-3-notice-of-meeting){: .fa .fa-question-circle}
+The vote in such a meeting will be taken by email or instant messaging.
 
-The notice is given by **[manner]**, at least **[number]** (**[#]**) days
-before the date fixed for the meeting.
+### [4.4. Vote](#44-vote) [](commentary/by-law1.md#44-vote){: .fa .fa-question-circle}
 
-The notice must contain the agenda and notices of changes to the regulations,
-if any.
-
-Decisions taken at a General Assembly may not be canceled on the grounds that
-members did not receive or read the notice.
-
-### [Article 4: Annual General Assembly](#article-4-annual-general-assembly) [](commentary/by-law1.md#article-4-annual-general-assembly4242){: .fa .fa-question-circle}
-
-The annual General Assembly of the cooperative is held within four months after
-the end of the fiscal year.
-
-### [Article 5: Transmission of the Annual Report](#article-5-transmission-of-the-annual-report) [](commentary/by-law1.md#article-5-transmission-of-the-annual-report){: .fa .fa-question-circle}
-
-A copy of the annual report of the cooperative will be sent with the notice of
-the annual meeting.
-
-OR
-
-A copy of the annual report of the cooperative will be available for
-consultation X days prior to the annual meeting at the place designated
-for the notice of such meeting.
-
-### [Article 6: Extraordinary General Assembly](#article-6-extraordinary-general-assembly) [](commentary/by-law1.md#article-6-extraordinary-general-assembly4242){: .fa .fa-question-circle}
-
-An extraordinary General Assembly is convened if 25% of members of the
-cooperative transmit a written request to the Secretary, signed by the members.
-
-To convene an extraordinary General Assembly, the rules are the same as for an
-annual General Assembly except that the period is reduced to X days
-
-Only the matters specified in the notice may be subject to deliberations and
-decisions at a special meeting.
-
-### [Article 7: Quorum](article-7-quorum) [](commentary/by-law1.md#article-7-quorum42){: .fa .fa-question-circle}
-
-The quorum for a general meeting consists of X% of the members of the
-cooperative.
-
-### [Article 8: Vote](#article-8-vote) [](commentary/by-law1.md#article-8-vote){: .fa .fa-question-circle}
-
-The vote is taken by show of hands unless otherwise decided by the Assembly by
-a majority of members present.
-
-### [Article 9: Representation](#article-9-representation) [](commentary/by-law1.md#article-9-representation){: .fa .fa-question-circle}
-
-An individual member can not physically be represented.
+The vote is by show of hands unless a majority of members present at the meeting decide otherwise.
 
 
 [Chapter VI:  Board of Directors ](#chapter-vi-board-of-directors)[](commentary/by-law1.md#chapter-vi-board-of-directors){: .fa .fa-question-circle}
