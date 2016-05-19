@@ -68,86 +68,34 @@ The board is authorized to issue preferred shares and determine their characteri
 Subject to the restrictions set out in [section 38](http://canlii.ca/t/52jp7#sec38) of the Act, the repayment of the preferred shares is performed according to the conditions set out by the board in compliance with [section 46](http://canlii.ca/t/52jp7#sec38) of the Act.
 
 
-[Chapter IV: Members](#chapter-iv-members) [](commentary/by-law1.md#chapter-iv-members){: .fa .fa-question-circle}
--------------------
+[Chapter III: Members](#chapter-iii-members) [](commentary/by-law1.md#chapter-iii-members){: .fa .fa-question-circle}
+----------------------
 
-### [Article 1: Admission requirements](#article-1-admission-requirements) [](commentary/by-law1.md#article-1-admission-requirements){: .fa .fa-question-circle}
+### [3.1. Admission as a member](#31-admission-as-a-member) [](commentary/by-law1.md#31-admission-as-a-member){: .fa .fa-question-circle}
 
 To become a member of the cooperative, a person or company must:
 
-1. Subscribe the minimum number of shares as stipulated in Article 2.1 of these
-   bylaws and pay in accordance with Article 2.
-2. Be a producer within the meaning of paragraph (e) of Article 1 of these
-   bylaws.
-3. Comply with the provisions of Article 51.
+1. Subscribe the minimum number of shares as stipulated in Section 2.1 of this by-law and pay for them in accordance with Section 2.2.
+2. Have completed, as an auxiliary member, a trial period of twelve (12) months following his/her request to become an auxiliary member, except in the case of a founder;
+3. Comply with the provisions of [Section 51](http://canlii.ca/t/52jp7#sec51) of the Act.
+4. Be a:
+    1. Support provider of the cooperative as stated in Section 1(f) of this by-law;
+5. Sign the member agreement.
 
-The cooperative shall admit any producer who wants to join a trial period of up
-to 12 months during which he is an auxiliary member.
+### [3.2. Admission as an auxiliary member](#32-admission-as-an-auxiliary-member) [](commentary/by-law1.md#32-admission-as-an-auxiliary-member){: .fa .fa-question-circle}
 
 To become an auxiliary member of the cooperative, a person or company must:
 
-1. have the ability to be an effective user of services of the cooperative
-2. make an application as an auxiliary member and be admitted as such by the board
-3. accept to be subject to a trial period of a minimum of X (x) months within
-   the cooperative and a maximum of X (x) months within the coop, except for
-   founding members.
-4. Subscribe the minimum number of shares as stipulated in Article 2.1 of these
-   regulations and pay in accordance with Article 2.
-5. To undertake to respect the laws of the cooperative.
+1. Have an interest as a user of the cooperative's services;
+2. Apply for membership as an auxiliary member and be admitted by the board as such;
+3. Undertake to complete a trial period of twelve (12) months;
+4. Participate in training sessions on cooperatives;
+5. Undertake to comply with the by-laws of the cooperative;
+6. Sign the auxiliary member agreement.
 
-### [Article 2: Rights of auxiliary members](#article-3-territory-or-recruitment-group) [](commentary/by-law1.md#article-2-rights-of-auxiliary-members){: .fa .fa-question-circle}
+### [3.3. Rights of auxiliary members](#33-rights-of-auxiliary-member) [](commentary/by-law1.md#33-rights-of-auxiliary-members){: .fa .fa-question-circle}
 
-Auxiliary members have the right to attend General Assemblies, to be heard and
-to receive copies of the annual report. However, they do not have the right to
-vote and are ineligible for any elective office.
-
-The auxiliary member is entitled to the rebates. (optional)
-
-### [Article 3: Territory or recruitment group](#article-3-territory-or-recruitment-group) [](commentary/by-law1.md#article-3-territory-or-recruitment-group){: .fa .fa-question-circle}
-
-The territory or group (your choice) of the cooperative recruitment is: X
-
-### [Article 4: Suspension or exclusion](#article-4-suspension-or-exclusion) [](commentary/by-law1.md#article-4-suspension-or-exclusion4242){: .fa .fa-question-circle}
-
-In addition to the grounds provided for in Article 57 of the Law, a member who
-neglects or refuses to do business with the cooperative during a fiscal year
-for at least the sum of $ X is punishable by suspension or expulsion.
-
-### [Article 5: Suspension of voting rights](#article-5-suspension-of-voting-rights) [](commentary/by-law1.md#article-5-suspension-of-voting-rights){: .fa .fa-question-circle}
-
-The Board is authorized to suspend the voting rights of a member at a meeting
-if, during the previous two fiscal years that meeting:
-
-he has not done business with the cooperative
-
-OR
-
-he has not done business with the cooperative for $ X per fiscal year.
-
-### [Article 6: Sharing contracts](#article-6-sharing-contracts) [](commentary/by-law1.md#article-6-sharing-contracts){: .fa .fa-question-circle}
-
-The allocation of contracts shall proceed as follows:
-
-1. The cooperative must first offer contracts to its members taking into
-   account the nature of the work to be performed and the technical expertise
-   required for the execution of various contracts.
-2. As for sharing the contracts between members, sharing the criteria for the
-   type of function to hold are: (suggestion)
-    1. capacity of the member;
-    2. the age of the Member;
-    3. the experience of the Member;
-    4. the customer's request.
-3. If a member refuses or fails to answer a cooperative contract offer within
-   the period determined by the Board, it can not subsequently take the place
-   of a member or any other contract that would have accepted the offer.
-
-Seniority, ability and experience being equal, an agreement may be negotiated
-between the parties. If no agreement can be reached, the draw determines the
-choice of the Member.
-
-### [Article 7: Member Agreement](#article-7-member-agreement) [](commentary/by-law1.md#article-7-member-agreement){: .fa .fa-question-circle}
-
-Each member must sign a membership contract whose text is [annexed](/by-laws/annexes/annex1/).
+The auxiliary members are invited to the general meetings; they may attend and speak, but cannot vote and are not eligible to any position in the board.
 
 
 [Chapter V: Members Assembly](#chapter-v-members-assembly) [](commentary/by-law1.md#chapter-v-members-assembly){: .fa .fa-question-circle}

@@ -46,158 +46,50 @@ The Cooperative Department provides a template for Board resolutions. This templ
 
 ### [2.6. Reimbursement of preferred shares](#26-reimbursement-of-preferred-shares) [](../by-law1.md#26-reimbursement-of-preferred-shares){: .fa .fa-bookmark}
 
-Subject to the restrictions provided for in Article 38 of the law, the
-preferred shares are redeemable or redeemable under the conditions set by the
-Board in accordance with Article 46 of the Law.
+Subject to the restrictions provided for in [Section 38](http://canlii.ca/t/52jp7#sec38) of the Act, the preferred shares are redeemable or redeemable under the conditions set by the Board in accordance with [Section 46](http://canlii.ca/t/52jp7#sec46) of the Act.
 
-The Board may establish rules in this area. However, if members wish to use
-CIP, the board has to stick to the framework provided by the Cooperative
-Department, which sets the rules of redemption and repayment.
+The Board may establish rules in this area. However, if members wish to use CIP, the board has to stick to the framework provided by the Cooperative Department, which sets the rules of redemption and repayment.
 
-The date of 14 February 1997, cited in the law, refers to the old law which
-required that these rules are subject to a regulation adopted in General
-Assembly.
+The date of 14 February 1997, cited in the law, refers to the old law which required that these rules are subject to a regulation adopted in General Assembly.
 
-The Board may provide conditions of refund based on priority classes. It is
-thus necessary to distinguish the origin of the shares. Those from staff member
-investments could be repaid in priority, those from the payment of a dividend
-could be reimbursed next.
+The Board may provide conditions of refund based on priority classes. It is thus necessary to distinguish the origin of the shares. Those from staff member investments could be repaid in priority, those from the payment of a dividend could be reimbursed next.
 
 
-Chapter IV: Members [](../by-law1.md#chapter-iv-members){: .fa .fa-bookmark}
+[Chapter III: Members](#chapter-iii-members) [](../by-law1.md#chapter-iii-members){: .fa .fa-bookmark}
 -------------------
 
-(ref. 51 Articles 60.2, 224.1 and 224.2 of the Act)
+(Reference: sections [51](http://canlii.ca/t/52jp7#sec51) to [60.2](http://canlii.ca/t/52jp7#sec60.2), [224.1](http://canlii.ca/t/52jp7#sec224.1) and [224.2](http://canlii.ca/t/52jp7#sec224.2) of the Act)
 
-### Article 1: Admission requirements [](../by-law1.md#article-1-admission-requirements){: .fa .fa-bookmark}
+### [3.1. Admission as a member](#31-admission-as-a-member) [](../by-law1.md#31-admission-as-a-member){: .fa .fa-bookmark} 
 
-The law does not require the cooperative to implement a process of integration
-of members through the auxiliary member status. If the cooperative does not
-determine such a process, the producer is a full member as of the first day for
-which he fulfills a mandate for the cooperative (unless otherwise specified by
-the producer).
+The law does not require the cooperative to implement a process of integration of members through the auxiliary member status. If the cooperative does not determine such a process, the producer is a full member as of the first day for which he fulfills a mandate for the cooperative (unless otherwise specified by the producer).
 
-However, we strongly suggest setting up good integration processes, to ensure,
-on the one hand, that new partners share the values and vision of the
-organization and on the other, that the person or entity understands the duties
-and responsibilities which become incumbent upon it as a member.
+However, we strongly suggest setting up good integration processes, to ensure, on the one hand, that new partners share the values and vision of the organization and on the other, that the person or entity understands the duties and responsibilities which become incumbent upon it as a member.
 
-To formalize this new relationship between the producer and the cooperative, it
-is advisable to sign an application for admission as an auxiliary member -
-APPENDIX 1.
+### [3.2. Admission as an auxiliary member](#32-admission-as-an-auxiliary-member) [](../by-law1.md#32-admission-as-an-auxiliary-member){: .fa .fa-bookmark}
 
-This is to determine the time after which the board has enough information to
-properly assess the admission of an auxiliary member as a permanent member. If
-you want to keep a quality team, the selection of members should not be done
-lightly. However, excessively strict criteria involving a long and arduous
-selection process may result in alienating the person wishing to become a
-member.
+To formalize this new relationship between the producer and the cooperative, it is advisable to sign an application for admission as an auxiliary member - APPENDIX 1.
 
-We must not forget that membership is an important factor of motivation. This
-motivation is manifested in particular by an increased level of involvement in
-the cooperative. So be careful not to unduly extend the evaluation period. This
-could create an alienating effect in auxiliary members and a stagnant or even
-decreasing involvement of these.
+This is to determine the time after which the board has enough information to properly assess the admission of an auxiliary member as a permanent member. If you want to keep a quality team, the selection of members should not be done lightly. However, excessively strict criteria involving a long and arduous selection process may result in alienating the person wishing to become a member.
 
-However, if one is looking for a very specific profile (high specialization,
-specific values, etc.), it may be appropriate to set a longer probationary
-period and stricter criteria to ensure the highest quality member possible. The
-maximum period permitted by law is 12 months (art 193.4).
+We must not forget that membership is an important factor of motivation. This motivation is manifested in particular by an increased level of involvement in the cooperative. So be careful not to unduly extend the evaluation period. This could create an alienating effect in auxiliary members and a stagnant or even decreasing involvement of these.
 
-If a minimum test period is planned, this may allow in some cases to speed up
-the admissions process as a member, especially if the person is already well
-known to the team.
+However, if one is looking for a very specific profile (high specialization, specific values, etc.), it may be appropriate to set a longer probationary period and stricter criteria to ensure the highest quality member possible. The maximum period permitted by law is 12 months (art 193.4).
 
-In any case, a first associative evaluation could be systemized after the
-minimum period. If the auxiliary member meets the criteria of the coop,
-administrators could accept immediately. Otherwise, the auxiliary member is
-invited to continue the probationary period to its maximum term.
+If a minimum test period is planned, this may allow in some cases to speed up the admissions process as a member, especially if the person is already well known to the team.
 
-Other admission requirements may also be added: positive assessment of
-professional competence, level of voluntary involvement, etc. (Cooperatives
-Act, RSC., C. C-67.2., Article 3.1. C)
+In any case, a first associative evaluation could be systemized after the minimum period. If the auxiliary member meets the criteria of the coop, administrators could accept immediately. Otherwise, the auxiliary member is invited to continue the probationary period to its maximum term.
+
+Other admission requirements may also be added: positive assessment of professional competence, level of voluntary involvement, etc. (Cooperatives Act, RSC., C. C-67.2., Article 3.1. C)
 
 The cooperative may establish additional conditions for admission.
 
-### Article 2: Rights of auxiliary members [](../by-law1.md#article-2-rights-of-auxiliary-members){: .fa .fa-bookmark}
+### [3.3. Rights of auxiliary members](#33-rights-of-auxiliary-member) [](../by-law1.md#33-rights-of-auxiliary-members){: .fa .fa-bookmark}
 
 (This section is optional.)
 
 There is no requirement for a cooperative to convoke auxiliary members.
 However, their presence at meetings can promote integration and training.
-
-### Article 3: Territory or recruitment group [](../by-law1.md#article-3-territory-or-recruitment-group){: .fa .fa-bookmark}
-
-(This section is optional.)
-
-According to the objectives of the cooperative, the recruitment may be limited.
-For example, a cooperative that promotes local development will limit its
-membership to its region or city. A cooperative may also be limited to members
-of a cultural community or women only.
-
-It should however be careful that these criteria are not considered
-discriminatory (see Human Rights).
-
-### Article 4: Suspension or exclusion\*\* [](../by-law1.md#article-4-suspension-or-exclusion){: .fa .fa-bookmark}
-
-(This section is optional.)
-
-This article is excerpted from the law. By suspending or excluding members who,
-for various reasons, have stopped working with the cooperative, it prevents
-people who no longer participate in the life of the cooperative from unfairly
-influencing decisions or otherwise enjoying the benefits of membership. This
-article must therefore be applied discriminately.
-
-The law also provides a number of procedures for the suspension or expulsion of
-a member.
-
-### Article 5: Suspension of voting rights [](../by-law1.md#article-5-suspension-of-voting-rights){: .fa .fa-bookmark}
-
-(This section is optional.)
-
-A member who has little or done business with the cooperative may not be aware
-of the various problems being experienced by the cooperative. Thus, some
-cooperatives to ensure a maximum of expertise and relevance when taking votes,
-may apply this provision of the law.
-
-The membership contract should determine the cooperative's obligations to offer
-services to its members.
-
-### Article 6: Sharing contracts [](../by-law1.md#article-6-sharing-contracts){: .fa .fa-bookmark}
-
-The regulation should minimally specify the grounds for the allocation of
-contracts.
-
-Other relevant rules may be delegated to the board that will set a contract
-management policy.
-
-By law, a union must do business for over 50% of its service revenues with
-members. This article reinforces this obligation by prioritizing members versus
-non-members.
-
-This article limits the priority of the member if he does not respond in time
-to a call. It thus enables the cooperative to be more efficient in the
-allocation of contracts.
-
-### Article 7: Member Agreement [](../by-law1.md#article-7-member-agreement){: .fa .fa-bookmark}
-
-(This section is optional.)
-
-The member of contract is an agreement between the member and the cooperative
-for a fixed or indefinite period, which recognizes the admission of the member
-in the cooperative.
-
-The contract determines the nature of the relationship between the cooperative
-and the member.
-
-Various elements can navigate: remuneration, contract distribution modalities,
-terms of payment of shares, etc.
-
-The membership contract could also understand the expectations and demands on
-the member: level of involvement, responsibilities, etc.
-
-It is recommended to start with a relatively light contract that will evolve
-over time. (Annex III: Member Agreement)
 
 
 Chapter V: Members Assembly [](../by-law1.md#chapter-v-members-assembly){: .fa .fa-bookmark}
