@@ -193,100 +193,41 @@ The directors can use means of telecommunication to participate in meetings of t
 All previous acts and motions carried at board meetings are deemed to be regular and valid even if it is subsequently discovered that the appointment of a director is tarnished by irregularities or that either one of the directors is not competent to be on the board.
 
 
-[Chapter VII:  Executive Committee](#chapter-vii-executive-committee) [](commentary/by-law1.md#chapter-vii-executive-committee){: .fa .fa-question-circle}
----------------------------------
+[Chapter VI: Powers and Duties of the Cooperative’s Officers](#chapter-vi-powers-and-duties-of-the-cooperatives-officers) [](commentary/by-law1.md#chapter-vi-powers-and-duties-of-the-cooperatives-officers){: .fa .fa-question-circle}
+-------------------------------------------------------------
 
-### [Article 1: Executive committee](#article-1-executive-committee) [](commentary/by-law1.md#article-1-executive-committee){: .fa .fa-question-circle}
+### [6.1. President](#61-president) [](commentary/by-law1.md#61-president){: .fa .fa-question-circle}
 
-The board is authorized to establish an executive committee.
+1. He/she presides over the general assemblies and board meetings;
+2. He/she ensures that the by-laws are complied with;
+3. He/she oversees the execution of decisions made at general meetings and board meetings;
+4. He/she represents the cooperative in its dealings with the outside world.
 
-The number of members of the Executive Committee may exceed half the number of
-directors and may not be less than 3.
+### [6.2. Vice-president](#62-vice-president) [](commentary/by-law1.md#62-vice-president){: .fa .fa-question-circle}
 
+1. He/she assists the chairman at board meetings;
+2. He/she fills in for the chairman in his/her absence;
+3. He/she executes any mandates given by the board.
 
-[Chapter VIII:  Leaders of the Cooperative](#chapter-viii-leaders-of-the-cooperative) [](commentary/by-law1.md#chapter-viii-leaders-of-the-cooperative){: .fa .fa-question-circle}
------------------------------------------
+### [6.3. Secretary](#63-secretary) [](commentary/by-law1.md#63-secretary){: .fa .fa-question-circle}
 
-### [Article 1: President](#article-1-president) [](commentary/by-law1.md#article-1-president){: .fa .fa-question-circle}
+1. He/she is responsible for drawing up the minutes of the general meetings and board meetings; 
+2. He/she is responsible for maintaining and keeping the cooperative’s register and archives; 
+3. He/she forwards the notices for the general meetings and board meetings; 
+4. He/she is automatically appointed secretary of the board and forwards to the various organizations what is required by law;
+5. He/she performs all tasks related to his duties.
 
-The Chairperson is also chairperson of the cooperative.
+### [6.4. Treasurer](#64-treasurer) [](commentary/by-law1.md#64-treasurer){: .fa .fa-question-circle}
 
-She chairs or sees to chair the general meetings and meetings of the Board of
-Directors
+1. He/she safe-keeps the portfolio, funds and accounting books and is responsible for the bookkeeping and accounting; 
+2. He/she must submit the books he safe-keeps to annual auditing and inspections prescribed by law; 
+3. In the three (3) months following the end of each fiscal year, he must prepare the annual report prescribed under section [132]() of the Act, cooperate with the auditor and submit the annual report to the board for approval; 
+4. He/she keeps up to date the register of the shares held by the members; 
+5. He/she performs all tasks related to his duties.
 
-She ensures compliance with the Regulation and monitors the implementation of
-decisions taken in assembly and board
+### [6.5. General Manager](#65-general-manager) [](commentary/by-law1.md#65-general-manager){: .fa .fa-question-circle}
 
-She performs other duties as assigned by the board
-
-### [Article 2: Vice-president](#article-2-vice-president) [](commentary/by-law1.md#article-2-vice-president){: .fa .fa-question-circle}
-
-The vice president assists the president in office. In the absence or
-disability of the president, vice-president replaces. He performs other duties
-assigned by the board.
-
-### [Article 3: Secretary-treasurer](#article-3-secretary-treasurer) [](commentary/by-law1.md#article-3-secretary-treasurer){: .fa .fa-question-circle}
-
-She is responsible for drafting the minutes of the General Assemblies and
-meetings of the Board;
-
-She is responsible for keeping and custody of the register and of the
-cooperative's archives;
-
-She transmits the notice of the General Assembly and the Board;
-
-She is secretary of the board office and transmitted to various organizations
-as required by law;
-
-She performs all tasks inherent to the role's functions.
-
-### [Article 4: CEO or manager or coordinator](#article-4-ceo-or-manager-or-coordinator) [](commentary/by-law1.md#article-4-ceo-or-manager-or-coordinator){: .fa .fa-question-circle}
-
-Under the direct supervision of the Board, administers, directs and controls
-(or coordinates) the affairs of the cooperative.
-
-It has the immediate responsibility of movable and immovable property of the
-cooperative
-
-He has custody of the portfolio of funds and accounting books as well as the
-responsibility for bookkeeping
-
-It is responsible to the Board, management staff. It calls on all workers,
-distributes the work and determines their salaries according to the schedule
-established by the board. He informed the Board Nomination and recommend to the
-Board suspensions, dismissals and layoffs of workers;
-
-It presents to the board a monthly management report;
-
-It must submit the books he has custody of the annual audit and the inspections
-required by the law;
-
-It presents monthly management reports to the Board
-
-During the three months following the end of each year, he must see to the
-preparation of the annual report provided for in Article 132 of the law, work
-with the auditor and submit the annual report to the Board for approval;
-
-It must comply with the instructions of the Board and provide any information
-it may require.
-
-### [Article 5: Development Advisor members](#article-5-development-advisor-members) [](commentary/by-law1.md#article-5-development-advisor-members){: .fa .fa-question-circle}
-
-Elected by the General Assembly.
-
-Under the direct supervision of the board, he is responsible for the
-implementation of tasks concerning the development of the members.
-
-It encourages co-op members, officers and employees of the cooperative.
-
-It manages a portfolio dedicated to the professional training of workers
-members.
-
-It promotes cooperation between the members and the cooperative and between the
-various cooperatives and encourages support for the development of the
-environment where the cooperative operates.
-
-It mediates in cases of internal conflict.
+The Board is authorized to determine the powers and duties of the general manager.
 
 
 [Chapter IX:  Activities of the cooperative](#chapter-ix-activities-of-the-cooperative) [](commentary/by-law1.md#chapter-ix-activities-of-the-cooperative){: .fa .fa-question-circle}

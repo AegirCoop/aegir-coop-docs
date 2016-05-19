@@ -229,23 +229,10 @@ Written resolutions, signed by all directors can be used for isolated and
 relatively urgent issues that require debate.
 
 
-Chapter VII:  Executive Committee [](../by-law1.md#chapter-vii-executive-committee){: .fa .fa-bookmark}
----------------------------------
+[Chapter VI: Powers and Duties of the Cooperative’s Officers](#chapter-vi-powers-and-duties-of-the-cooperatives-officers) [](../by-law1.md#chapter-vi-powers-and-duties-of-the-cooperatives-officers){: .fa .fa-bookmark}
+-------------------------------------------------------------
 
-(ref. Articles 107-110 of the Act)
-
-### Article 1: Executive committee [](../by-law1.md#article-1-executive-committee){: .fa .fa-bookmark}
-
-(This section is optional)
-
-Note: The constitution of such a committee is permitted only if the board
-consists of at least 6 members.
-
-
-Chapter VIII:  Leaders of the Cooperative [](../by-law1.md#chapter-viii-leaders-of-the-cooperative){: .fa .fa-bookmark}
------------------------------------------
-
-(ref. Articles 112.1 and 117 of the Act)
+(Reference: sections [112.1]() and [117]() of the Act)
 
 Only the positions of President, Vice President and Secretary are prescribed by
 law. Others are created by regulation. These other items may be necessary
@@ -269,23 +256,18 @@ aspects of the cooperative financing, training, promotion, etc. Some standing
 committees can also be integrated in Regulation (executive committee, for
 example).
 
-### Article 1: President [](../by-law1.md#article-1-president){: .fa .fa-bookmark}
+### [6.1. President](#61-president) [](../by-law1.md#61-president){: .fa .fa-bookmark}
 
 The president, in addition to her statutory role, usually has a leading
 function at associations. This is the person who should look after the
 interests of members and that members could refer.
 
-### Article 2: Vice-president [](../by-law1.md#article-2-vice-president){: .fa .fa-bookmark}
+### [6.2. Vice-president](#62-vice-president) [](../by-law1.md#62-vice-president){: .fa .fa-bookmark}
 
 The Vice President often has personal characteristics approximating those of
 the president. He is also her right arm.
 
-### Article 3: Secretary-treasurer [](../by-law1.md#article-3-secretary-treasurer){: .fa .fa-bookmark}
-
-(this item may be split according to the number of directors to the board)
-
-This position can also be split into two distinct positions. The size of the
-cooperative often influences the choice.
+### [6.3. Secretary](#63-secretary) [](../by-law1.md#63-secretary){: .fa .fa-bookmark}
 
 The secretary and treasurer are the only positions on the Board that may be
 paid for work related to the board since they are the only ones to produce work
@@ -294,7 +276,9 @@ paid for meetings. It should be noted that the secretary and the treasurer,
 because of the large amount of information processed, also involves a lot of
 power. It is therefore important to choose the right holders.
 
-### Article 4: CEO or manager or coordinator [](../by-law1.md#article-4-ceo-or-manager-or-coordinator){: .fa .fa-bookmark}
+### [6.4. Treasurer](#64-treasurer) [](../by-law1.md#64-treasurer){: .fa .fa-bookmark}
+
+### [6.5. General Manager](#65-general-manager) [](../by-law1.md#65-general-manager){: .fa .fa-bookmark}
 
 (This section is optional)
 
@@ -303,15 +287,6 @@ manager or a general manager will often have a decision-making approach a
 coordinator who will try to seek consensus and applies the collective
 decisions. In all cases, it is responsible for the management of business
 operations. It is somehow complement or weight against the president.
-
-### Article 5: Development Advisor members [](../by-law1.md#article-5-development-advisor-members){: .fa .fa-bookmark}
-
-(This section is optional)
-
-It is interesting to include in the structure of the cooperative proceeding or
-related central role in community life and conflict regulations. This authority
-or person may be given a mediation role. Take care to appoint a person to that
-position at the "integrator" profile with strong interpersonal skills.
 
 
 Chapter IX:  Activities of the cooperative [](../by-law1.md#chapter-ix-activities-of-the-cooperative){: .fa .fa-bookmark}
