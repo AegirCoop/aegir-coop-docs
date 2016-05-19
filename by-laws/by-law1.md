@@ -122,178 +122,76 @@ The vote in such a meeting will be taken by email or instant messaging.
 The vote is by show of hands unless a majority of members present at the meeting decide otherwise.
 
 
-[Chapter VI:  Board of Directors ](#chapter-vi-board-of-directors)[](commentary/by-law1.md#chapter-vi-board-of-directors){: .fa .fa-question-circle}
--------------------------------
+[Chapter V: Board of Directors ](#chapter-v-board-of-directors)[](commentary/by-law1.md#chapter-v-board-of-directors){: .fa .fa-question-circle}
+--------------------------------
 
-### [Article 1: Eligibility of members](#article-1-eligibility-of-members) [](commentary/by-law1.md#article-1-eligibility-of-members42){: .fa .fa-question-circle}
+### [5.1. Eligibility of members](#51-eligibility-of-members) [](commentary/by-law1.md#51-eligibility-of-members){: .fa .fa-question-circle}
 
 To be eligible as a director, a member must:
 
-1. Have done business with the cooperative during the previous fiscal year,
-   for at least the sum of $ **[number]**
-2. Have paid the installments due on his qualifying shares
+- Have paid any due payments on his/her subscribed shares and any other amount due;
 
-### [Article 2: Eligibility of non-members](#article-2-eligibility-of-non-members) [](commentary/by-law1.md#article-2-eligibility-of-non-members42){: .fa .fa-question-circle}
+### [5.2. Composition](#52-composition) [](commentary/by-law1.md#52-composition){: .fa .fa-question-circle}
 
-A person whose application is recommended by the board of directors, but is not
-a member, is eligible for a director.
+The board is made up of three (3) directors.
 
-### [Article 3: Observer membership](#article-3-observer-membership) [](commentary/by-law1.md#article-3-observer-membership42){: .fa .fa-question-circle}
+One of these directors may be selected from non-members.
 
-A member may serve on the Board as an observer.
+### [5.3. Term of office](#53-term-of-office) [](commentary/by-law1.md#53-term-of-office){: .fa .fa-question-circle}
 
-The observer may or may not have the right to speak.
+The term of office of a director is three (3) years.
 
-### [Article 4: Composition](#article-4-composition) [](commentary/by-law1.md#article-4-composition){: .fa .fa-question-circle}
+#### [5.3.1. Director rotation](#531-director-rotation) [](commentary/by-law1.md#531-director-rotation){: .fa .fa-question-circle}
 
-The board is composed of X (x) directors.
+1. For the first three (3) years of the foundation of the cooperative, the term of office of the directors is as follows:
+    1. One (1) position will be up for election after the first year, one (1) position after the second year and the last position after the third year.
+2. A random draw will determine the positions that will be up for election after the first and second years. 
+3. The term of office of the directors elected afterward will be three (3) years.
 
-### [Article 5: Powers of the Board](#article-5-powers-of-the-board) [](commentary/by-law1.md#article-5-powers-of-the-board){: .fa .fa-question-circle}
+### [5.4. Nomination of non-members directors](#54-nomination-of-non-members-directors) [](commentary/by-law1.md#54-nomination-of-non-members-directors){: .fa .fa-question-circle}
 
-The Board of Directors has all the powers to administer the affairs of the cooperative\*\*
+1. Nominations of non-members as directors are recommended at the Assembly by the board which has previously provided consent of such persons; 
+2. Each nomination must be approved by the Assembly; 
+3. After acceptance, if the number of candidates equals the number of vacant position, candidates are elected by acclamation; 
+4. If the number of accepted candidates exceeds the number of positions to be filled, there is an election in accordance with the election procedure;
+5. If no nominations are accepted by the Assembly, it must fill the vacancy among the members of the cooperative.
 
-The following powers must, however, obtain the authorization of the General
-Assembly before being applied by the Board\*: (Examples)
+### [5.5. Nomination and election of directors](#55-nomination-and-election-of-directors) [](commentary/by-law1.md#55-nomination-and-election-of-directors){: .fa .fa-question-circle}
 
-* The relocation of place of business (must be authorized by a law adopted by ¾
-  of the votes cast in AG)
-* The re-orientation of business
-* etc.
+The cooperative’s president and secretary are election chairman and secretary, unless they are nominated:
 
-### [Article 6: Duties of the Board](#article-6-duties-of-the-board) [](commentary/by-law1.md#article-6-duties-of-the-board4242){: .fa .fa-question-circle}
+1. The assembly names a scrutineer and, if need be, an election chairman and secretary. 
+   By agreeing to act in this capacity, these persons also agree to not be nominated.
+2. The chairman reads the names of the directors whose term haves ended.
+3. Afterward, he informs the assembly of the following points:
+    1. The directors whose term is ending are eligible for reelection;
+    2. The members can nominate as many candidates as they wish;
+    3. The nominations are closed upon motion duly seconded and not contested;
+    4. The chairman verifies the acceptance of each candidate upon his nomination.
+       Any refusal automatically eliminates the candidate;
+    5. Afterward, if there are more candidates than vacancies, an election takes place.
+       If the number of candidates is equal to that of vacancies, the candidates are elected by acclamation; if the number of candidates is lower than that of vacancies, the board may fill the positions during the cooperative’s fiscal year, in compliance with section [85](http://canlii.ca/t/52jp7#sec85) of the Act;
+    6. In the event of an election, the vote is by secret ballot. A ballot paper is given to each member, who then writes the name of the candidates of his choice. The number of names on the ballot must equal that of the vacancies;
+    7. The scrutineer adds up the votes obtained by each candidate and relays the outcome to the election chairman; 
+    8. For each vacancy, the chairman declares elected the candidate who has received the most votes, without stating, however, the actual number of votes; 
+    9. In case of equality of votes for the last vacancy, the vote is repeated only among the candidates with an equal number of votes;
+    10. If, after a second vote, the equality remains, the director is chosen by a random draw;
+    11. A recount of the votes is carried out if at least one third of the members present request it. The candidates concerned are then present for the recount;
+    12. The ballots are disposed of by the scrutineer immediately after the vote;
+    13. All decisions made by the chairman with regard to the procedure binds the assembly unless these members reverse them with a majority of the votes cast by the members present.
 
-The Board has the following duties:
+### [5.6. Board meetings](#56-board-meetings) [](commentary/by-law1.md#56-board-meetings){: .fa .fa-question-circle}
 
-1. Hire a CEO, manager or coordinator
-2. Provide the cooperative against the risks it determines, subject to the
-   requirements and restrictions prescribed
-3. Designate the persons authorized to sign any contract or other document on
-   behalf of the cooperative
-4. At the annual general meeting, report of its term, present the annual report
-   and make a recommendation regarding:
-    1. the surplus allocation (taking into account forecasts of redemption of
-       units contained in the annual report)
-    2. non-members of election administrators
-5. Facilitate the work of the auditor
-6. Encourage co-op members, officers and employees of the cooperative
-7. Promote cooperation between members and the cooperative and between the
-   various cooperatives and encourage support for the development of the
-   environment where the cooperative operates
-8. To provide the Minister, if he so requests, a copy of the regulations and
-   the information or documents he may require regarding the application of
-   this Title
+The board of directors meets as often as the cooperative’s interest requires.
 
-### [Article 7: Director Tenure](#article-7-director-tenure) [](commentary/by-law1.md#article-7-director-tenure){: .fa .fa-question-circle}
+The notice is given by email at least five (5) days before the date of the meeting.
 
-The appointment of a director is for a term of **[number]** (**[#]**) years.
+In the event of an emergency meeting, the time of notice is, exceptionally, reduced to twenty-four (24) hours.
 
-#### [Article 7.1: Director Rotation](#article-71-director-rotation) [](commentary/by-law1.md#article-71-director-rotation){: .fa .fa-question-circle}
+The directors can use means of telecommunication to participate in meetings of the board if they are unable to do it physically.
 
-1. **[number]** (**[#]**) years after the founding of the cooperative, the duration of the
-   mandate of directors applies as follows: **[number]** (**[#]**) positions will be
-   worn election after the first year, **[number]** (**[#]**) positions after the second
-   year **[number]** (**[#]**) positions after the third year.
-2. There will draw to determine the positions that will be worn election after
-   the first year and second year.
-3. The directors elected thereafter shall serve for **[number]** (**[#]**) years.
+All previous acts and motions carried at board meetings are deemed to be regular and valid even if it is subsequently discovered that the appointment of a director is tarnished by irregularities or that either one of the directors is not competent to be on the board.
 
-### [Article 8: Nomination of non-member trustees](#article-8-nomination-of-non-member-trustees) [](commentary/by-law1.md#article-8-nomination-of-non-member-trustees){: .fa .fa-question-circle}
-
-1. \*\* Nominations of non-member persons as directors are recommended to the
-   meeting of members of the Board who has previously ensured the consent of
-   such persons
-2. Each nomination must be approved by the General Assembly
-3. \*\* The number of positions open to non-member persons may not exceed one
-   third of the total directors
-4. Each Director shall be elected by the General Assembly in accordance with
-   the election procedure referred to in Article 8.2 of these bylaws
-5. If no nominations are accepted by the Assembly, it shall fill the vacancy
-   among the members of the cooperative
-
-### [Article 9: Nomination procedure and election of directors](#article-9-nomination-procedure-and-election-of-directors) [](commentary/by-law1.md#article-9-nomination-procedure-and-election-of-directors){: .fa .fa-question-circle}
-
-If the number of members present at the meeting allows, the procedure described
-in 9.1 applies.
-
-If the General Assembly assesses that this procedure is not applicable, it may,
-on a proposal duly seconded and adopted by majority, derogate and determine
-another election procedure
-
-#### [Article 9.1: Procedure](#article-91-procedure) [](commentary/by-law1.md#article-91-procedure){: .fa .fa-question-circle}
-
-The president and the secretary of the cooperative presidents and secretary are
-elected, unless they themselves elected.
-
-The meeting appoints two tellers, and if necessary, a president and a secretary
-of election.
-
-By agreeing to act as such these people also agree not to be nominated.
-
-The President and Secretary supervise elections using the following procedure:
-
-1. The presiding officer reads out the names of the directors whose term has
-   expired.
-2. The chairman, if any, expressed vacation unfulfilled to the Board;
-3. Thereafter, he informs the meeting of the following:
-    1. Directors whose terms end may be re-elected;
-    2. Members can nominate as many candidates as they wish;
-    3. The President shall ensure the acceptance of each candidate upon
-       nomination. Any refusal automatically eliminates the candidate;
-    4. Nominations are closed on duly seconded and uncontested proposal;
-    5. After this elimination, if there are more candidates than vacancies,
-       there are elections. If the number of candidates equals the number of
-       vacancies, candidates are elected by acclamation;
-    6. If there is an election, it is done by secret ballot. A newsletter is
-       distributed to each member who registered there the names of candidates
-       of their choice. The number of names on the ballot must match the number
-       of vacancies;
-    7. The tellers compile the results and send them to the returning officer;
-    8. The President shall declare elected for each position to bridge the
-       candidate with the most votes, without revealing the number of votes
-       obtained by each candidate;
-    9. In case of equality of votes for the last seat, the election is resumed
-       between the tied candidates only;
-    10. If, after a second ballot, there is again a tie, the decision is made
-        by lot;
-    11. There will be a recount if at least one third of the members present so
-        request. In this case, the candidates concerned attend the recount;
-    12. The ballots are destroyed by the election clerk immediately after the
-        vote;
-    13. Any decision of the President as to the procedure, forcing the meeting
-        unless the latter reverses this decision by a majority vote of the
-        members present.
-
-### [Article 10: Board meetings](#article-10-board-meetings) [](commentary/by-law1.md#article-10-board-meetings){: .fa .fa-question-circle}
-
-The Board of Directors meets as often as is necessary for the interests of the
-cooperative.
-
-The board, however, must meet at least one (1) time per <period>.
-
-\*\* The quorum of the Board is the majority of its members.
-
-A board meeting may be convened by the president or two directors.
-
-The invitation is given by <method> at least X days before the date fixed for
-holding the meeting.
-
-In an emergency meeting, the notice period is exceptionally reduced to
-X (x) hours.
-
-All past acts or any resolution passed at any meeting of the board shall be
-deemed regular and valid even if it is later discovered that the appointment of
-a director is irregular or that one or the other Administrators no longer
-qualified to serve.
-
-### [Article 11: Revocation](#article-11-revocation) [](commentary/by-law1.md#article-11-revocation){: .fa .fa-question-circle}
-
-A Board member may be revoked in accordance with articles 99-101 of the law.
-
-### [Article 12: Holiday](#article-12-holiday) [](commentary/by-law1.md#article-12-holiday42){: .fa .fa-question-circle}
-
-In case of vacancy, the directors may appoint an eligible person as a director
-for the unexpired term of office. Failing to do so before the next annual
-general meeting, the Assembly may fill the vacancy.
 
 [Chapter VII:  Executive Committee](#chapter-vii-executive-committee) [](commentary/by-law1.md#chapter-vii-executive-committee){: .fa .fa-question-circle}
 ---------------------------------

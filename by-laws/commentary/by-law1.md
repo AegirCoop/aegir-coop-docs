@@ -130,12 +130,12 @@ coordinating its partners could, if the vote is by show of hands, suffer the
 blow-cons in his working relationships. It is important to respect that right.
 
 
-Chapter VI:  Board of Directors [](../by-law1.md#chapter-vi-board-of-directors){: .fa .fa-bookmark}
--------------------------------
+[Chapter V: Board of Directors ](#chapter-v-board-of-directors)[](../by-law1.md#chapter-v-board-of-directors){: .fa .fa-bookmark}
+--------------------------------
 
-(ref. 80 Articles 106.1 and 223.2 of the Act)
+(Reference: sections [80](http://canlii.ca/t/52jp7#sec80) to [106.1](http://canlii.ca/t/52jp7#sec106.1) and [223.2](http://canlii.ca/t/52jp7#sec223.2) of the Act)
 
-### Article 1: Eligibility of members\* [](../by-law1.md#article-1-eligibility-of-members){: .fa .fa-bookmark}
+### [5.1. Eligibility of members](#51-eligibility-of-members) [](../by-law1.md#51-eligibility-of-members){: .fa .fa-bookmark}
 
 (This section is optional)
 
@@ -154,34 +154,7 @@ bylaws.
    Maturities on qualifying shares are those who are late according to the
    regulation.
 
-### Article 2: Eligibility of non-members\* [](../by-law1.md#article-2-eligibility-of-non-members){: .fa .fa-bookmark}
-
-(This section is optional)
-
-Since 1997, members may elect persons who are not members of the cooperative to
-positions of directors. These positions, however, are limited to one third of
-the total number of directorships. These candidates are usually resource
-persons or external investors. The law gives the council the power to recommend
-the candidate to the Assembly.
-
-### Article 3: Observer membership\* [](../by-law1.md#article-3-observer-membership){: .fa .fa-bookmark}
-
-(This section is optional)
-
-It is preferable that the cooperative provide in its regulations for the
-application process to sit as observer. The request may be made orally or in
-writing to the Board. It can also be decreed that such a request must be made
-at a special General Assembly.
-
-It is good to also include the reasons for the request as an observer. A member
-may be authorized to apply to sit as observer in case of doubt and suspicion of
-irregularities on the Board or simply for the purpose aiding the operation of
-the Board in the context of possibly filling a director position.
-
-It should also provide the conditions by which refusal is acceptable, for
-example because of the confidential nature of the decisions required.
-
-### Article 4: Composition [](../by-law1.md#article-4-composition){: .fa .fa-bookmark}
+### [5.2. Composition](#52-composition) [](../by-law1.md#52-composition){: .fa .fa-question-circle}
 
 The number of directors, including non-members, is a minimum of three and a
 maximum of fifteen. An odd number is recommended to avoid ties in voting.
@@ -191,23 +164,7 @@ of the cooperative. Other considerations such as the effectiveness of the board
 or the centralization of power (or de-centralization) are often among the items
 discussed.
 
-### Article 5: Powers of the Board [](../by-law1.md#article-5-powers-of-the-board){: .fa .fa-bookmark}
-
-While these powers are defined by law, it is pertinent to inform the members of
-the powers of their boards.
-
-The General Assembly may, by adopting a regulation to that effect, limit the
-authority of the board. It is suggested not to abuse this power but only to
-ensure that respect all members not be treated lightly by the board. The choice
-of such restrictions of Board power must take into account the efficiency of
-operations and the general will of the members.
-
-### Article 6: Duties of the Board\*\* [](../by-law1.md#article-6-duties-of-the-board){: .fa .fa-bookmark}
-
-The board's duties are drawn from the law. Their mention the internal bylaws
-aims to inform members. Other duties may be given by the General Assembly.
-
-### Article 7: Director Tenure [](../by-law1.md#article-7-director-tenure){: .fa .fa-bookmark}
+### [5.3. Term of office](#53-term-of-office) [](commentary/by-law1.md#53-term-of-office){: .fa .fa-question-circle}
 
 This is the period for which the director is elected. The maximum duration is
 three years. Directors whose term expires shall remain in office until they are
@@ -215,7 +172,7 @@ replaced or re-elected.
 
 If no duration is indicated herein, the term is one year.
 
-#### Article 7.1: Director Rotation [](../by-law1.md#article-71-director-rotation){: .fa .fa-bookmark}
+#### [5.3.1. Director rotation](#531-director-rotation) [](../by-law1.md#531-director-rotation){: .fa .fa-bookmark}
 
 This is an operation through which, each year, some of the positions on the
 Board are re-elected. For two-year terms, all posts have been put in election
@@ -231,7 +188,7 @@ elected each year. The annual mandates allow the Assembly to renew the board
 more regularly but this can create some instability if a large part or all of
 the board is replaced.
 
-### Article 8: Nomination of non-member trustees [](../by-law1.md#article-8-nomination-of-non-member-trustees){: .fa .fa-bookmark}
+### [5.4. Nomination of non-members directors](#54-nomination-of-non-members-directors) [](../by-law1.md#54-nomination-of-non-members-directors){: .fa .fa-bookmark}
 
 (This section is optional)
 
@@ -241,7 +198,7 @@ non-member directors can be elected.
 Sections (1) and (3) are derived from the law while articles (2), (4) and (5)
 offer procedures.
 
-### Article 9: Nomination procedure and election of directors [](../by-law1.md#article-9-nomination-procedure-and-election-of-directors){: .fa .fa-bookmark}
+### [5.5. Nomination and election of directors](#55-nomination-and-election-of-directors) [](../by-law1.md#55-nomination-and-election-of-directors){: .fa .fa-bookmark}
 
 For small cooperatives, it may not be possible to appoint a returning officer,
 an election clerk and two scrutineers, making it impossible to apply the usual
@@ -250,14 +207,12 @@ One can, for example, appoint a secretary and a deputy Chairman, can nominate a
 block team simple proposition, etc. It is suggested to prepare this alternative
 procedure to save time meeting.
 
-#### Article 9.1: Procedure [](../by-law1.md#article-91-procedure){: .fa .fa-bookmark}
-
 The presented procedure allows, if the number of members is sufficient, to
 ensure the conduct of a transparent and democratic election.
 
-### Article 10: Board meetings [](../by-law1.md#article-10-board-meetings){: .fa .fa-bookmark}
+### [5.6. Board meetings](#56-board-meetings) [](../by-law1.md#56-board-meetings){: .fa .fa-bookmark}
 
-\*\* Written resolutions, signed by all directors have the same value in terms
+Written resolutions, signed by all directors have the same value in terms
 of the law as if they had been adopted during a meeting of the Board.
 
 This article helps to avoid confusion and ensure the legal validity of
@@ -273,17 +228,6 @@ days. The members, however, may decide otherwise in the regulations.
 Written resolutions, signed by all directors can be used for isolated and
 relatively urgent issues that require debate.
 
-### Article 11: Revocation [](../by-law1.md#article-11-revocation){: .fa .fa-bookmark}
-
-It is important that members are aware of their right to dispose of directors.
-It goes without saying that the use of the procedure under the law must be used
-in extreme cases.
-
-### Article 12: Holiday\* [](../by-law1.md#article-12-holiday){: .fa .fa-bookmark}
-
-To ensure maximum expertise on the board, it is important not to leave seats
-vacant (due to resignation, dismissal or other). The board can therefore fill
-the seat temporarily.
 
 Chapter VII:  Executive Committee [](../by-law1.md#chapter-vii-executive-committee){: .fa .fa-bookmark}
 ---------------------------------
