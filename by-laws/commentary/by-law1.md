@@ -289,92 +289,24 @@ decisions. In all cases, it is responsible for the management of business
 operations. It is somehow complement or weight against the president.
 
 
-Chapter IX:  Activities of the cooperative [](../by-law1.md#chapter-ix-activities-of-the-cooperative){: .fa .fa-bookmark}
-------------------------------------------
+[Chapter VII: Activities](#chapter-vii-activities) [](../by-law1.md#chapter-vii-activities){: .fa .fa-bookmark}
+-------------------------
 
-(ref. Articles 90, 226 and 128-134 of the Act)
+(Reference: sections [90](), [226]() and [128]()-[134]() of the Act)
 
-### Article 1: Workers compensation [](../by-law1.md#article-1-workers-compensation){: .fa .fa-bookmark}
-
-### Article 2: Continuing education [](../by-law1.md#article-2-continuing-education){: .fa .fa-bookmark}
-
-### Article 3: Rebates, measuring the volume of work [](../by-law1.md#article-3-rebates-measuring-the-volume-of-work){: .fa .fa-bookmark}
-
-The rate of rebates may vary depending on the nature or quality of products or
-services which were the subject of operations. (Article 151)
-
-In a cooperative, it is possible that members are awarded a portion of the
-surplus (profits) of the company; they are called rebates. Unlike private
-companies, the amount of these rebates is not calculated according to the
-amount invested but by the volume of operations carried out for the
-cooperative.
-
-The working volume can be calculated from wages, hours worked or other method
-of calculation determined by regulation. It can also include volunteer hours to
-promote involvement.
-
-The regulation may also determine that rebates are calculated to four years.
-This measure enables members who have worked for the cooperative before it
-declares surplus to benefit more equitably sharing the surplus. These members
-are often the founders who have worked hard for the cooperative reaches
-profitability. One can thus create a balance between the different generations
-of members: those who arrived after the stabilized and became profitable
-cooperative, and those who experienced the often very difficult start-up
-period. However, we must be concerned with the proportion that goes to old and
-new. Be careful, for example, that the former does not monopolize almost all
-discounts in order not to discourage new.
-
-A cooperative may also prohibit the patronage allocation (it states in its
-articles of incorporation, box 5). In this case (if, in addition, it does not
-pay interest on its share), it will be considered vis-à-vis the tax, as a
-non-profit organization and will not have to pay for taxes on its surplus.
-
-### Article 4: Valuation Reserve [](../by-law1.md#article-4-valuation-reserve){: .fa .fa-bookmark}
-
-(149.1 to 149.6 VIEW OF THE ACT)
-
-#### Article 4.1: Constitution [](../by-law1.md#article-41-constitution){: .fa .fa-bookmark}
-
-#### Article 4.2: Overpayments and surplus [](../by-law1.md#article-42-overpayments-and-surplus){: .fa .fa-bookmark}
-
-#### Article 4.3: Rebates [](../by-law1.md#article-43-rebates){: .fa .fa-bookmark}
-
-#### Article 4.4: Deficit [](../by-law1.md#article-44-deficit){: .fa .fa-bookmark}
-
-#### Article 4.5: Liquidation [](../by-law1.md#article-45-liquidation){: .fa .fa-bookmark}
-
-### Article 5: Suggestion and complaint [](../by-law1.md#article-5-suggestion-and-complaint){: .fa .fa-bookmark}
-
-While some cooperatives will leave to management the task of managing the
-complaints, others will form committees or adopt more detailed regulations.
-This often depends on the size of the cooperative. However, it is important to
-have a procedure to avoid arbitrariness.
-
-### Article 6: Insurance [](../by-law1.md#article-6-insurance){: .fa .fa-bookmark}
+### [7.1. Insurance](#71-insurance) [](../by-law1.md#71-insurance){: .fa .fa-bookmark}
 
 The law and the most cooperative partners (financial institutions, landlords,
 etc.) require the cooperative is ensured.
 
-### Article 7: Financial exercise [](../by-law1.md#article-7-financial-exercise){: .fa .fa-bookmark}
+### [7.2. Fiscal year](#72-fiscal-year) [](../by-law1.md#72-fiscal-year){: .fa .fa-bookmark}
 
 The financial year is often different from the calendar year (calendar). It
 depends on the date of commencement of operations, the seasonal cycle (you may
 want to close the year in a period less busy) or simultaneously with the fiscal
 year (March 31).
 
-### Article 8: Signature [](../by-law1.md#article-8-signature){: .fa .fa-bookmark}
-
-For added security, the law requires that more than one person signs the
-checks. By having more signatories than the required number, you can get more
-flexibility (availability of signatory). Usually the director will signatory,
-as well as leaders on the board.
-
-### Article 9: Annual Report [](../by-law1.md#article-9-annual-report){: .fa .fa-bookmark}
-
-The annual report is, above all, produced to give members information on the
-cooperative's operations during the year.
-
-### Article 10: Coming Into Force [](../by-law1.md#article-10-coming-into-force){: .fa .fa-bookmark}
+### [7.3 Effective date](#73-effective-date) [](../by-law1.md#73-effective-date){: .fa .fa-bookmark}
 
 Date of adoption of the Regulation. You can also register each modification dates.
 

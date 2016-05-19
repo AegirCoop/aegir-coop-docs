@@ -230,110 +230,24 @@ All previous acts and motions carried at board meetings are deemed to be regular
 The Board is authorized to determine the powers and duties of the general manager.
 
 
-[Chapter IX:  Activities of the cooperative](#chapter-ix-activities-of-the-cooperative) [](commentary/by-law1.md#chapter-ix-activities-of-the-cooperative){: .fa .fa-question-circle}
-------------------------------------------
+[Chapter VII: Activities](#chapter-vii-activities) [](commentary/by-law1.md#chapter-vii-activities){: .fa .fa-question-circle}
+-------------------------
 
-### [Article 1: Workers compensation](#article-1-workers-compensation) [](commentary/by-law1.md#article-1-workers-compensation){: .fa .fa-question-circle}
+### [7.1. Insurance](#71-insurance) [](commentary/by-law1.md#71-insurance){: .fa .fa-question-circle}
 
-The board determines the scale of remuneration and other emoluments of all the
-cooperative workers (if any).
+The board must insure the cooperative and its directors as required.
 
-### [Article 2: Continuing education](#article-2-continuing-education) [](commentary/by-law1.md#article-2-continuing-education){: .fa .fa-question-circle}
+### [7.2. Fiscal year](#72-fiscal-year) [](commentary/by-law1.md#72-fiscal-year){: .fa .fa-question-circle}
 
-The cooperative ensures the continuing education of its members, auxiliary
-members, directors and cooperative leaders matter in accordance with Article
-224.4.3 of the law.
+The fiscal year begins on January 1st of each year and ends on December 31st.
 
-### [Article 3: Rebates, measuring the volume of work](#article-3-rebates-measuring-the-volume-of-work) [](commentary/by-law1.md#article-3-rebates-measuring-the-volume-of-work){: .fa .fa-question-circle}
+### [7.3 Effective date](#73-effective-date) [](commentary/by-law1.md#73-effective-date){: .fa .fa-question-circle}
 
-The number of hours worked (may include unpaid work)
-OR
-the volume of transaction made with the cooperative during the last fiscal year
+This by-law is effective as of **[date]**.
 
-Any member admitted during a fiscal year, the number of hours worked (may
-include unpaid work) or volume of transaction with the cooperative is
-calculated from the first day performed as a member to the cooperative during
-that year.
+It rescinds and replaces any previous internal management by-law.
 
-### [Article 4: Valuation Reserve](#article-4-valuation-reserve) [](commentary/by-law1.md#article-4-valuation-reserve){: .fa .fa-question-circle}
 
-#### [Article 4.1: Constitution](article-41-constitution) [](commentary/by-law1.md#article-41-constitution){: .fa .fa-question-circle}
-
-For the purpose of enhancing the use of the Cooperative services, it is an
-enhancement reserve.
-
-#### [Article 4.2: Overpayments and surplus](#article-42-overpayments-and-surplus) [](commentary/by-law1.md#article-42-overpayments-and-surplus){: .fa .fa-question-circle}
-
-To the extent that the reserve is a positive balance, the Council may allocate
-to the enhancement reserve part of the surplus or not attributable to Member
-surpluses.
-
-Only the proportion of the operating surplus or surplus equivalent to the
-proportion of transactions with Members can be assigned to the enhancement
-reserve.
-
-#### [Article 4.3: Rebates](#article-43-rebates) [](commentary/by-law1.md#article-43-rebates){: .fa .fa-question-circle}
-
-Sums up the enhancement reserve may be paid in the form of rebates to
-individuals who cease to be members of the Cooperative, all in accordance with
-the policy established by the Board.
-
-#### [Article 4.4: Deficit](#article-44-deficit) [](commentary/by-law1.md#article-44-deficit){: .fa .fa-question-circle}
-
-In case of deficit, it is deducted in priority to the enhancement reserve.
-
-#### [Article 4.5: Liquidation](#article-45-liquidation) [](commentary/by-law1.md#article-45-liquidation){: .fa .fa-question-circle}
-
-In case of liquidation of the Cooperative, the balance of the enhancement
-reserve, if any, is given to the cooperative members in the five (5) financial
-years preceding that in which payment was passed. The balance is then shared in
-proportion to the volume of work performed by Members.
-
-### [Article 5: Suggestion and complaint](#article-5-suggestion-and-complaint) [](commentary/by-law1.md#article-5-suggestion-and-complaint){: .fa .fa-question-circle}
-
-Any suggestion or complaint concerning the company's operations must be
-submitted to X.
-
-### [Article 6: Insurance](#article-6-insurance) [](commentary/by-law1.md#article-6-insurance){: .fa .fa-question-circle}
-
-The board must ensure the cooperative against the following risks:
-
-* Public liability
-* Theft and fire
-* etc.
-
-### [Article 7: Financial exercise](#article-7-financial-exercise) [](commentary/by-law1.md#article-7-financial-exercise){: .fa .fa-question-circle}
-
-The fiscal year begins on X of each year and ends on the X of each year.
-
-### [Article 8: Signature](#article-8-signature) [](commentary/by-law1.md#article-8-signature){: .fa .fa-question-circle}
-
-Any check, bank or effect of exchange must be signed by two (2) three (3)
-persons appointed by the board.
-
-### [Article 9: Annual Report](#article-9-annual-report) [](commentary/by-law1.md#article-9-annual-report){: .fa .fa-question-circle}
-
-The annual report of the cooperative must be written in four months following
-the end of the financial year, in accordance with Article 132 of the law.
-
-** The annual report must include:
-
-* the name and address of the cooperative
-* the names of the directors and officers
-* a statement that the members agreed for this exercise not to elect a director
-  (if agreement administrators)
-* the number of members and auxiliary members
-* last year's financial statements
-* a state of the capital, including the claims of the shares, and forecasts
-  redemption of units
-* the auditor's report
-* the date of holding the General Meeting
-* the number of people employed by the cooperative
-* the name of the federation with which the union is affiliated, where
-  applicable member participation in cooperative training activities - other
-  information required by regulation
-
-### [Article 10: Coming Into Force](#article-10-coming-into-force) [](commentary/by-law1.md#article-10-coming-into-force){: .fa .fa-question-circle}
-
-This Regulation shall enter into force on **[date]**.
+Date: **[date]** _____________________________________
+                          Secretary
 
