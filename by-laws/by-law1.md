@@ -29,12 +29,15 @@ To become a member, a person must subscribe the following number of qualifying s
 
 Number of common shares | Number of preferred shares | Total
 ----------------------- | -------------------------- | -----
-One (1)                 | Four-hundred ninety (490)  | $500
+One (1)                 | Four-hundred ninety (490)  | $500 (USD)
 
 
 ### [2.2. Payment terms](#22-payment-terms) [](commentary/by-law1.md#22-payment-terms){: .fa .fa-question-circle}
 
-The member's qualifying shares are payable at the rate of twenty dollars ($20.00) cash on admission to membership and the balance in equal and consecutive monthly installments of forty dollars ($40.00) and the allotment of rebates;
+The member's qualifying shares are payable either:
+
+1. in full ($500.00) on admission to membership, or
+2. at the rate of twenty dollars ($20.00) cash on admission to membership and the balance in equal and consecutive monthly installments of forty dollars ($40.00).
 
 Where a dividend is declared, the amount allocated to the member goes directly against his debt to the cooperative as payment on the capital subscribed and unpaid.
 
