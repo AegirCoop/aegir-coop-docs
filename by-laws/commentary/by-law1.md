@@ -26,7 +26,11 @@ This is to determine the minimum level of financial commitment required to obtai
 
 Qualifying shares may be of two types: only common shares or common shares and preferred shares. It is recommended that the minimum common shares ($10.00) and the rest in preferred shares since the latter are eligible for significant tax advantages and may bear interest (this interest should be limited), which is not the case for the common shares.
 
+Common share represents one's engagement in the co-op, granting the right to be notified of general assemblies, vote at such meetings, etc. Preferred shares represent an investment in the co-op, but don't grant such rights; ref: [Section 49](http://canlii.ca/t/52jp7#sec49) of the Law.
+
 ### [2.2. Payment terms](#22-payment-terms) [](../by-law1.md#22-payment-terms){: .fa .fa-bookmark}
+
+We distinguish between the purchase price of the shares, and an acceptable payment schedule. The minimum qualifying investment is currently set at $500, but we allow a couple payment options, so as not to unnecessarily burden new members' cashflows.
 
 Qualifying shares may be paid in several ways: in full upon admission to membership or fixed payments. Although full payment upon admission proves a real commitment to the cooperative, requiring it could limit the admission of interesting candidates who do not have the necessary funds. 
 
