@@ -25,7 +25,7 @@ In this by-law, these terms are defined as follows:
 
 ### [2.1. Qualifying shares](#21-qualifying-shares) [](commentary/by-law1.md#21-qualifying-shares){: .fa .fa-question-circle}
 
-To become a member, a person must subscribe the following number of qualifying shares. The value of a common shares is ten dollars ($10.00) each and preferred shares is one dollar ($1.00) each.
+To become a member, a person must subscribe the following number of qualifying shares. The value of common shares is ten dollars ($10.00) each and preferred shares is one dollar ($1.00) each.
 
 Number of common shares | Number of preferred shares | Total
 ----------------------- | -------------------------- | -----
