@@ -30,7 +30,7 @@ Common share represents one's engagement in the co-op, granting the right to be 
 
 ### [2.2. Payment terms](#22-payment-terms) [](../by-law1.md#22-payment-terms){: .fa .fa-bookmark}
 
-We distinguish between the purchase price of the shares, and an acceptable payment schedule. The minimum qualifying investment is currently set at $500, but we allow a couple payment options, so as not to unnecessarily burden new members' cshflows.
+We distinguish between the purchase price of the shares, and an acceptable payment schedule. The minimum qualifying investment is currently set at $500, but we allow a couple payment options, so as not to unnecessarily burden new members' cashflows.
 
 Qualifying shares may be paid in several ways: in full upon admission to membership or fixed payments. Although full payment upon admission proves a real commitment to the cooperative, requiring it could limit the admission of interesting candidates who do not have the necessary funds. 
 
