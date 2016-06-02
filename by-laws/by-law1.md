@@ -52,9 +52,9 @@ The transfer of shares is effected by simple transcription in the register of me
 
 Subject to the restrictions set out in [Section 38](http://canlii.ca/t/52jp7#sec38) of the Act, the reimbursement of the common shares is carried out according to the following priorities:
 
-1. Death of a member 
-2. Resignation due to disability or retirement 
-3. Other resignations 
+1. Death of a member
+2. Resignation due to disability or retirement
+3. Other resignations
 4. Exclusions
 
 The reimbursement is then carried out in chronological order of the requests within each of the priorities stated above.
@@ -151,7 +151,7 @@ The term of office of a director is three (3) years.
 ### [5.4. Nomination of non-members directors](#54-nomination-of-non-members-directors) [](commentary/by-law1.md#54-nomination-of-non-members-directors){: .fa .fa-question-circle}
 
 1. Nominations of non-members as directors are recommended at the Assembly by the board which has previously provided consent of such persons; 
-2. Each nomination must be approved by the Assembly; 
+2. Each nomination must be approved by the Assembly;
 3. After acceptance, if the number of candidates equals the number of vacant position, candidates are elected by acclamation; 
 4. If the number of accepted candidates exceeds the number of positions to be filled, there is an election in accordance with the election procedure;
 5. If no nominations are accepted by the Assembly, it must fill the vacancy among the members of the cooperative.
@@ -160,7 +160,7 @@ The term of office of a director is three (3) years.
 
 The cooperative’s president and secretary are election chairman and secretary, unless they are nominated:
 
-1. The assembly names a scrutineer and, if need be, an election chairman and secretary. 
+1. The assembly names a scrutineer and, if need be, an election chairman and secretary.
    By agreeing to act in this capacity, these persons also agree to not be nominated.
 2. The chairman reads the names of the directors whose term haves ended.
 3. Afterward, he informs the assembly of the following points:
@@ -219,10 +219,10 @@ All previous acts and motions carried at board meetings are deemed to be regular
 
 ### [6.4. Treasurer](#64-treasurer) [](commentary/by-law1.md#64-treasurer){: .fa .fa-question-circle}
 
-1. He/she safe-keeps the portfolio, funds and accounting books and is responsible for the bookkeeping and accounting; 
-2. He/she must submit the books he safe-keeps to annual auditing and inspections prescribed by law; 
+1. He/she safe-keeps the portfolio, funds and accounting books and is responsible for the bookkeeping and accounting;
+2. He/she must submit the books he safe-keeps to annual auditing and inspections prescribed by law;
 3. In the three (3) months following the end of each fiscal year, he must prepare the annual report prescribed under section [132]() of the Act, cooperate with the auditor and submit the annual report to the board for approval; 
-4. He/she keeps up to date the register of the shares held by the members; 
+4. He/she keeps up to date the register of the shares held by the members;
 5. He/she performs all tasks related to his duties.
 
 ### [6.5. General Manager](#65-general-manager) [](commentary/by-law1.md#65-general-manager){: .fa .fa-question-circle}
