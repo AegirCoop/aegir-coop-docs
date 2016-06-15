@@ -9,6 +9,7 @@ extra_css:
   - '_css/images.css'
   - '_css/menu.css'
   - '_css/policy.css'
+  - '_css/signatures.css'
   - '_css/style.css'
   - '_css/toc.css'
 extra_javascript:
