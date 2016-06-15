@@ -1,8 +1,5 @@
-﻿ANNEX II
-========
-
-Application for admission as a member
--------------------------------------
+﻿Application for admission as a member
+=====================================
 
 Producers cooperative **[cooperative's name]**
 

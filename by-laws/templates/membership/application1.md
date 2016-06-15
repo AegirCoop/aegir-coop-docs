@@ -1,8 +1,5 @@
-﻿ANNEX I
-=======
-
-Application for admission as an auxiliary member
-------------------------------------------------
+﻿Application for admission as an auxiliary member
+================================================
 
 Producers cooperative **[cooperative's name]**
 

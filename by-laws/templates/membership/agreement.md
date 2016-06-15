@@ -1,22 +1,21 @@
-﻿ANNEX III
-=========
-
-Member Agreement
-----------------
+﻿Member Agreement
+================
 
 BETWEEN
 
 **[name of member]**
 
-Hereinafter referred (e) "THE MEMBER"
+OR
+
+**[name of organization]** incorporated under **[governing law]** on **[date]**, headquartered in **[city]**, **[province/state]**, represented by **[name]** and which declare themselves duly authorized for the purposes hereof;
+
+Hereinafter referred "THE MEMBER"
 
 AND
 
-Producer cooperative company **[cooperative's name]** under the Cooperatives
-Act, domiciled in **[city]** represented by **[name]** and which declare
-themselves duly authorized for the purposes hereof;
+The **Aegir Cooperative** incorporated under the Québec Cooperatives Act (R.S.Q. chapter C-67.2) on **[date]**, headquartered in Pointe-Claire, Québec, represented by **[name]** and which declare themselves duly authorized for the purposes hereof;
 
-Hereinafter called "COOPERATIVE".
+Hereinafter called "THE COOPERATIVE".
 
 Whereas the member is committed to comply with the laws of the cooperative.
 
