@@ -54,3 +54,6 @@ div.rst-content div.section ol li ol {
   margin-bottom: 0px;
 }
 
+blockquote > p {
+  font-size: xx-large;
+}
