@@ -11,7 +11,6 @@ of these bylaws.
 * [By-law 1: Governance](by-laws/by-law1.md)
 * [By-law 2: Rules on Borrowing and Warranties of Award](by-laws/by-law2.md)
 * [By-law 3: Rules on Mediation of Disputes](by-laws/by-law3.md)
-* [By-law 4: Rules on Valuation Reserve](by-laws/by-law4.md)
 
 ----
 

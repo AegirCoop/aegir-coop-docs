@@ -22,7 +22,6 @@ pages:
   - 'By-law 1: Governance': 'by-laws/by-law1.md'
   - 'By-law 2: Rules of Borrowing and Warranties of Award': 'by-laws/by-law2.md'
   - 'By-law 3: Rules on Mediation of Disputes': 'by-laws/by-law3.md'
-  - 'By-law 4: Rules on Valuation Reserve ': 'by-laws/by-law4.md'
   - 'Templates': 'by-laws/templates.md'
   - 'Templates':
     - 'Application for Admission as an Auxiliary Member': 'by-laws/templates/membership/application1.md'
@@ -37,7 +36,6 @@ pages:
     - 'Comments on By-law 1': 'by-laws/commentary/by-law1.md'
     - 'Comments on By-law 2': 'by-laws/commentary/by-law2.md'
     - 'Comments on By-law 3': 'by-laws/commentary/by-law3.md'
-    - 'Comments on By-law 4': 'by-laws/commentary/by-law4.md'
 - 'Policies': 'policies.md'
 - 'Policies':
   - 'Terms of Service': 'policies/terms-of-service.md'
