@@ -1,9 +1,10 @@
 Aegir Cooperative By-laws
 =========================
 
-This section hosts the Aegir Cooperative by-laws and their annexes. It also
-contains example and explanatory comments intended to provide context and
-guidance on the origin and application of these bylaws.
+This section hosts the Aegir Cooperative by-laws, along with templates for
+various resolutions and agreements. It also contains example and explanatory
+comments intended to provide context and guidance on the origin and application
+of these bylaws.
 
 ----
 
@@ -14,7 +15,6 @@ guidance on the origin and application of these bylaws.
 
 ----
 
-* [Annexes](by-laws/annexes.md)
 * [Templates](by-laws/templates.md)
 * [Commentary](by-laws/commentary.md)
 
