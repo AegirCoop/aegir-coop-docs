@@ -168,7 +168,7 @@ of the cooperative. Other considerations such as the effectiveness of the board
 or the centralization of power (or de-centralization) are often among the items
 discussed.
 
-### [5.3. Term of office](#53-term-of-office) [](commentary/by-law1.md#53-term-of-office){: .fa .fa-question-circle}
+### [5.3. Term of office](#53-term-of-office) [](../by-law1.md#53-term-of-office){: .fa .fa-question-circle}
 
 This is the period for which the director is elected. The maximum duration is
 three years. Directors whose term expires shall remain in office until they are

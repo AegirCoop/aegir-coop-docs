@@ -15,6 +15,6 @@ guidance on the origin and application of these bylaws.
 ----
 
 * [Annexes](by-laws/annexes.md)
-* [Examples](by-laws/examples.md)
+* [Templates](by-laws/templates.md)
 * [Commentary](by-laws/commentary.md)
 
