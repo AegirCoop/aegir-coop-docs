@@ -158,7 +158,7 @@ bylaws.
    Maturities on qualifying shares are those who are late according to the
    regulation.
 
-### [5.2. Composition](#52-composition) [](../by-law1.md#52-composition){: .fa .fa-question-circle}
+### [5.2. Composition](#52-composition) [](../by-law1.md#52-composition){: .fa .fa-bookmark}
 
 The number of directors, including non-members, is a minimum of three and a
 maximum of fifteen. An odd number is recommended to avoid ties in voting.
@@ -168,7 +168,7 @@ of the cooperative. Other considerations such as the effectiveness of the board
 or the centralization of power (or de-centralization) are often among the items
 discussed.
 
-### [5.3. Term of office](#53-term-of-office) [](../by-law1.md#53-term-of-office){: .fa .fa-question-circle}
+### [5.3. Term of office](#53-term-of-office) [](../by-law1.md#53-term-of-office){: .fa .fa-bookmark}
 
 This is the period for which the director is elected. The maximum duration is
 three years. Directors whose term expires shall remain in office until they are
