@@ -251,6 +251,14 @@ This by-law is effective as of **[date]**.
 It rescinds and replaces any previous internal management by-law.
 
 
-Date: **[date]** _____________________________________
-                          Secretary
+<table class=coop-signatures>
+  <tr>
+    <td> Date: _______________________________________ </td>
+    <td> __________________________________________________________</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>(Secretary)</td>
+  </tr>
+</table>
 

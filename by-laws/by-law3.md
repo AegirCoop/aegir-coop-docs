@@ -113,8 +113,14 @@ By-law](#article-7-conduct-of-the-mediation), the mediation ends:
 This regulation shall enter into force on **[date]**.
 
 
-
-
-Date: **[date]**
-Secretary: **[secretary's name]**
+<table class=coop-signatures>
+  <tr>
+    <td> Date: _______________________________________ </td>
+    <td> __________________________________________________________</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>(Secretary)</td>
+  </tr>
+</table>
 
