@@ -9,6 +9,7 @@ extra_css:
   - '_css/images.css'
   - '_css/menu.css'
   - '_css/policy.css'
+  - '_css/signatures.css'
   - '_css/style.css'
   - '_css/toc.css'
 extra_javascript:
@@ -22,24 +23,20 @@ pages:
   - 'By-law 1: Governance': 'by-laws/by-law1.md'
   - 'By-law 2: Rules of Borrowing and Warranties of Award': 'by-laws/by-law2.md'
   - 'By-law 3: Rules on Mediation of Disputes': 'by-laws/by-law3.md'
-  - 'By-law 4: Rules on Valuation Reserve ': 'by-laws/by-law4.md'
-  - 'Annexes': 'by-laws/annexes.md'
-  - 'Annexes':
-    - 'Annex I: Application for Admission as an Auxiliary Member': 'by-laws/annexes/annex1.md'
-    - 'Annex II: Application for Admission as a Member': 'by-laws/annexes/annex2.md'
-    - 'Annex III: Member Agreement': 'by-laws/annexes/annex3.md'
-  - 'Examples': 'by-laws/examples.md'
-  - 'Examples':
-    - 'Board Resolution on Admission as an Auxiliary Member': 'by-laws/examples/admission1.md'
-    - 'Board Resolution on Admission as a Producer Member': 'by-laws/examples/admission2.md'
-    - 'Board Resolution on Changes to Qualifying Shares': 'by-laws/examples/changes.md'
-    - 'Stock Qualifying Shares': 'by-laws/examples/shares.md'
+  - 'Templates': 'by-laws/templates.md'
+  - 'Templates':
+    - 'Application for Admission as an Auxiliary Member': 'by-laws/templates/membership/application1.md'
+    - 'Board Resolution on Admission as an Auxiliary Member': 'by-laws/templates/membership/admission1.md'
+    - 'Application for Admission as a Member': 'by-laws/templates/membership/application2.md'
+    - 'Board Resolution on Admission as a Producer Member': 'by-laws/templates/membership/admission2.md'
+    - 'Member Agreement': 'by-laws/templates/membership/agreement.md'
+    - 'Board Resolution on Changes to Qualifying Shares': 'by-laws/templates/shares/changes.md'
+    - 'Stock Qualifying Shares': 'by-laws/templates/shares/shares.md'
   - 'Commentary on Cooperative By-laws': 'by-laws/commentary.md'
   - 'Commentary on Cooperative By-laws':
     - 'Comments on By-law 1': 'by-laws/commentary/by-law1.md'
     - 'Comments on By-law 2': 'by-laws/commentary/by-law2.md'
     - 'Comments on By-law 3': 'by-laws/commentary/by-law3.md'
-    - 'Comments on By-law 4': 'by-laws/commentary/by-law4.md'
 - 'Policies': 'policies.md'
 - 'Policies':
   - 'Terms of Service': 'policies/terms-of-service.md'
