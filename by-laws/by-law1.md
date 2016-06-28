@@ -1,4 +1,4 @@
-Aegir Cooperative {: #coop-name}
+Ægir Cooperative {: #coop-name}
 =================
 
 [BY-LAW NUMBER 1: GOVERNANCE](#by-law-number-1-governance) [](commentary/by-law1.md#by-law-number-1-governance){: .fa .fa-question-circle}
@@ -13,7 +13,7 @@ Aegir Cooperative {: #coop-name}
 
 In this by-law, these terms are defined as follows:
 
-1. **"The cooperative"**: The Aegir Cooperative.
+1. **"The cooperative"**: The Ægir Cooperative.
 2. **"The Act"**: The Cooperatives Act, [CQLR c C-67.2](http://canlii.ca/t/x9f).
 3. **"The board"**: The cooperative's Board of Directors.
 4. **"Member"**: A natural person or an organization who uses the cooperative services for their professional needs in the IT sector.
