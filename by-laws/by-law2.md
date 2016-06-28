@@ -21,7 +21,7 @@ The General Assembly, under this by-law, authorizes the Board to:
 [SECRETARY’S CERTIFICATE](#secretarys-certificate) [](commentary/by-law2.md#secretarys-certificate){: .fa .fa-question-circle}
 -----------------------
 
-I, the undersigned, secretary of the cooperative, certify that By-Law number 2 was adopted by at least two thirds (2/3) of the votes cast at the Annual General Assembly held in New York City, on July 8th 2016. This By-Law recinds and replaces any prior loan and security grant By-Law.
+I, the undersigned, secretary of the cooperative, certify that By-Law number 2 was adopted by at least two thirds (2/3) of the votes cast at the General Organization Assembly held in New York City, on July 8th 2016. This By-Law recinds and replaces any prior loan and security grant By-Law.
 
 
 <table class=coop-signatures>
