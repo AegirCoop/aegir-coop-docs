@@ -4,6 +4,7 @@ Aegir Cooperative {: #coop-name}
 [BY-LAW NUMBER 1: GOVERNANCE](#by-law-number-1-governance) [](commentary/by-law1.md#by-law-number-1-governance){: .fa .fa-question-circle}
 =============================
 
+**DRAFT**
 
 [Chapter I:  Definitions](#chapter-i-definitions) [](commentary/by-law1.md#chapter-i-definitions){: .fa .fa-question-circle}
 -------------------------
@@ -246,7 +247,7 @@ The fiscal year begins on January 1st of each year and ends on December 31st.
 
 ### [7.3 Effective date](#73-effective-date) [](commentary/by-law1.md#73-effective-date){: .fa .fa-question-circle}
 
-This by-law is effective as of **[date]**.
+This by-law is effective as of July 8, 2016.
 
 It rescinds and replaces any previous internal management by-law.
 
