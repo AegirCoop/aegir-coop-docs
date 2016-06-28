@@ -1,9 +1,10 @@
-﻿Aegir Cooperative {: #coop-name}
+﻿Ægir Cooperative {: #coop-name}
 =================
 
 [BY-LAW NUMBER 2: LOAN AND SECURITY GRANTING](#by-law-number-2-loan-and-security-granting) [](commentary/by-law2.md#by-law-number-2-loan-and-security-granting){: .fa .fa-question-circle}
 =============================
 
+**DRAFT**
 
 [Chapter 1: Borrowing, Issuing Bonds and Mortgaging Assets](#chapter-1-borrowing-issuing-bonds-and-mortgaging-assets) [](commentary/by-law2.md#chapter-1-borrowing-issuing-bonds-and-mortgaging-assets){: .fa .fa-question-circle}
 -----------------------------------------------------
