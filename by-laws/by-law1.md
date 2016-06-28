@@ -17,7 +17,7 @@ In this by-law, these terms are defined as follows:
 3. **"The board"**: The cooperative's Board of Directors.
 4. **"Member"**: A natural person or an organization who uses the cooperative services for their professional needs in the IT sector.
 5. **"Auxiliary member"**: A natural person or an organization who uses the cooperative services for their professional needs in the IT sector during his probation period.
-6. **"Support provider member"**: A natural person or an organization who provides Aegir support on behalf of the cooperative.
+6. **"Support provider member"**: A member who provides Aegir support on behalf of the cooperative.
 
 
 [Chapter II: Capital Stock](#chapter-ii-capital-stock) [](commentary/by-law1.md#chapter-ii-capital-stock){: .fa .fa-question-circle}
