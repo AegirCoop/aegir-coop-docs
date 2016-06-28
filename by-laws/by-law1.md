@@ -224,7 +224,7 @@ All previous acts and motions carried at board meetings are deemed to be regular
 
 1. He/she safe-keeps the portfolio, funds and accounting books and is responsible for the bookkeeping and accounting;
 2. He/she must submit the books he safe-keeps to annual auditing and inspections prescribed by law;
-3. In the three (3) months following the end of each fiscal year, he must prepare the annual report prescribed under section [132]() of the Act, cooperate with the auditor and submit the annual report to the board for approval; 
+3. In the three (3) months following the end of each fiscal year, he must prepare the financial portions of the annual report prescribed under [Section 132](http://canlii.ca/t/52jp7#sec132) of the Act, cooperate with the auditor and submit these to the board for approval;
 4. He/she keeps up to date the register of the shares held by the members;
 5. He/she performs all tasks related to his duties.
 
