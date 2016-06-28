@@ -136,7 +136,7 @@ To be eligible as a director, a member must:
 
 ### [5.2. Composition](#52-composition) [](commentary/by-law1.md#52-composition){: .fa .fa-question-circle}
 
-The board is made up of three (3) directors.
+The board is made up of five (5) directors.
 
 One of these directors may be selected from non-members.
 
@@ -147,7 +147,7 @@ The term of office of a director is three (3) years.
 #### [5.3.1. Director rotation](#531-director-rotation) [](commentary/by-law1.md#531-director-rotation){: .fa .fa-question-circle}
 
 1. For the first three (3) years of the foundation of the cooperative, the term of office of the directors is as follows:
-    1. One (1) position will be up for election after the first year, one (1) position after the second year and the last position after the third year.
+    1. Two (2) positions will be up for election after the first year, two (2) positions after the second year and the last position after the third year.
 2. A random draw will determine the positions that will be up for election after the first and second years. 
 3. The term of office of the directors elected afterward will be three (3) years.
 
