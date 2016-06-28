@@ -1,11 +1,11 @@
-﻿Aegir Cooperative {: #coop-name}
+﻿Ægir Cooperative {: #coop-name}
 =================
 
 [BY-LAW NUMBER 2: LOAN AND SECURITY GRANTING](#by-law-number-2-loan-and-security-granting) [](../by-law2.md#by-law-number-2-loan-and-security-granting){: .fa .fa-bookmark}
 =============================
 
 
-[Chapter 1: Borrowing, Issuing Bonds and Mortgaging Assets](#chapter-1-borrowing-issuing-bonds-and-mortgaging-assets) [](../by-law2.md#chapter-1-borrowing-issuing-bonds-and-mortgaging-assets){: .fa .fa-bookmark}
+[Borrowing, Issuing Bonds and Mortgaging Assets](#borrowing-issuing-bonds-and-mortgaging-assets) [](../by-law2.md#borrowing-issuing-bonds-and-mortgaging-assets){: .fa .fa-bookmark}
 -----------------------------------------------------
 
 Any responsibility or authority not granted to the Board by the General Assembly, remains with the General Assembly. This by-law is required to allow the board to perform necessary financial transactions on behalf of the coop. While technically optional, it is standard practice to give this authority to the Board. The Assembly could, however, limit the amounts the Board is authorized to borrow, for example.

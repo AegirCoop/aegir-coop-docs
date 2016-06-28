@@ -6,8 +6,8 @@
 
 **DRAFT**
 
-[Chapter 1: Borrowing, Issuing Bonds and Mortgaging Assets](#chapter-1-borrowing-issuing-bonds-and-mortgaging-assets) [](commentary/by-law2.md#chapter-1-borrowing-issuing-bonds-and-mortgaging-assets){: .fa .fa-question-circle}
------------------------------------------------------
+[Borrowing, Issuing Bonds and Mortgaging Assets](#borrowing-issuing-bonds-and-mortgaging-assets) [](commentary/by-law2.md#borrowing-issuing-bonds-and-mortgaging-assets){: .fa .fa-question-circle}
+------------------------------------------------
 
 The General Assembly, under this by-law, authorizes the Board to:
 
