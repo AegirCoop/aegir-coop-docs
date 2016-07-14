@@ -6,13 +6,8 @@ Hereby, I, the undersigned, **[name of member]** member of
 **[name of the cooperative]**
 
 
-1. agree **[number]** share(s) Social of a qualification par value of ten
-   dollars ($10) each;
-
-OR
-
-2. agree **[number]** unit(s) Social with a nominal value of ten dollars
-   ($10) each and preferred shares in a **[number]** nominal value of one
+1. agree 1 unit(s) Social with a nominal value of ten dollars
+   ($10) each and preferred shares in a 490 nominal value of one
    dollar ($1) each.
 
 
