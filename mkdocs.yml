@@ -1,0 +1,22 @@
+site_name: Ægir Coop Ops Manual
+repo_url: https://gitlab.com/AegirCoop/ops
+theme: readthedocs
+site_favicon: '_images/favicon.ico'
+docs_dir: .
+site_dir: '/tmp/aegir-coop-docs/_site'
+extra_css:
+  - '_css/dashboard.css'
+  - '_css/icons.css'
+  - '_css/images.css'
+  - '_css/menu.css'
+  - '_css/policy.css'
+  - '_css/signatures.css'
+  - '_css/style.css'
+  - '_css/toc.css'
+extra_javascript:
+  - '_js/policy.js'
+  - '_js/dashboard.js'
+markdown_extensions:
+  - 'attr_list'
+pages:
+- 'Dashboard': 'index.md'

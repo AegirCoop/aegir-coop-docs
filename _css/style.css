@@ -1,0 +1,59 @@
+.wy-side-nav-search {
+  background-color: #0A1F36;
+}
+
+a.icon.icon-home:before {
+  background:url('../_images/logo.png');
+  width: 58px;
+  height: 38px;
+  content: '';
+  background-repeat: no-repeat;
+}
+
+a.icon.icon-home {
+  font-size: xx-large;
+  margin-bottom: 0;
+  color: #E3F6F7;
+}
+
+#coop-name {
+  font-size: x-large;
+  font-style: italic;
+  font-weight: 700;
+  font-family: "Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
+}
+
+h1 > a:visited, h1 > a,
+h2 > a:visited, h2 > a,
+h3 > a:visited, h3 > a,
+h4 > a:visited, h4 > a,
+h5 > a:visited, h5 > a,
+h6 > a:visited, h6 > a {
+  color: #404040;
+}
+
+h1 > a:hover,
+h2 > a:hover,
+h3 > a:hover,
+h4 > a:hover,
+h5 > a:hover,
+h6 > a:hover,
+a:hover.fa {
+  color: #2980B9;
+}
+
+div.rst-content div.section ol li {
+  list-style: lower-alpha;
+}
+
+div.rst-content div.section ol li ol li {
+  list-style: lower-roman;
+}
+
+div.rst-content div.section ol li ol {
+  margin-bottom: 0px;
+}
+
+blockquote > p {
+  font-size: xx-large;
+}
