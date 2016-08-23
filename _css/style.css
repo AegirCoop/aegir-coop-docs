@@ -42,14 +42,6 @@ a:hover.fa {
   color: #2980B9;
 }
 
-div.rst-content div.section ol li {
-  list-style: lower-alpha;
-}
-
-div.rst-content div.section ol li ol li {
-  list-style: lower-roman;
-}
-
 div.rst-content div.section ol li ol {
   margin-bottom: 0px;
 }

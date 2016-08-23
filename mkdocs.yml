@@ -20,3 +20,12 @@ markdown_extensions:
   - 'attr_list'
 pages:
 - 'Dashboard': 'index.md'
+- 'Ops Team': 'team.md'
+- 'Roles & Responsibilities': 'roles.md'
+- 'Services': 'services.md'
+- 'Services':
+  - 'Support': 'services/support.md' 
+  - 'Training': 'services/training.md' 
+- 'Resources': 'resources.md'
+- 'Resources':
+  - 'Infrastructure': 'resources/infra.md'
