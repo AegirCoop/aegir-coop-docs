@@ -9,11 +9,8 @@ are for the purposes of guidance and efficiency.
 Membership
 ----------
 
-* [Application for Admission as an Auxiliary Member](templates/membership/application1.md)
-* [Board Resolution on Admission as an Auxiliary Member](templates/membership/admission1.md)
-* [Application for Admission as a Member](templates/membership/application2.md)
-* [Board Resolution on Admission as a Producer Member](templates/membership/admission2.md)
-* [Member Agreement](templates/membership/agreement.md)
+* [Individual Membership](templates/membership/individual.md)
+* [Organizational Membership](templates/membership/organization.md)
 
 Shares
 ------
