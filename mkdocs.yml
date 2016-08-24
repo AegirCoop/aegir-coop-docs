@@ -40,9 +40,8 @@ pages:
       - 'Application for Admission as a Member': 'by-laws/templates/membership/organization/application2.md'
       - 'Board Resolution on Admission as a Producer Member': 'by-laws/templates/membership/organization/admission2.md'
       - 'Member Agreement': 'by-laws/templates/membership/organization/agreement.md'
-    - 'Shares':
-      - 'Board Resolution on Changes to Qualifying Shares': 'by-laws/templates/shares/changes.md'
-      - 'Stock Qualifying Shares': 'by-laws/templates/shares/shares.md'
+    - 'Board Resolution on Changes to Qualifying Shares': 'by-laws/templates/shares/changes.md'
+    - 'Stock Qualifying Shares': 'by-laws/templates/shares/shares.md'
   - 'Commentary on Cooperative By-laws': 'by-laws/commentary.md'
   - 'Commentary on Cooperative By-laws':
     - 'Comments on By-law 1': 'by-laws/commentary/by-law1.md'
