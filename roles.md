@@ -52,12 +52,12 @@ All Ops Team members are expected to:
 
 ### Support Technician
    
-* Provide [Tier 1 Support](/services/support.md#tier-1)
+* Provide [Tier 1 Support](../services/support#tier-1)
 
 ### Support Specialist
 
-* Provide [Tier 2 Support](/services/support.md#tier-1)
+* Provide [Tier 2 Support](../services/support#tier-2)
 
 ### Support Engineer
  
-* Provide [Tier 3 Support](/services/support.md#tier-1)
+* Provide [Tier 3 Support](../services/support#tier-3)
