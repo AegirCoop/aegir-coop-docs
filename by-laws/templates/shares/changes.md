@@ -4,26 +4,20 @@
 ACCORDING TO THE NATURE OF OPERATIONS
 -------------------------------------
 
-When the cooperative decided to make a change in the number of qualifying
-shares depending on the nature of the operations which the member participates,
-it replaces Article 2.1 of Regulation No. 1 by the following:
+If and when the cooperative decides to change the number of qualifying shares based on the nature of the operations which the member participates (i.e., producer members vs. consumer members), we will have to replace Article 2.1 of by-law 1 by something like the following:
 
 
 ### 2.1 Qualifying shares
 
-To become a member, a person must purchase the minimum amount of qualifying
-shares corresponding to the nature of the operations which it is mainly
-affected in the cooperative during a fiscal year.
+To become a member, a person must purchase the minimum number of qualifying shares corresponding to the nature of the operations with which they mainly interact with the cooperative during a fiscal year.
 
-Nature of operations | Minimum required shares
----- | -----
-**[operations]** | $**[value]**
-**[operations]** | $**[value]**
-**[operations]** | $**[value]**
-**[operations]** | $**[value]**
-**[operations]** | $**[value]**
+The value of common shares is ten dollars ($10.00) each and preferred shares is one dollar ($1.00) each.
 
-These shares may be fully subscribed for shares with a value of ten dollars
-($10) each to be subscribed or due to a share of ten dollars ($10) and the
-balance in preferred shares of a dollar ($1) each.
+Nature of operations | Number of common shares | Number of preferred shares | Total
+-------------------- | ----------------------- | -------------------------- | -----
+Producer Member      | One (1)                 | Four-hundred ninety (490)  | $500 (USD)
+Consumer Member      | One (1)                 | Ninety (90)                | $100 (USD)
+Reseller Member      | One (1)                 | Nine-hundred ninety (990)  | $1000 (USD)
+Worker Member        | One (1)                 | Forty (40)                 | $50 (USD)
+Supporting Member    | One (1)                 | Ninety (90)                | $100 (USD)
 
