@@ -12,6 +12,8 @@ extra_css:
   - '_css/signatures.css'
   - '_css/style.css'
   - '_css/toc.css'
+  - '_css/forms.css'
+  - '_css/print.css'
 extra_javascript:
   - '_js/policy.js'
   - '_js/menu.js'
@@ -47,6 +49,7 @@ pages:
     - 'Comments on By-law 1': 'by-laws/commentary/by-law1.md'
     - 'Comments on By-law 2': 'by-laws/commentary/by-law2.md'
     - 'Comments on By-law 3': 'by-laws/commentary/by-law3.md'
+    - 'Comments on Member Agreement': 'by-laws/commentary/agreement.md'
 - 'Policies': 'policies.md'
 - 'Policies':
   - 'Terms of Service': 'policies/terms-of-service.md'
