@@ -1,7 +1,7 @@
 Membership - Individual
 =======================
 
-This section contains examples forms and agreements related to individualal
+This section contains examples of forms and agreements related to individual
 membership within the coop. They do not form part of the by-laws, as such, and
 are for the purposes of guidance and efficiency.
 

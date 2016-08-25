@@ -1,24 +1,42 @@
 ﻿Admission as an auxiliary member
 ================================
 
-**[article 52]**
-
 RESOLUTION OF THE BOARD
 -----------------------
 
-WHEREAS **[name of person]** made a request adminission as an auxiliary member
-of the cooperative.
+<table>
+  <thead><th>Applicant</th></thead>
+  <tr>
+    <td> Organization: ___________________________________________________ </td>
+  </tr>
+  <tr>
+    <td> Representative: ___________________________________________________ </td>
+  </tr>
+</table>
 
-WHEREAS **[name of person]** meets all the requirements for admission as an
+Hereinafter referred to as "THE APPLICANT"
+
+WHEREAS the Applicant has made a request for admission as an auxiliary member of
+the cooperative.
+
+WHEREAS the Applicant meets all the requirements for admission as an
 auxiliary member.
 
-CONSIDERING that admission of an auxiliary member is a discretion of the Board.
+CONSIDERING that admission of an auxiliary member is at the discretion of the
+Board.
 
-It was moved by **[board member]**, seconded by **[board member]** supported
-and resolved:
+It was moved by <span class='underscore'>    </span>, seconded by <span class='underscore'>    </span>, supported and resolved:
 
-Admit **[person's name]** as an auxiliary member of the cooperative as of
-**[cooperative's name]**.
+Admit the Applicant as an auxiliary member of the cooperative as of <span class='underscore'>   </span>.
 
+<table class=coop-signatures>
+  <tr>
+    <td> Date: _______________________________________ </td>
+    <td> __________________________________________________________</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>(Secretary)</td>
+  </tr>
+</table>
 
-Adopted **[secreatary's signature?]**.

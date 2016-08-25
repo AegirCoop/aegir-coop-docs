@@ -12,6 +12,8 @@ extra_css:
   - '_css/signatures.css'
   - '_css/style.css'
   - '_css/toc.css'
+  - '_css/forms.css'
+  - '_css/print.css'
 extra_javascript:
   - '_js/policy.js'
   - '_js/menu.js'

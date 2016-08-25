@@ -1,44 +1,40 @@
-﻿Application for admission as a member
-=====================================
+﻿Application for admission as a producer member
+==============================================
 
-Producers cooperative **[cooperative's name]**
+I, the undersigned, as an authorized representative of the organization
+specified below, ask that said organization be admitted as a producer member of
+the Ægir Cooperative.
 
-I, the undersigned **[name]**, asked to be admitted as a member of the
-cooperative  **[cooperative's name]**
+I declare that the organization, its members, management and/or staff:
 
-I declare to have an interest as a user of the cooperative's services.
+* have an interest as a user of the cooperative's services.
+* are committed to providing its services to the cooperative when they are
+required.
+* undertake to respect the laws of the cooperative.
+* have completed a trial period as an auxiliaryr member of the cooperative.
 
-I am committed to providing my services to the cooperative when they are
-required and in accordance with the membership contract that I sign it.
+The organization agrees its members will participate in training, both on
+technical matters, as well as cooperative operations.
 
-I declare that my trial period as an auxiliary member of the cooperative is
-completed.
+The organization agrees to purchase and pay for the required shares, as set out
+in the by-laws.
 
-I undertake to respect the laws of the cooperative.
-
-* I agree **[number]** unit (s) Social (s) Qualification of ten dollars ($ 10)
-  each.
-
-OR
-
-* I agree **[number]** hand (s) Social (s) of ten dollars ($ 10) each and
-  **[number]** share (s) preferred one dollar ($ 1) each.
-
-These shares are payable in the manner determined by regulations.
-
-
-Signed at **[location]**, on .**[date]**	Par: **[applicant's signature]**
+| Organization Details | Authorized Representative |
+| -------------------- | ------------------------- |
+| Name:                | Name:                     |
+| Address:             | Title:                    |
+| Email:               | Email:                    |
+| Phone:               | Phone:                    |
 
 
-
-
-Adopted on **[date]**
-Comments:
-
-
-
-Refused on **[date]**
-Comments:
-
-
+<table class=coop-signatures>
+  <tr>
+    <td> Date: _______________________________________ </td>
+    <td> __________________________________________________________</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>(Authorized representative)</td>
+  </tr>
+</table>
 

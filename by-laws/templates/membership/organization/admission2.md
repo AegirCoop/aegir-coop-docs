@@ -1,25 +1,42 @@
 ﻿Admission as a producer member
 ==============================
 
-**[article 51]**
-
 RESOLUTION OF THE BOARD
 -----------------------
 
-WHEREAS **[name of person or company]** has made a request admission as
-producer member of the cooperative.
+<table>
+  <thead><th>Applicant</th></thead>
+  <tr>
+    <td> Organization: ___________________________________________________ </td>
+  </tr>
+  <tr>
+    <td> Representative: ___________________________________________________ </td>
+  </tr>
+</table>
 
-WHEREAS **[name of person or company]** meets all the conditions for admission
-as a producer member.
+Hereinafter referred to as "THE APPLICANT"
 
-WHEREAS the admission of a member is at discretion of the Board.
+WHEREAS the Applicant has made a request for admission as a producer member of
+the cooperative.
 
-It was Moved by **[board member]**, seconded by **[board member]** supported
-and resolved:
+WHEREAS the Applicant meets all the requirements for admission as a producer
+member.
 
-Admit **[name of person or company]** as a producer member of the cooperative
-as of **[date]**.
+CONSIDERING that admission of a producer member is at the discretion of the
+Board.
 
+It was moved by <span class='underscore'>    </span>, seconded by <span class='underscore'>    </span>, supported and resolved:
 
-Adopted **[secretary's signature?]**.
+Admit the Applicant as a producer member of the cooperative as of <span class='underscore'>   </span>.
+
+<table class=coop-signatures>
+  <tr>
+    <td> Adopted on: _______________________________________ </td>
+    <td> __________________________________________________________</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>(Secretary)</td>
+  </tr>
+</table>
 
