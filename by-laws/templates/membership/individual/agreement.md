@@ -5,7 +5,7 @@ BETWEEN
 
 **[name of member]**
 
-Hereinafter referred "THE MEMBER"
+Hereinafter referred to as "THE MEMBER"
 
 AND
 
@@ -43,4 +43,39 @@ The parties hereto agree as follows:
 10. <a name='point-10'></a>Any refusal by the Member to accept a contract offer that will make the Cooperative fail to fulfill the contract, other than for medical reasons, will be considered failure to perform the Member's obligations to the Cooperative within the meaning of paragraph 5 of [Article 57 of the Cooperatives Act (RSQ, c. C-67.2)](http://canlii.ca/t/52jp7#sec57) [](/by-laws/commentary/agreement.md#point-10){: .fa .fa-question-circle} 
 
 
+<table class=coop-signatures>
+  <tr>
+    <td> Signed at: _______________________________________ on _______________________</td>
+  </tr>
+</table>
+
+<table class=coop-signatures>
+
+  <thead><th>Member</th><th>Ægir Cooperative</th></thead>
+  <tr>
+    <td colspan='2'></td>
+  </tr>
+  <tr>
+    <td colspan='2'></td>
+  </tr>
+  <tr>
+    <td>________________________________________________</td>
+    <td>________________________________________________</td>
+  </tr>
+  <tr>
+    <td>(Member)</td>
+    <td>(Authorized signatory)</td>
+  </tr>
+   <tr>
+    <td colspan='2'></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>________________________________________________</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>(Authorized signatory)</td>
+  </tr>
+</table>
 
