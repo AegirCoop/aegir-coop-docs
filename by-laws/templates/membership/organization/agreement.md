@@ -38,7 +38,7 @@ The parties hereto agree as follows:
     1. The Member agrees to comply with this clause, effective the end of this Contract and during the 2 years after the resignation or expulsion of the Member.
     2. The former Member agrees not to offer services in competition with the cooperative's service offerings, to any customer of the cooperative.
     3. The former Member agrees to decline all requests for service from a customer of the Cooperative and to refer the customer to the Cooperative.
-    4. If the Cooperative loses a contract in favor of a Member or former Member, the Cooperative may demand compensation equal to the income from that client to the Cooperative during the last year, or a minimum amount of $ **[value]**.
+    4. If the Cooperative loses a contract in favor of a Member or former Member, the Cooperative may demand compensation equal to the income from that client to the Cooperative during the last year, or a minimum amount of $1000 (USD).
     5. This non-compete clause does not apply to customers who have a family relationship with the Member or former Member (immediate family member, a spouse of the member or immediate family member's spouse).
 10. <a name='point-10'></a>Any refusal by the Member to accept a contract offer that will make the Cooperative fail to fulfill the contract, other than for medical reasons, will be considered failure to perform the Member's obligations to the Cooperative within the meaning of paragraph 5 of [Article 57 of the Cooperatives Act (RSQ, c. C-67.2)](http://canlii.ca/t/52jp7#sec57) [](/by-laws/commentary/agreement.md#point-10){: .fa .fa-question-circle} 
 
