@@ -1,23 +1,31 @@
 ﻿STOCK QUALIFYING SHARES
 =======================
 
+<table class=coop-signatures>
+  <tr>
+    <td> Member: ___________________________________________________ </td>
+  </tr>
+</table>
 
-Hereby, I, the undersigned, **[name of member]** member of
-**[name of the cooperative]**
+I, the undersigned, member of the Ægir Cooperative, hereby agree to purchase:
 
+* 1 common share with a nominal value of ten dollars ($10 USD), and
+* 490 preferred shares with a nominal value of one dollar ($1 USD) each.
 
-1. agree 1 unit(s) Social with a nominal value of ten dollars
-   ($10) each and preferred shares in a 490 nominal value of one
-   dollar ($1) each.
+These shares are payable in accordance with the conditions set out in by-law number 1 of the Ægir Cooperative.
 
+<table class=coop-signatures>
+  <tr>
+    <td> Signed at: _______________________________________ on _______________________</td>
+  </tr>
+  <tr>
+    <td></td>
+  <tr>
+  </tr>
+    <td>________________________________________________</td>
+  </tr>
+  <tr>
+    <td>(Member)</td>
+  </tr>
+</table>
 
-These shares are payable in accordance with the conditions determined by the
-law number 1 of the cooperative.
-
-
-
-Signed at **[location]** on **[date]**.
-
-
-
-**[member's name]**
