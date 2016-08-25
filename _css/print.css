@@ -1,0 +1,7 @@
+@media print {
+
+  .wy-breadcrumbs {
+    display: none;
+  }
+
+}
