@@ -1,0 +1,35 @@
+site_name: Ægir Coop Ops Manual
+repo_url: https://gitlab.com/AegirCoop/ops
+theme: readthedocs
+site_favicon: '_images/favicon.ico'
+docs_dir: .
+site_dir: '/tmp/aegir-coop-docs/_site'
+extra_css:
+  - '_css/dashboard.css'
+  - '_css/icons.css'
+  - '_css/images.css'
+  - '_css/menu.css'
+  - '_css/policy.css'
+  - '_css/signatures.css'
+  - '_css/style.css'
+  - '_css/toc.css'
+extra_javascript:
+  - '_js/policy.js'
+  - '_js/dashboard.js'
+markdown_extensions:
+  - 'attr_list'
+pages:
+- 'Dashboard': 'index.md'
+- 'Ops Team': 'team.md'
+- 'Roles & Responsibilities': 'roles.md'
+- 'Services': 'services.md'
+- 'Services':
+  - 'Support': 'services/support.md' 
+  - 'Training': 'services/training.md' 
+  - 'Managed Services': 'services/managed.md' 
+  - 'Consulting': 'services/consulting.md' 
+  - 'Consulting':
+    - 'Rate Card': 'services/consulting/rate_card.md' 
+- 'Resources': 'resources.md'
+- 'Resources':
+  - 'Infrastructure': 'resources/infra.md'

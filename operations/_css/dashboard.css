@@ -1,0 +1,9 @@
+div.section table.dashboard {
+  display: inline-block;
+  vertical-align:top;
+  width: inherit;
+}
+
+td.dashboard {
+  display: none;
+}
