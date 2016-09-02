@@ -15,6 +15,5 @@ We are currently in the final phases of formalizing the cooperative, and will be
 Because we believe in full transparency, this site hosts documentation related to the Aegir Cooperative. It contains the following sections:
 
 * [Operations Manual](operations.md)
-* [By-laws](by-laws.md)
-* [Policies](policies.md)
+* [Governance](governance.md)
 
