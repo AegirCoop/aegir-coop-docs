@@ -15,91 +15,91 @@ Rate Card
   </thead>
   <tbody>
     <tr>
-      <td><a href="/roles#aegir-architect">Aegir Architect</a></td>
+      <td><a href="/operations/roles#aegir-architect">Aegir Architect</a></td>
       <td>Senior</td>
       <td>$150/hr.</td>
       <td>$200/hr.</td>
     </tr>
     <tr>
-      <td><a href="/roles#aegir-developer">Aegir Developer</a></td>
+      <td><a href="/operations/roles#aegir-developer">Aegir Developer</a></td>
       <td>Intermediate</td>
       <td>$125/hr.</td>
       <td>$175/hr.</td>
     </tr>
     <tr>
-      <td><a href="/roles#aegir-consultant">Aegir Consultant</a></td>
+      <td><a href="/operations/roles#aegir-consultant">Aegir Consultant</a></td>
       <td>Junior</td>
       <td>$100/hr.</td>
       <td>$150/hr.</td>
     </tr>
     <tr>
-      <td><a href="/roles#drupal-architect">Drupal Architect</a></td>
+      <td><a href="/operations/roles#drupal-architect">Drupal Architect</a></td>
       <td>Senior</td>
       <td>$150/hr.</td>
       <td>$200/hr.</td>
     </tr>
     <tr>
-      <td><a href="/roles#drupal-developer">Drupal Developer</a></td>
+      <td><a href="/operations/roles#drupal-developer">Drupal Developer</a></td>
       <td>Intermediate</td>
       <td>$125/hr.</td>
       <td>$175/hr.</td>
     </tr>
     <tr>
-      <td><a href="/roles#drupal-consultant">Drupal Consultant</a></td>
+      <td><a href="/operations/roles#drupal-consultant">Drupal Consultant</a></td>
       <td>Junior</td>
       <td>$100/hr.</td>
       <td>$150/hr.</td>
     </tr>
     <tr>
-      <td><a href="/roles#civicrm-architect">CiviCRM Architect</a></td>
+      <td><a href="/operations/roles#civicrm-architect">CiviCRM Architect</a></td>
       <td>Senior</td>
       <td>$150/hr.</td>
       <td>$200/hr.</td>
     </tr>
     <tr>
-      <td><a href="/roles#civicrm-developer">CiviCRM Developer</a></td>
+      <td><a href="/operations/roles#civicrm-developer">CiviCRM Developer</a></td>
       <td>Intermediate</td>
       <td>$125/hr.</td>
       <td>$175/hr.</td>
     </tr>
     <tr>
-      <td><a href="/roles#civicrm-consultant">CiviCRM Consultant</a></td>
+      <td><a href="/operations/roles#civicrm-consultant">CiviCRM Consultant</a></td>
       <td>Junior</td>
       <td>$100/hr.</td>
       <td>$150/hr.</td>
     </tr>
     <tr>
-      <td><a href="/roles#system-engineer">System Engineer</a></td>
+      <td><a href="/operations/roles#system-engineer">System Engineer</a></td>
       <td>Senior</td>
       <td>$150/hr.</td>
       <td>$200/hr.</td>
     </tr>
     <tr>
-      <td><a href="/roles#system-administrator">System Administrator</a></td>
+      <td><a href="/operations/roles#system-administrator">System Administrator</a></td>
       <td>Intermediate</td>
       <td>$125/hr.</td>
       <td>$175/hr.</td>
     </tr>
     <tr>
-      <td><a href="/roles#system-operator">System Operator</a></td>
+      <td><a href="/operations/roles#system-operator">System Operator</a></td>
       <td>Junior</td>
       <td>$100/hr.</td>
       <td>$150/hr.</td>
     </tr>
     <tr>
-      <td><a href="/roles#project-director">Program Manager</a></td>
+      <td><a href="/operations/roles#project-director">Program Manager</a></td>
       <td>Senior</td>
       <td>$125/hr.</td>
       <td>$175/hr.</td>
     </tr>
     <tr>
-      <td><a href="/roles#project-manager">Project Manager</a></td>
+      <td><a href="/operations/roles#project-manager">Project Manager</a></td>
       <td>Intermediate</td>
       <td>$100/hr.</td>
       <td>$150/hr.</td>
     </tr>
     <tr>
-      <td><a href="/roles#project-coordinator">Project Coordinator</a></td>
+      <td><a href="/operations/roles#project-coordinator">Project Coordinator</a></td>
       <td>Junior</td>
       <td>$75/hr.</td>
       <td>$125/hr.</td>

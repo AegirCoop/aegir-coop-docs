@@ -3,10 +3,10 @@
 
 The Co-op's services currently fall under two categories:
 
-* [Support](/services/support.md)
-* [Training](/services/training.md)
-* [Managed Services](/services/managed.md)
-* [Consulting](/services/consulting.md)
+* [Support](services/support.md)
+* [Training](services/training.md)
+* [Managed Services](services/managed.md)
+* [Consulting](services/consulting.md)
 
 
 Excluded Services

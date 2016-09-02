@@ -21,6 +21,22 @@ markdown_extensions:
   - 'attr_list'
 pages:
 - 'Home': 'index.md'
+- 'Operations': 'operations.md'
+- 'Operations':
+  - 'Dashboard': 'operations/dashboard.md'
+  - 'Ops Team': 'operations/team.md'
+  - 'Roles & Responsibilities': 'operations/roles.md'
+  - 'Services': 'operations/services.md'
+  - 'Services':
+    - 'Support': 'operations/services/support.md'
+    - 'Training': 'operations/services/training.md'
+    - 'Managed Services': 'operations/services/managed.md'
+    - 'Consulting': 'operations/services/consulting.md'
+    - 'Consulting':
+      - 'Rate Card': 'operations/services/consulting/rate_card.md'
+  - 'Resources': 'operations/resources.md'
+  - 'Resources':
+    - 'Infrastructure': 'operations/resources/infra.md'
 - 'By-laws': 'by-laws.md'
 - 'By-laws':
   - 'By-law 1: Governance': 'by-laws/by-law1.md'

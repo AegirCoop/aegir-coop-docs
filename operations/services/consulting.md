@@ -21,7 +21,7 @@ Engagement Models
 
 ### Managed Services
 
-See: [Managed Services](/services/managed.md)
+See: [Managed Services](../services/managed.md)
 
 ### Blocks of Time
 
