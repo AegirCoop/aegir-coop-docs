@@ -29,3 +29,5 @@ To update the live site with changes, mkdocs provides a simple command to do so:
 
     $ mkdocs gh-deploy --clean
 
+Since this is a shared/distributed document, you'll want to both `git pull` and commit/push regularly so that we can all keep up-to-date with changes.
+
