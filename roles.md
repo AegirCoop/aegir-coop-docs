@@ -61,3 +61,38 @@ All Ops Team members are expected to:
 ### Support Engineer
  
 * Provide [Tier 3 Support](../services/support#tier-3)
+
+
+Project Teams
+-------------
+
+### Aegir Architect
+
+### Aegir Developer
+
+### Aegir Consultant
+
+### Drupal Architect
+
+### Drupal Developer
+
+### Drupal Consultant
+
+### CiviCRM Architect
+
+### CiviCRM Developer
+
+### CiviCRM Consultant
+
+### System Engineer
+
+### System Administrator
+
+### System Operator
+
+### Program Manager
+
+### Project Manager
+
+### Project Coordinator
+
