@@ -5,6 +5,7 @@ site_favicon: '_images/favicon.ico'
 docs_dir: .
 site_dir: '/tmp/aegir-coop-docs/_site'
 extra_css:
+  - '_css/dashboard.css'
   - '_css/icons.css'
   - '_css/images.css'
   - '_css/menu.css'
@@ -17,48 +18,67 @@ extra_css:
 extra_javascript:
   - '_js/policy.js'
   - '_js/menu.js'
+  - '_js/dashboard.js'
 markdown_extensions:
   - 'attr_list'
 pages:
-- 'Home': 'index.md'
-- 'By-laws': 'by-laws.md'
-- 'By-laws':
-  - 'By-law 1: Governance': 'by-laws/by-law1.md'
-  - 'By-law 2: Rules of Borrowing and Warranties of Award': 'by-laws/by-law2.md'
-  - 'By-law 3: Rules on Mediation of Disputes': 'by-laws/by-law3.md'
-  - 'Templates': 'by-laws/templates.md'
-  - 'Templates':
-    - 'Individual Membership': 'by-laws/templates/membership/individual.md'
-    - 'Individual Membership':
-      - 'Application for Admission as an Auxiliary Member': 'by-laws/templates/membership/individual/application1.md'
-      - 'Board Resolution on Admission as an Auxiliary Member': 'by-laws/templates/membership/individual/admission1.md'
-      - 'Application for Admission as a Member': 'by-laws/templates/membership/individual/application2.md'
-      - 'Board Resolution on Admission as a Producer Member': 'by-laws/templates/membership/individual/admission2.md'
-      - 'Member Agreement': 'by-laws/templates/membership/individual/agreement.md'
-    - 'Organizational Membership': 'by-laws/templates/membership/organization.md'
-    - 'Organizational Membership':
-      - 'Application for Admission as an Auxiliary Member': 'by-laws/templates/membership/organization/application1.md'
-      - 'Board Resolution on Admission as an Auxiliary Member': 'by-laws/templates/membership/organization/admission1.md'
-      - 'Application for Admission as a Member': 'by-laws/templates/membership/organization/application2.md'
-      - 'Board Resolution on Admission as a Producer Member': 'by-laws/templates/membership/organization/admission2.md'
-      - 'Member Agreement': 'by-laws/templates/membership/organization/agreement.md'
-    - 'Board Resolution on Changes to Qualifying Shares': 'by-laws/templates/shares/changes.md'
-    - 'Stock Qualifying Shares': 'by-laws/templates/shares/shares.md'
-  - 'Commentary on Cooperative By-laws': 'by-laws/commentary.md'
-  - 'Commentary on Cooperative By-laws':
-    - 'Comments on By-law 1': 'by-laws/commentary/by-law1.md'
-    - 'Comments on By-law 2': 'by-laws/commentary/by-law2.md'
-    - 'Comments on By-law 3': 'by-laws/commentary/by-law3.md'
-    - 'Comments on Member Agreement': 'by-laws/commentary/agreement.md'
-- 'Policies': 'policies.md'
-- 'Policies':
-  - 'Terms of Service': 'policies/terms-of-service.md'
-  - 'Privacy Policy': 'policies/privacy-policy.md'
-  - 'Acceptable Use Policy': 'policies/acceptable-use-policy.md'
-- 'Standard Contracts': 'contracts.md'
-- 'Standard Contracts':
-    - 'Independent Contractor Agreement': 'contracts/contractor.md'
-    - 'Non-Disclosure Agreement (NDA)': 'contracts/non-disclosure.md'
-- 'Procedures': 'procedures.md'
-- 'Procedures':
-  - 'Signing Resolutions': 'procedures/signing.md'
+- 'Overview': 'index.md'
+- 'Operations': 'operations.md'
+- 'Operations':
+  - 'Dashboard': 'operations/dashboard.md'
+  - 'Ops Team': 'operations/team.md'
+  - 'Roles & Responsibilities': 'operations/roles.md'
+  - 'Services': 'operations/services.md'
+  - 'Services':
+    - 'Support': 'operations/services/support.md'
+    - 'Training': 'operations/services/training.md'
+    - 'Managed Services': 'operations/services/managed.md'
+    - 'Consulting': 'operations/services/consulting.md'
+    - 'Consulting':
+      - 'Rate Card': 'operations/services/consulting/rate_card.md'
+  - 'Resources': 'operations/resources.md'
+  - 'Resources':
+    - 'Infrastructure': 'operations/resources/infra.md'
+- 'Governance': 'governance.md'
+- 'Governance':
+  - 'By-laws': 'governance/by-laws.md'
+  - 'By-laws':
+    - 'By-law 1: Governance': 'governance/by-laws/by-law1.md'
+    - 'By-law 2: Rules of Borrowing and Warranties of Award': 'governance/by-laws/by-law2.md'
+    - 'By-law 3: Rules on Mediation of Disputes': 'governance/by-laws/by-law3.md'
+    - 'Templates': 'governance/by-laws/templates.md'
+    - 'Templates':
+      - 'Individual Membership': 'governance/by-laws/templates/membership/individual.md'
+      - 'Individual Membership':
+        - 'Application for Admission as an Auxiliary Member': 'governance/by-laws/templates/membership/individual/application1.md'
+        - 'Board Resolution on Admission as an Auxiliary Member': 'governance/by-laws/templates/membership/individual/admission1.md'
+        - 'Application for Admission as a Member': 'governance/by-laws/templates/membership/individual/application2.md'
+        - 'Board Resolution on Admission as a Producer Member': 'governance/by-laws/templates/membership/individual/admission2.md'
+        - 'Member Agreement': 'governance/by-laws/templates/membership/individual/agreement.md'
+      - 'Organizational Membership': 'governance/by-laws/templates/membership/organization.md'
+      - 'Organizational Membership':
+        - 'Application for Admission as an Auxiliary Member': 'governance/by-laws/templates/membership/organization/application1.md'
+        - 'Board Resolution on Admission as an Auxiliary Member': 'governance/by-laws/templates/membership/organization/admission1.md'
+        - 'Application for Admission as a Member': 'governance/by-laws/templates/membership/organization/application2.md'
+        - 'Board Resolution on Admission as a Producer Member': 'governance/by-laws/templates/membership/organization/admission2.md'
+        - 'Member Agreement': 'governance/by-laws/templates/membership/organization/agreement.md'
+      - 'Board Resolution on Changes to Qualifying Shares': 'governance/by-laws/templates/shares/changes.md'
+      - 'Stock Qualifying Shares': 'governance/by-laws/templates/shares/shares.md'
+    - 'Commentary on Cooperative governance/by-laws': 'governance/by-laws/commentary.md'
+    - 'Commentary on Cooperative governance/by-laws':
+      - 'Comments on By-law 1': 'governance/by-laws/commentary/by-law1.md'
+      - 'Comments on By-law 2': 'governance/by-laws/commentary/by-law2.md'
+      - 'Comments on By-law 3': 'governance/by-laws/commentary/by-law3.md'
+      - 'Comments on Member Agreement': 'governance/by-laws/commentary/agreement.md'
+  - 'Policies': 'governance/policies.md'
+  - 'Policies':
+    - 'Terms of Service': 'governance/policies/terms-of-service.md'
+    - 'Privacy Policy': 'governance/policies/privacy-policy.md'
+    - 'Acceptable Use Policy': 'governance/policies/acceptable-use-policy.md'
+  - 'Standard Contracts': 'governance/contracts.md'
+  - 'Standard Contracts':
+      - 'Independent Contractor Agreement': 'governance/contracts/contractor.md'
+      - 'Non-Disclosure Agreement (NDA)': 'governance/contracts/non-disclosure.md'
+  - 'Procedures': 'governance/procedures.md'
+  - 'Procedures':
+    - 'Signing Resolutions': 'governance/procedures/signing.md'
