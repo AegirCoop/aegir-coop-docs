@@ -137,12 +137,12 @@
         }, 
         {
             "location": "/operations/services/", 
-            "text": "\u00c6gir Cooperative Service Offerings\n\n\nThe Co-op's services currently fall under two categories:\n\n\n\n\nSupport\n\n\nTraining\n\n\nManaged Services\n\n\nConsulting\n\n\n\n\nExcluded Services\n\n\nWe have specifically decided \nnot\n to provide Aegir hosting services. Our reasoning here is that we want to help to build a thriving eco-system for Aegir. By providing hosting services, we would be competing against other participants in the eco-system, rather than supporting them.", 
+            "text": "\u00c6gir Cooperative Service Offerings\n\n\nThe Co-op's services currently fall under four categories:\n\n\n\n\nAegir \"vendor\" \nSupport\n provides the confidence that our experts will be available to help.\n\n\nTraining\n further builds your team's internal capacity.\n\n\nA number of regular, discrete tasks are offered as \nManaged Services\n.\n\n\nWhen your needs extend beyond any of the above, \nConsulting\n is available from the same team that maintains Aegir core and a significant number of contributed modules.\n\n\n\n\nExcluded Services\n\n\nWe have specifically decided \nnot\n to provide Aegir hosting services. Our reasoning here is that we want to help to build a thriving eco-system for Aegir. By providing hosting services, we would be competing against other participants in the eco-system, rather than supporting them.", 
             "title": "Services"
         }, 
         {
             "location": "/operations/services/#gir-cooperative-service-offerings", 
-            "text": "The Co-op's services currently fall under two categories:   Support  Training  Managed Services  Consulting", 
+            "text": "The Co-op's services currently fall under four categories:   Aegir \"vendor\"  Support  provides the confidence that our experts will be available to help.  Training  further builds your team's internal capacity.  A number of regular, discrete tasks are offered as  Managed Services .  When your needs extend beyond any of the above,  Consulting  is available from the same team that maintains Aegir core and a significant number of contributed modules.", 
             "title": "\u00c6gir Cooperative Service Offerings"
         }, 
         {
