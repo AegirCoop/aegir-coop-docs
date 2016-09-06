@@ -52,12 +52,12 @@
         }, 
         {
             "location": "/operations/roles/", 
-            "text": "Roles \n Responsibilities\n\n\n\n\n\n\nRoles \n Responsibilities\n\n\nGeneral Membership\n\n\nSupport Member\n\n\n\n\n\n\nBoard of Directors\n\n\nPresident\n\n\nVice-president\n\n\nSecretary\n\n\nTreasurer\n\n\n\n\n\n\nOperations Committee\n\n\nSupport Technician\n\n\nSupport Specialist\n\n\nSupport Engineer\n\n\n\n\n\n\nProject Teams\n\n\nAegir Architect\n\n\nAegir Developer\n\n\nAegir Consultant\n\n\nDrupal Architect\n\n\nDrupal Developer\n\n\nDrupal Consultant\n\n\nCiviCRM Architect\n\n\nCiviCRM Developer\n\n\nCiviCRM Consultant\n\n\nSystem Engineer\n\n\nSystem Administrator\n\n\nSystem Operator\n\n\nProgram Manager\n\n\nProject Manager\n\n\nProject Coordinator\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGeneral Membership\n\n\nAll members are expected to:\n\n\n\n\nAttend and participate in General Assemblies\n\n\n\n\nSupport Member\n\n\n\n\nTBD\n\n\n\n\nBoard of Directors\n\n\nAll directors are expected to:\n\n\n\n\nPrepare for, attend and participate in Board of Directors meetings\n\n\nHelp to set policy and direction for the Co-op\n\n\n\n\nPresident\n\n\nSee \nCo-op By-laws\n.\n\n\nVice-president\n\n\nSee \nCo-op By-laws\n.\n\n\nSecretary\n\n\nSee \nCo-op By-laws\n.\n\n\nTreasurer\n\n\nSee \nCo-op By-laws\n.\n\n\nOperations Committee\n\n\naka\n \nOps Team\n\n\nAll Ops Team members are expected to:\n\n\n\n\nPrepare for, attend and participate in weekly Ops Team meetings.\n\n\n\n\nSupport Technician\n\n\n\n\nProvide \nTier 1 Support\n\n\n\n\nSupport Specialist\n\n\n\n\nProvide \nTier 2 Support\n\n\n\n\nSupport Engineer\n\n\n\n\nProvide \nTier 3 Support\n\n\n\n\nProject Teams\n\n\nAegir Architect\n\n\nAegir Developer\n\n\nAegir Consultant\n\n\nDrupal Architect\n\n\nDrupal Developer\n\n\nDrupal Consultant\n\n\nCiviCRM Architect\n\n\nCiviCRM Developer\n\n\nCiviCRM Consultant\n\n\nSystem Engineer\n\n\nSystem Administrator\n\n\nSystem Operator\n\n\nProgram Manager\n\n\nProject Manager\n\n\nProject Coordinator", 
+            "text": "Roles \n Responsibilities\n\n\n\n\n\n\nRoles \n Responsibilities\n\n\nGeneral Membership\n\n\nSupport Member\n\n\n\n\n\n\nBoard of Directors\n\n\nPresident\n\n\nVice-president\n\n\nSecretary\n\n\nTreasurer\n\n\n\n\n\n\nOperations Committee\n\n\nSupport Technician\n\n\nSupport Specialist\n\n\nSupport Engineer\n\n\n\n\n\n\nProject Teams\n\n\nArchitect\n\n\nDeveloper\n\n\nConsultant\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGeneral Membership\n\n\nAll members are expected to:\n\n\n\n\nAttend and participate in General Assemblies\n\n\n\n\nSupport Member\n\n\n\n\nTBD\n\n\n\n\nBoard of Directors\n\n\nAll directors are expected to:\n\n\n\n\nPrepare for, attend and participate in Board of Directors meetings\n\n\nHelp to set policy and direction for the Co-op\n\n\n\n\nPresident\n\n\nSee \nCo-op By-laws\n.\n\n\nVice-president\n\n\nSee \nCo-op By-laws\n.\n\n\nSecretary\n\n\nSee \nCo-op By-laws\n.\n\n\nTreasurer\n\n\nSee \nCo-op By-laws\n.\n\n\nOperations Committee\n\n\naka\n \nOps Team\n\n\nAll Ops Team members are expected to:\n\n\n\n\nPrepare for, attend and participate in weekly Ops Team meetings.\n\n\n\n\nSupport Technician\n\n\n\n\nProvide \nTier 1 Support\n\n\n\n\nSupport Specialist\n\n\n\n\nProvide \nTier 2 Support\n\n\n\n\nSupport Engineer\n\n\n\n\nProvide \nTier 3 Support\n\n\n\n\nProject Teams\n\n\nArchitect\n\n\nIn addtion to the capabilities of a Developer, an Architect ought to:\n\n\n\n\nhave a complete understanding the the system's API, components and sub-systems;\n\n\nhave extensive experience architecting and deploying high-performance and highly-available instances of the system and related components.\n\n\nact as Program Manager, coordinating efforts across multiple projects.\n\n\n\n\nDeveloper\n\n\nIn addtion to the capabilities of a Consultant, a Developer ought to:\n\n\n\n\nhave a thorough knowledge of the system's developer documentation and APIs;\n\n\nhave extensive experience extending, modifying and debugging the system's behavior;\n\n\nbe able to develop and deploy high-quality extensions to the system;\n\n\nact as Project Manager, ensuring project deliverables are completed on time, on schedule and in scope.\n\n\n\n\nConsultant\n\n\nConsultants ought to:\n\n\n\n\nhave a thorough knowledge of the system's user and administrator documentation, community and other resources;\n\n\nhave extensive experience operating and configuring the system;\n\n\nbe able to expertly navigate and use the system's user interface and command-line tools;\n\n\nbe able to deploy and configure contributed extensions to the system; and\n\n\nact as Project Coordinator, maintaining project time-sheets, budgets and schedules.", 
             "title": "Roles & Responsibilities"
         }, 
         {
             "location": "/operations/roles/#roles-responsibilities", 
-            "text": "Roles   Responsibilities  General Membership  Support Member    Board of Directors  President  Vice-president  Secretary  Treasurer    Operations Committee  Support Technician  Support Specialist  Support Engineer    Project Teams  Aegir Architect  Aegir Developer  Aegir Consultant  Drupal Architect  Drupal Developer  Drupal Consultant  CiviCRM Architect  CiviCRM Developer  CiviCRM Consultant  System Engineer  System Administrator  System Operator  Program Manager  Project Manager  Project Coordinator", 
+            "text": "Roles   Responsibilities  General Membership  Support Member    Board of Directors  President  Vice-president  Secretary  Treasurer    Operations Committee  Support Technician  Support Specialist  Support Engineer    Project Teams  Architect  Developer  Consultant", 
             "title": "Roles &amp; Responsibilities"
         }, 
         {
@@ -121,79 +121,19 @@
             "title": "Project Teams"
         }, 
         {
-            "location": "/operations/roles/#aegir-architect", 
-            "text": "", 
-            "title": "Aegir Architect"
+            "location": "/operations/roles/#architect", 
+            "text": "In addtion to the capabilities of a Developer, an Architect ought to:   have a complete understanding the the system's API, components and sub-systems;  have extensive experience architecting and deploying high-performance and highly-available instances of the system and related components.  act as Program Manager, coordinating efforts across multiple projects.", 
+            "title": "Architect"
         }, 
         {
-            "location": "/operations/roles/#aegir-developer", 
-            "text": "", 
-            "title": "Aegir Developer"
+            "location": "/operations/roles/#developer", 
+            "text": "In addtion to the capabilities of a Consultant, a Developer ought to:   have a thorough knowledge of the system's developer documentation and APIs;  have extensive experience extending, modifying and debugging the system's behavior;  be able to develop and deploy high-quality extensions to the system;  act as Project Manager, ensuring project deliverables are completed on time, on schedule and in scope.", 
+            "title": "Developer"
         }, 
         {
-            "location": "/operations/roles/#aegir-consultant", 
-            "text": "", 
-            "title": "Aegir Consultant"
-        }, 
-        {
-            "location": "/operations/roles/#drupal-architect", 
-            "text": "", 
-            "title": "Drupal Architect"
-        }, 
-        {
-            "location": "/operations/roles/#drupal-developer", 
-            "text": "", 
-            "title": "Drupal Developer"
-        }, 
-        {
-            "location": "/operations/roles/#drupal-consultant", 
-            "text": "", 
-            "title": "Drupal Consultant"
-        }, 
-        {
-            "location": "/operations/roles/#civicrm-architect", 
-            "text": "", 
-            "title": "CiviCRM Architect"
-        }, 
-        {
-            "location": "/operations/roles/#civicrm-developer", 
-            "text": "", 
-            "title": "CiviCRM Developer"
-        }, 
-        {
-            "location": "/operations/roles/#civicrm-consultant", 
-            "text": "", 
-            "title": "CiviCRM Consultant"
-        }, 
-        {
-            "location": "/operations/roles/#system-engineer", 
-            "text": "", 
-            "title": "System Engineer"
-        }, 
-        {
-            "location": "/operations/roles/#system-administrator", 
-            "text": "", 
-            "title": "System Administrator"
-        }, 
-        {
-            "location": "/operations/roles/#system-operator", 
-            "text": "", 
-            "title": "System Operator"
-        }, 
-        {
-            "location": "/operations/roles/#program-manager", 
-            "text": "", 
-            "title": "Program Manager"
-        }, 
-        {
-            "location": "/operations/roles/#project-manager", 
-            "text": "", 
-            "title": "Project Manager"
-        }, 
-        {
-            "location": "/operations/roles/#project-coordinator", 
-            "text": "", 
-            "title": "Project Coordinator"
+            "location": "/operations/roles/#consultant", 
+            "text": "Consultants ought to:   have a thorough knowledge of the system's user and administrator documentation, community and other resources;  have extensive experience operating and configuring the system;  be able to expertly navigate and use the system's user interface and command-line tools;  be able to deploy and configure contributed extensions to the system; and  act as Project Coordinator, maintaining project time-sheets, budgets and schedules.", 
+            "title": "Consultant"
         }, 
         {
             "location": "/operations/services/", 
@@ -397,12 +337,12 @@
         }, 
         {
             "location": "/operations/services/consulting/rate_card/", 
-            "text": "Rate Card\n\n\n\n  \n\n    \n\n      \nTitle\n\n      \nExperience-\nlevel\n\n      \nHourly range\n\n    \n\n    \n\n      \nLow\n\n      \nHigh\n\n    \n\n  \n\n  \n\n    \n\n      \nAegir Architect\n\n      \nSenior\n\n      \n$150/hr.\n\n      \n$200/hr.\n\n    \n\n    \n\n      \nAegir Developer\n\n      \nIntermediate\n\n      \n$125/hr.\n\n      \n$175/hr.\n\n    \n\n    \n\n      \nAegir Consultant\n\n      \nJunior\n\n      \n$100/hr.\n\n      \n$150/hr.\n\n    \n\n    \n\n      \nDrupal Architect\n\n      \nSenior\n\n      \n$150/hr.\n\n      \n$200/hr.\n\n    \n\n    \n\n      \nDrupal Developer\n\n      \nIntermediate\n\n      \n$125/hr.\n\n      \n$175/hr.\n\n    \n\n    \n\n      \nDrupal Consultant\n\n      \nJunior\n\n      \n$100/hr.\n\n      \n$150/hr.\n\n    \n\n    \n\n      \nCiviCRM Architect\n\n      \nSenior\n\n      \n$150/hr.\n\n      \n$200/hr.\n\n    \n\n    \n\n      \nCiviCRM Developer\n\n      \nIntermediate\n\n      \n$125/hr.\n\n      \n$175/hr.\n\n    \n\n    \n\n      \nCiviCRM Consultant\n\n      \nJunior\n\n      \n$100/hr.\n\n      \n$150/hr.\n\n    \n\n    \n\n      \nSystem Engineer\n\n      \nSenior\n\n      \n$150/hr.\n\n      \n$200/hr.\n\n    \n\n    \n\n      \nSystem Administrator\n\n      \nIntermediate\n\n      \n$125/hr.\n\n      \n$175/hr.\n\n    \n\n    \n\n      \nSystem Operator\n\n      \nJunior\n\n      \n$100/hr.\n\n      \n$150/hr.\n\n    \n\n    \n\n      \nProgram Manager\n\n      \nSenior\n\n      \n$125/hr.\n\n      \n$175/hr.\n\n    \n\n    \n\n      \nProject Manager\n\n      \nIntermediate\n\n      \n$100/hr.\n\n      \n$150/hr.\n\n    \n\n    \n\n      \nProject Coordinator\n\n      \nJunior\n\n      \n$75/hr.\n\n      \n$125/hr.", 
+            "text": "Rate Card\n\n\n\n\n\n\n\n\nTitle\n\n\nHourly rate\n\n\n\n\n\n\n\n\n\n\nAegir Architect\n\n\n$150-200/hr\n\n\n\n\n\n\nAegir Developer\n\n\n$125-175/hr\n\n\n\n\n\n\nAegir Consultant\n\n\n$100-150/hr\n\n\n\n\n\n\n\n\nWhile we specilize in Aegir, we also extensive experience and expertise in all aspects of Drupal, CiviCRM and systems administration, consulting, development and architecture.\n\n\nOur hourly rate ranges are based on the experience of the individual team member, as well as the nature of the work involved, among other things. Factors that we consider to push it towards the top of the range include pressing time-frames and requiring travel.\n\n\nOn the other hand, if the work entailed will likely result in upstream improvements, such as new features or bugfixes in Aegir or other components, we'll accept a lower rate. In addition, we can offer solidarity discounts to non-profits and fellow cooperatives.", 
             "title": "Rate Card"
         }, 
         {
             "location": "/operations/services/consulting/rate_card/#rate-card", 
-            "text": "Title \n       Experience- level \n       Hourly range \n     \n     \n       Low \n       High \n     \n   \n   \n     \n       Aegir Architect \n       Senior \n       $150/hr. \n       $200/hr. \n     \n     \n       Aegir Developer \n       Intermediate \n       $125/hr. \n       $175/hr. \n     \n     \n       Aegir Consultant \n       Junior \n       $100/hr. \n       $150/hr. \n     \n     \n       Drupal Architect \n       Senior \n       $150/hr. \n       $200/hr. \n     \n     \n       Drupal Developer \n       Intermediate \n       $125/hr. \n       $175/hr. \n     \n     \n       Drupal Consultant \n       Junior \n       $100/hr. \n       $150/hr. \n     \n     \n       CiviCRM Architect \n       Senior \n       $150/hr. \n       $200/hr. \n     \n     \n       CiviCRM Developer \n       Intermediate \n       $125/hr. \n       $175/hr. \n     \n     \n       CiviCRM Consultant \n       Junior \n       $100/hr. \n       $150/hr. \n     \n     \n       System Engineer \n       Senior \n       $150/hr. \n       $200/hr. \n     \n     \n       System Administrator \n       Intermediate \n       $125/hr. \n       $175/hr. \n     \n     \n       System Operator \n       Junior \n       $100/hr. \n       $150/hr. \n     \n     \n       Program Manager \n       Senior \n       $125/hr. \n       $175/hr. \n     \n     \n       Project Manager \n       Intermediate \n       $100/hr. \n       $150/hr. \n     \n     \n       Project Coordinator \n       Junior \n       $75/hr. \n       $125/hr.", 
+            "text": "Title  Hourly rate      Aegir Architect  $150-200/hr    Aegir Developer  $125-175/hr    Aegir Consultant  $100-150/hr     While we specilize in Aegir, we also extensive experience and expertise in all aspects of Drupal, CiviCRM and systems administration, consulting, development and architecture.  Our hourly rate ranges are based on the experience of the individual team member, as well as the nature of the work involved, among other things. Factors that we consider to push it towards the top of the range include pressing time-frames and requiring travel.  On the other hand, if the work entailed will likely result in upstream improvements, such as new features or bugfixes in Aegir or other components, we'll accept a lower rate. In addition, we can offer solidarity discounts to non-profits and fellow cooperatives.", 
             "title": "Rate Card"
         }, 
         {
