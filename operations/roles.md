@@ -66,33 +66,29 @@ All Ops Team members are expected to:
 Project Teams
 -------------
 
-### Aegir Architect
+### Architect
 
-### Aegir Developer
+In addtion to the capabilities of a Developer, an Architect ought to:
 
-### Aegir Consultant
+* have a complete understanding the the system's API, components and sub-systems;
+* have extensive experience architecting and deploying high-performance and highly-available instances of the system and related components.
+* act as Program Manager, coordinating efforts across multiple projects.
 
-### Drupal Architect
+### Developer
 
-### Drupal Developer
+In addtion to the capabilities of a Consultant, a Developer ought to:
 
-### Drupal Consultant
+* have a thorough knowledge of the system's developer documentation and APIs;
+* have extensive experience extending, modifying and debugging the system's behavior;
+* be able to develop and deploy high-quality extensions to the system;
+* act as Project Manager, ensuring project deliverables are completed on time, on schedule and in scope.
 
-### CiviCRM Architect
+### Consultant
 
-### CiviCRM Developer
+Consultants ought to:
 
-### CiviCRM Consultant
-
-### System Engineer
-
-### System Administrator
-
-### System Operator
-
-### Program Manager
-
-### Project Manager
-
-### Project Coordinator
-
+* have a thorough knowledge of the system's user and administrator documentation, community and other resources;
+* have extensive experience operating and configuring the system;
+* be able to expertly navigate and use the system's user interface and command-line tools;
+* be able to deploy and configure contributed extensions to the system; and
+* act as Project Coordinator, maintaining project time-sheets, budgets and schedules.
