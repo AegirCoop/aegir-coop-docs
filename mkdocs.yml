@@ -26,8 +26,6 @@ pages:
 - 'Operations': 'operations.md'
 - 'Operations':
   - 'Dashboard': 'operations/dashboard.md'
-  - 'Ops Team': 'operations/team.md'
-  - 'Roles & Responsibilities': 'operations/roles.md'
   - 'Services': 'operations/services.md'
   - 'Services':
     - 'Support': 'operations/services/support.md'
@@ -39,9 +37,7 @@ pages:
     - 'Consulting': 'operations/services/consulting.md'
     - 'Consulting':
       - 'Rate Card': 'operations/services/consulting/rate_card.md'
-  - 'Resources': 'operations/resources.md'
-  - 'Resources':
-    - 'Infrastructure': 'operations/resources/infra.md'
+  - 'Roles & Responsibilities': 'operations/roles.md'
 - 'Governance': 'governance.md'
 - 'Governance':
   - 'By-laws': 'governance/by-laws.md'

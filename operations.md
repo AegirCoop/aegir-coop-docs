@@ -6,7 +6,5 @@ This section is our Operations Manual. It describes how we do things here at the
 It contains the following sub-sections:
 
 * A [dashboard](operations/dashboard.md) to get an overview of current operational status and convenient links to other resources.
-* A contact list for the [Ops Team](operations/team.md) (a.k.a. the Operations Committee).
-* A breakdown of the [roles and responsibilities](operations/roles.md) expected of members of the cooperative.
 * A listing of the [services](operations/services.md) provided by the cooperative.
-* Infrastructure, hosted services and other external [resources](operations/resources.md) available to the co-op.
+* A breakdown of the [roles and responsibilities](operations/roles.md) expected of members of the cooperative.
