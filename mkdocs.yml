@@ -31,6 +31,9 @@ pages:
   - 'Services': 'operations/services.md'
   - 'Services':
     - 'Support': 'operations/services/support.md'
+    - 'Support':
+      - 'Technical Support': 'operations/services/support/model.md'
+      - 'Enterprise Support': 'operations/services/support/enterprise.md'
     - 'Training': 'operations/services/training.md'
     - 'Managed Services': 'operations/services/managed.md'
     - 'Consulting': 'operations/services/consulting.md'
