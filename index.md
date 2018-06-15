@@ -17,3 +17,17 @@ Because we believe in full transparency, this site hosts documentation related t
 * [Operations Manual](operations.md)
 * [Governance](governance.md)
 
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="Q6ZGXCSFM636Q">
+<table>
+<tr><td><input type="hidden" name="on0" value="Which support level would you like?">Which support level would you like?</td></tr><tr><td><select name="os0">
+	<option value="Community">Community : $5.00 USD - monthly</option>
+	<option value="Basic">Basic : $20.00 USD - monthly</option>
+	<option value="Standard">Standard : $40.00 USD - monthly</option>
+	<option value="Premium">Premium : $80.00 USD - monthly</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="/_images/btn_subscribe_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+</form>
